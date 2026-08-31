@@ -82,6 +82,7 @@ stranger but explicit hypotheses.
 - Fast path for the science: [Research map](RESEARCH_MAP.md)
 - Fast path for the historical context: [Historical context](HISTORICAL_CONTEXT.md)
 - Fast path for project directions: [Project tracks](PROJECT_TRACKS.md)
+- Publishing and outreach kit: [Publishing plan](PUBLISHING.md)
 - Fast path for the possibilities: [Scenario index](scenarios/)
 - Fast path for the wild ideas: [Speculative sandbox](SPECULATIVE_SANDBOX.md)
 - [Module chapters](modules/)
