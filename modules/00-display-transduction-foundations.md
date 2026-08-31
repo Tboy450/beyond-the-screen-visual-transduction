@@ -1,10 +1,12 @@
-# 00. CRT Case Study
+# 00. Display Transduction Foundations
 
-The cathode-ray tube is one useful case study because it turns invisible
-electrical information into visible experience through a clear chain of
-physical transformations.
+Display systems are foundational examples for this encyclopedia because they
+show how encoded information becomes a controlled perceptual event through
+physical conversion, addressing, timing, and biological reception.
 
-## Route
+## One Concrete Route
+
+A CRT gives one concrete route because its parts are physically explicit:
 
 ```text
 video signal
@@ -34,19 +36,19 @@ video signal
 
 ## Why It Matters
 
-A CRT is not only a display. It is an information transduction machine. It
-shows that an image can be created by scanning a small event across a target
-fast enough that the observer experiences a stable whole.
+A display is not only a picture surface. It is an information transduction
+machine. CRTs show that an image can be created by scanning a small event
+across a target fast enough that the observer experiences a stable whole.
 
-This gives the core analogy for the rest of the encyclopedia:
+This gives one core model for the rest of the encyclopedia:
 
 ```text
 controlled stimulus + spatial addressing + biological integration = percept
 ```
 
-## Lessons For Screenless Interfaces
+## Lessons For Visual Transduction Interfaces
 
-| CRT Principle | Generalized Principle |
+| Display Principle | Generalized Principle |
 | --- | --- |
 | Beam scanning | A small number of channels can address many positions over time. |
 | Phosphor response | The target's response matters as much as the carrier. |
@@ -55,7 +57,7 @@ controlled stimulus + spatial addressing + biological integration = percept
 | RGB phosphors | Color or feature channels can be multiplexed. |
 | Analog signal | Not all image information has to be digital pixels. |
 
-## Color CRT As A Sub-Architecture
+## Channel Separation As A Sub-Architecture
 
 Color CRTs add another layer:
 
@@ -66,11 +68,11 @@ blue signal -> blue phosphor
 combined output -> perceived color
 ```
 
-The key lesson is channel separation. A future prosthetic or screenless system
-might not have RGB channels, but it could have separate channels for brightness,
-edge orientation, motion, depth, hazard, or object identity.
+The key lesson is channel separation. A future visual-transduction system might
+not have RGB channels, but it could have separate channels for brightness, edge
+orientation, motion, depth, hazard, or object identity.
 
-## Limits Of The Analogy
+## Limits Of The Display Comparison
 
 - Electrons in a CRT travel inside a vacuum tube, not freely through air or
   tissue.
@@ -86,4 +88,3 @@ edge orientation, motion, depth, hazard, or object identity.
 - [03. Carriers](03-carriers.md)
 - [04. Transducers](04-transducers.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
-

@@ -1,23 +1,24 @@
-# The Screenless Sight Codex: Particles, Pixels, and Perception From Electrons to Experience
+# The Screenless Sight Codex: Visual Transduction Technology From Signals To Perception
 
 Author: Tristan Hash
 
-Signals -> sight -> mind.
+Signals -> carriers -> transducers -> perception.
 
-What if the screen is only one temporary stop on the way from electricity to
-experience?
+What if visual technology is best understood as a chain of transformations:
+encoded information moving through carriers, conversion layers, biological
+interfaces, and learned perception?
 
-This modular encyclopedia examines how visual information can be transformed,
-carried, and reconstructed without depending on a conventional external screen.
-It follows possible handoffs through optics, retina, cortex, sensory
-substitution, semantic cues, and memory-adjacent frontier concepts.
+The map spans visual transduction technology: display physics, signal encoding,
+carriers, transducers, eye optics, retinal and cortical interfaces, sensory
+substitution, semantic cues, and memory-adjacent frontier concepts. CRTs are
+included where their engineering helps clarify signal, carrier, addressing,
+conversion, and perception, but no single display type defines the project.
 
-Current focus: test which intermediate media can be removed, compressed,
+Current focus: test how intermediate media can be removed, compressed,
 rerouted, or newly introduced. Instead of assuming that a full image must pass
-through every layer, this project also examines systems where trained
-perception becomes part of the medium: pixels become features, features become
-cues, and cues become usable experience through attention, motion, learning,
-and memory.
+through every layer, the path also includes systems where trained perception
+becomes part of the medium: pixels become features, features become cues, and
+cues become usable experience through attention, motion, learning, and memory.
 
 This is a documentation-only project. There is no Python program, no build
 system, and no app runtime. The repository is meant to become a structured
@@ -25,45 +26,42 @@ knowledge base.
 
 ## Core Question
 
-Old cathode-ray tube televisions are useful because they make the whole chain
-visible:
+Visual technologies can be read as transformation chains:
 
 ```text
-encoded signal
--> electron emission
--> accelerated electron beam
--> magnetic steering
--> phosphor excitation
--> visible light
--> eye optics
--> retina
--> optic nerve
--> visual cortex
--> perception
+information source
+-> encoding
+-> carrier
+-> transducer
+-> visual or sensory interface
+-> neural representation
+-> learned perception
+-> action, interpretation, or memory
 ```
 
-The encyclopedia asks:
+Core question:
 
-> If the screen is only one transducer in the chain, what other transducers,
-> carriers, biological targets, and representational layers could carry visual
-> information toward perception?
+> How can visual information be encoded, carried, converted, and learned across
+> different physical and biological interfaces, from ordinary displays to
+> screenless and prosthetic perception systems?
 
 ## Why It Matters
 
-The CRT makes the hidden pipeline visible. Once the image is understood as a
-chain of transformations instead of a rectangle on glass, every stage becomes a
-possible invention point: change the carrier, move the transducer, compress the
-signal, bypass a damaged layer, or invent a new perceptual language.
+Once visual experience is understood as a chain of transformations instead of
+only a rectangle on glass, every stage becomes a possible invention point:
+change the carrier, move the transducer, compress the signal, bypass a damaged
+layer, or invent a new perceptual language.
 
-That is the spirit of this project: follow the known science closely, then use
-it as a launch point for stranger but more explicit hypotheses.
+The path stays close to known science and engineering, then moves outward into
+stranger but explicit hypotheses.
 
 ## What This Project Is
 
-- A map of the "electricity to perception" process.
-- A glossary and scenario library for display physics and visual neuroscience.
-- A place to compare established display technology, prosthetic vision research,
-  speculative screenless displays, and far-edge frontier concepts.
+- A map of visual transduction from encoded information to perception.
+- A glossary and scenario library for display systems, visual neuroscience,
+  assistive interfaces, sensory substitution, and prosthetic vision.
+- A place to compare established displays, near-eye optics, retinal and
+  cortical prostheses, semantic cue systems, and far-edge frontier concepts.
 - A framework for adding modules without losing track of where each idea sits
   in the chain.
 - A sandbox for unusual ideas, as long as each idea says what would need to be
@@ -82,7 +80,7 @@ it as a launch point for stranger but more explicit hypotheses.
 ## Browse The Encyclopedia
 
 - Fast path for the science: [Research map](RESEARCH_MAP.md)
-- Fast path for the historical argument: [Historical context](HISTORICAL_CONTEXT.md)
+- Fast path for the historical context: [Historical context](HISTORICAL_CONTEXT.md)
 - Fast path for project directions: [Project tracks](PROJECT_TRACKS.md)
 - Fast path for the possibilities: [Scenario index](scenarios/)
 - Fast path for the wild ideas: [Speculative sandbox](SPECULATIVE_SANDBOX.md)
@@ -110,9 +108,8 @@ it as a launch point for stranger but more explicit hypotheses.
 
 ## Speculation Policy
 
-Speculation is welcome here. The point of the encyclopedia is not only to
-summarize what already exists, but to expose the hidden design space around
-screens, eyes, signals, transducers, perception, and memory.
+Speculative entries should expose the hidden design space around signals,
+carriers, transducers, sensory interfaces, perception, and memory.
 
 The rule is:
 
@@ -169,12 +166,11 @@ display.
 
 ## Conceptual Ladder
 
-This ladder keeps the encyclopedia organized from least speculative to most
-speculative.
+The ladder moves from least speculative to most speculative.
 
 | Level | Name | Description |
 | --- | --- | --- |
-| 1 | Normal display physics | CRT, plasma, LCD, OLED, and MicroLED systems that create visible images outside the body. |
+| 1 | Conventional display systems | CRT, plasma, LCD, OLED, and MicroLED systems that create visible images outside the body. |
 | 2 | Near-eye optics | Headsets, waveguides, retinal projection, and scanned-light systems that still use normal vision. |
 | 3 | Assisted retinal input | Systems that enhance or replace part of the optical input while still relying on retinal processing. |
 | 4 | Retinal neural prosthesis | Electrical or optogenetic interfaces that stimulate retinal cells directly. |
@@ -186,15 +182,14 @@ speculative.
 | 10 | Memory interface frontier | Direct memory writing is not established, but the concept can be decomposed into perception, imagery, cueing, recall, and consolidation questions. |
 
 The most realistic path upward is not "build a better brain TV." It is to
-reduce the amount of information that must be delivered, remove middle layers
-that are only there because screens taught us to expect them, match the code to
-the biology, and let the user learn a stable interface.
+reduce the amount of information that must be delivered, match the code to the
+biology, and let the user learn a stable interface.
 
 ## Module Index
 
 | Module | Topic | Main Question |
 | --- | --- | --- |
-| 00 | [CRT Case Study](modules/00-crt-baseline.md) | How did one display chain turn analog signals into visible images? |
+| 00 | [Display Transduction Foundations](modules/00-display-transduction-foundations.md) | How do display systems make signal-to-perception engineering concrete? |
 | 01 | [Display Physics](modules/01-display-physics.md) | What physical systems make or modulate light? |
 | 02 | [Signal Encoding](modules/02-signal-encoding.md) | How is image information represented before display? |
 | 03 | [Carriers](modules/03-carriers.md) | What carries the signal: electrons, photons, fields, sound, or tissue states? |
@@ -211,10 +206,11 @@ the biology, and let the user learn a stable interface.
 | 14 | [Knowledge Representation And Provenance](modules/14-knowledge-representation.md) | How can claims remain readable, traceable, and consistently represented? |
 | 15 | [Evaluation And Model Methods](modules/15-evaluation-and-modeling.md) | How can ideas be modeled and compared without confusing metrics with perception? |
 
-## 00. CRT Case Study
+## 00. Display Transduction Foundations
 
-The CRT route is one established display case study. It makes transduction,
-addressing, scanning, and persistence visible.
+A useful visual technology can be treated as a chain: signal, carrier,
+conversion layer, receiver, and learned interpretation. A CRT gives one
+concrete route through that chain.
 
 | Stage | Function |
 | --- | --- |
@@ -227,9 +223,9 @@ addressing, scanning, and persistence visible.
 | Persistence | The phosphor glow and the eye's temporal integration smooth the scan into an image. |
 | Color CRT | Separate red, green, and blue phosphors are addressed through beam control and mask geometry. |
 
-Key insight: a CRT does not "contain" the image as a full sheet all at once.
-It creates a controlled physical event quickly enough that the visual system
-perceives a continuous picture.
+Key insight: the useful object is not just a screen. It is a coordinated
+signal-to-perception chain. A small controlled event can be addressed over time
+and integrated by the visual system into a stable experience.
 
 ## 01. Display Physics Routes
 
@@ -262,7 +258,7 @@ learn to interpret.
 
 | Carrier | Role | Notes |
 | --- | --- | --- |
-| Electron beam | CRT and vacuum tube carrier | Precise in a tube, not a practical free-space biological carrier. |
+| Electron beam | Scanned display and vacuum-tube carrier | Precise in a tube, not a practical free-space biological carrier. |
 | Visible light | Normal vision and projection | The safest familiar route when sent through the eye. |
 | Infrared | Optical carrier outside visible range | Requires conversion or a biological/technical detector. |
 | Ultraviolet | Can excite phosphors | Hazardous to tissue and not a normal vision route. |
@@ -275,7 +271,7 @@ learn to interpret.
 
 ## 04. Transducers
 
-The phosphor screen is only one example of a transducer.
+A phosphor screen is one familiar example of a transducer.
 
 | Transducer | Converts | Example |
 | --- | --- | --- |
@@ -435,7 +431,7 @@ The full scenario index lives in [scenarios/README.md](scenarios/README.md).
 | ID | Title | Status | Short Description |
 | --- | --- | --- | --- |
 | 06 | Retinal Projection | Research | Image light is projected onto the retina instead of a physical screen. |
-| 07 | Retinal Scanner | Research | A controlled beam scans the retina, echoing CRT raster logic. |
+| 07 | Retinal Scanner | Research | A controlled beam scans the retina using scanned-display logic. |
 | 08 | Retinal Waveguide | Prototype | A wearable or lens routes image light into the eye. |
 | 09 | Retinal Holograph | Speculative | Phase-controlled light forms structured retinal patterns. |
 | 10 | Virtual Phosphor | Speculative | A temporary or biological-adjacent layer replaces the fixed screen phosphor. |
@@ -503,7 +499,7 @@ The full scenario index lives in [scenarios/README.md](scenarios/README.md).
 
 | ID | Title | Status | Short Description |
 | --- | --- | --- | --- |
-| 45 | Neural CRT | Speculative | A scanned neural stimulus updates perception over time like a raster beam. |
+| 45 | Neural Scanning Interface | Speculative | A scanned neural stimulus updates perception over time like a raster beam. |
 | 46 | Temporal Multiplexing | Speculative | One channel addresses many perceptual points at different times. |
 | 47 | Spike-Timing Display | Speculative | Fine spike timing carries the representational signal. |
 | 48 | Population-Code Display | Speculative | Patterns across many neurons carry the signal. |
@@ -631,7 +627,7 @@ Use this template for new encyclopedia pages:
 |-- HISTORICAL_CONTEXT.md
 |-- PROJECT_TRACKS.md
 |-- modules/
-|   |-- 00-crt-baseline.md
+|   |-- 00-display-transduction-foundations.md
 |   |-- 01-display-physics.md
 |   |-- 02-signal-encoding.md
 |   |-- 03-carriers.md
@@ -666,7 +662,7 @@ Use this template for new encyclopedia pages:
 |   |-- 39-phosphene-font.md
 |   |-- 40-audio-visual-substitution.md
 |   |-- 41-tactile-visual-substitution.md
-|   |-- 45-neural-crt.md
+|   |-- 45-neural-scanning-interface.md
 |   |-- 49-oscillatory-display.md
 |   |-- 50-event-based-vision-stream.md
 |   |-- 55-dream-rehearsal-notebook.md
@@ -688,9 +684,9 @@ Use this template for new encyclopedia pages:
 4. Add a glossary for terms such as phosphor, phosphene, retinotopy, LGN,
    phototransduction, raster scan, carrier, transducer, and population code.
 5. Add a plausibility rubric for speculative entries.
-6. Add concept diagrams for the CRT route, LCD/OLED route, retinal prosthesis
-   route, cortical prosthesis route, sensory substitution route, and the memory
-   frontier route.
+6. Add concept diagrams for representative display routes, retinal prosthesis
+   routes, cortical prosthesis routes, sensory substitution routes, and memory
+   frontier routes.
 7. Add a bibliography file with DOI, URL, source type, and reliability notes.
 8. Build safe toy models from the project tracks: perceptual codec bench,
    scene skeleton annotator, phosphene font trainer, event-stream visualizer,

@@ -11,8 +11,9 @@
 
 ## Summary
 
-Conceptual injection is the far-edge version of the project: can an idea, image,
-or memory-like structure be introduced into experience without a normal screen?
+Conceptual injection is a far-edge screenless-perception question: can an idea,
+image, or memory-like structure be introduced into experience without a normal
+screen?
 
 The useful way to explore it is to split it into versions.
 
@@ -52,4 +53,3 @@ concept
 - Can learned artificial symbols become automatic?
 - What separates suggestion, imagination, memory, and perception?
 - What would a non-metaphorical carrier for concept-level information require?
-

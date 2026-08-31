@@ -3,13 +3,12 @@
 This page grounds the encyclopedia in existing research areas before branching
 into speculative design space.
 
-## 0. Historical Pattern: Radio To Perception
+## 1. Display Transduction Foundations
 
-The historical spine of the project starts with early radio: a message leaves
-its original physical form, travels through an invisible carrier, and returns
-through a receiver as something a human can interpret. That same pattern
-reappears in television, radar, transistors, image sensors, cochlear implants,
-retinal prostheses, sensory substitution, and semantic AI.
+Modern visual and sensory technologies are built from repeatable engineering
+parts: a signal is encoded, carried, converted, received, and interpreted. That
+pattern appears across radio, television, radar, transistors, image sensors,
+cochlear implants, retinal prostheses, sensory substitution, and semantic AI.
 
 ```text
 known physics
@@ -20,16 +19,8 @@ known physics
 -> learned interpretation
 ```
 
-This history does not prove that every screenless-perception concept will work.
-It gives the project a fairer test than reflexive dismissal. Instead of asking
-only "does this sound strange?" ask which layer is missing, weak, or testable.
-
-For the full timeline and argument, see
-[Historical Context: From Radio To Screenless Perception](HISTORICAL_CONTEXT.md).
-
-## 1. CRT And Display Physics
-
-CRT televisions demonstrate a complete analog transduction chain:
+Display systems make those parts concrete. A CRT gives one especially visible
+route:
 
 ```text
 signal timing
@@ -41,15 +32,19 @@ signal timing
 -> visual system
 ```
 
-The research value is conceptual. The CRT shows that a display can be treated as
-a controlled physical stimulus, not merely a flat picture. Its key abstractions
-are scanning, addressing, modulation, transduction, persistence, and perception.
+The research value is field-level. Display systems show that visual technology
+can be treated as controlled physical stimulus design, not merely flat pictures.
+Key abstractions include scanning, addressing, modulation, transduction,
+persistence, optics, and perception.
+
+For the full timeline, see
+[Historical Context: Display And Sensory Transduction](HISTORICAL_CONTEXT.md).
 
 ### Expansion Questions
 
 - What is the minimum controlled stimulus needed to create a useful percept?
 - Can scanning beat static array addressing for low-channel interfaces?
-- What is the biological equivalent of phosphor persistence?
+- Which biological or perceptual effects behave like persistence?
 - Can temporal integration in the nervous system be exploited safely?
 
 ## 2. Retinal Projection And Near-Eye Displays
@@ -272,12 +267,11 @@ camera or sensor suite
   frame cameras?
 - Can a system preserve user agency when AI decides what matters?
 
-## Perception-As-Medium Project Direction
+## Perception As Medium
 
-This is the current center of gravity for the project: cut out the middle
-medium when it does not help. A conventional display preserves the image until
-light reaches the eye. A perception-as-medium system preserves only what the
-person can learn to use.
+The strongest direction cuts out the middle medium when it does not help. A
+conventional display preserves the image until light reaches the eye. A
+perception-as-medium system preserves only what the person can learn to use.
 
 ```text
 world
@@ -300,7 +294,7 @@ lets the user perceive, decide, or act."
 - Extended cognition and transparent tools.
 - Prosthetic vision work showing that phosphenes are not simple pixels.
 
-### Project Questions
+### Design Questions
 
 - What middle layers can be removed: screen, pixel grid, frame stream,
   photorealism, single-sense output, or universal mapping?
@@ -309,7 +303,7 @@ lets the user perceive, decide, or act."
 - When is a symbol, edge, motion event, or label better than a dim image?
 - How should confidence and uncertainty stay visible without overwhelming the
   user?
-- Can project prototypes be built with ordinary screens, audio, haptics, and
+- Can prototype analogues be built with ordinary screens, audio, haptics, and
   paper studies before any medical or neural claim is made?
 
 ## 9. Memory-Adjacent Research Frontier
@@ -340,7 +334,7 @@ hypotheses unless the evidence landscape changes dramatically.
 
 ## 10. Research-To-Concept Bridge
 
-The strongest encyclopedia entries should follow this bridge:
+The strongest entries follow this bridge:
 
 ```text
 known science

@@ -154,5 +154,5 @@ with the proposed explanation:
 - a predeclared failure condition
 - a reviewer who can trace the claim back to its source
 
-If the only successful test is a restatement of the project's own categories,
+If the only successful test is a restatement of the model's own categories,
 the test has measured organization, not the phenomenon under discussion.

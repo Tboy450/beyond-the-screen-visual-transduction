@@ -14,7 +14,7 @@ medium: glass, optics, tissue, tool, trained perception, memory scaffold
 
 | Carrier | Screen | Eye | Retina | Optic Nerve | Cortex | Perception | Memory |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Electrons | CRT beam | Not practical directly | Electrode stimulation | Nerve interface | Cortical array | Learned phosphenes | Cue-triggered recall through experience |
+| Electrons | Scanned beam | Not practical directly | Electrode stimulation | Nerve interface | Cortical array | Learned phosphenes | Cue-triggered recall through experience |
 | Visible light | Projection | Retinal projection | Photoreceptors/optogenetics | Indirect | Indirect or optogenetic research | Normal visual imagery | Photo and imagery cues |
 | Infrared | Device sensing | Eye-safe display research | Conversion needed | Local transducer needed | Local transducer needed | Hidden assistive sensing | Context cueing |
 | UV | Phosphor excitation | Hazardous route | Avoid direct tissue route | Not preferred | Not preferred | Display conversion only | Not relevant directly |

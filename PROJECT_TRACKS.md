@@ -1,11 +1,10 @@
 # Project Tracks: Perception As The Medium
 
-This page sharpens the practical direction of the encyclopedia. The central
-move is to test which middle media between information and useful experience
+These tracks test which middle media between information and useful experience
 should be removed, compressed, rerouted, or retained.
 
-The historical pattern behind this move is developed in
-[Historical Context: From Radio To Screenless Perception](HISTORICAL_CONTEXT.md).
+The historical background is developed in
+[Historical Context: Display And Sensory Transduction](HISTORICAL_CONTEXT.md).
 Radio cut the wire, television cut the still image into scan lines, radar cut
 visible light out of long-range detection, and sensory substitution cuts the
 eye out of some visual-information tasks.
@@ -22,10 +21,10 @@ world or signal
 -> useful perception
 ```
 
-In this framing, the human mind is not just the final receiver. Perception is
-part of the medium. A device may provide only a cue, but the trained person
-completes the representation through attention, movement, memory, expectation,
-and learned interpretation.
+The human mind is not just the final receiver. Perception is part of the
+medium. A device may provide only a cue, but the trained person completes the
+representation through attention, movement, memory, expectation, and learned
+interpretation.
 
 ## Design Rule
 

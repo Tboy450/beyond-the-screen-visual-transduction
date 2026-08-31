@@ -1,4 +1,4 @@
-# 45. Neural CRT
+# 45. Neural Scanning Interface
 
 - Status: Frontier
 - Interface point: Retina, optic nerve, or visual cortex
@@ -7,14 +7,14 @@
 - Encoding style: Scanned stimulus over time
 - Addressing method: Raster, spiral, saccade-linked, or feature-trace scanning
 - Expected percept: A temporally built artificial percept
-- Related modules: [CRT Baseline](../modules/00-crt-baseline.md), [Creative Engineering](../modules/13-creative-engineering.md)
+- Related modules: [Display Transduction Foundations](../modules/00-display-transduction-foundations.md), [Creative Engineering](../modules/13-creative-engineering.md)
 
 ## Summary
 
-The neural CRT is the central analogy pushed to its frontier form. A CRT scans
-an electron beam across phosphor. A neural CRT would scan a controlled stimulus
-across a biological or prosthetic target and rely on perception to integrate the
-sequence.
+This scenario takes temporal scanning from display history and pushes it into a
+frontier biological or prosthetic context. Instead of forming a whole image at
+once, it scans a controlled stimulus across a target and relies on perception to
+integrate the sequence.
 
 ## Chain Map
 
@@ -30,7 +30,7 @@ encoded image or cue
 
 | Pattern | Possible Use |
 | --- | --- |
-| Raster | Direct CRT analogy; line-by-line update. |
+| Raster | Line-by-line temporal update. |
 | Spiral | Fovea-first or center-out cueing. |
 | Edge trace | Draw object outlines only. |
 | Symbol trace | Draw glyphs, arrows, or warning icons. |
@@ -51,4 +51,3 @@ encoded image or cue
 - Does temporal tracing improve form recognition?
 - Is raster scanning wasteful compared with feature tracing?
 - Can the brain learn an artificial scan grammar?
-

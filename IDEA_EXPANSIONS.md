@@ -5,10 +5,9 @@ idea is written as a concept card rather than a procedure.
 
 ## Attitude Toward Speculation
 
-Speculation belongs in this project. Many serious research directions start as
-strange analogies: the eye as a screen, the cortex as a phosphor field, memory
-as reconstruction instead of storage, or a prosthesis as a learned language
-instead of a camera replacement.
+Many serious research directions start as strange analogies: the eye as a
+screen, the cortex as a phosphor field, memory as reconstruction instead of
+storage, or a prosthesis as a learned language instead of a camera replacement.
 
 The useful move is not to ask only "is this real today?" The better sequence is:
 
@@ -25,8 +24,8 @@ That keeps imagination active while still making the idea sharper.
 
 ## Core Direction: Perception As The Medium
 
-The project can lean harder into this idea: the best screenless system may be
-one that carries less image and asks more of trained perception.
+The strongest screenless systems may carry less image and ask more of trained
+perception.
 
 ```text
 world
@@ -36,10 +35,10 @@ world
 -> useful action
 ```
 
-The "medium" is not just glass, phosphor, light, current, sound, or touch. In
-the most interesting project tracks, the medium is the stable relationship
-between cue and person. The device emits a compressed sign. The user learns how
-that sign behaves when they move, ask, reach, navigate, or remember.
+The "medium" is not just glass, phosphor, light, current, sound, or touch. It
+can become the stable relationship between cue and person. The device emits a
+compressed sign. The user learns how that sign behaves when they move, ask,
+reach, navigate, or remember.
 
 Design challenge:
 
@@ -175,7 +174,7 @@ letter A
 -> perceived form
 ```
 
-This borrows from handwriting, gesture, and CRT scanning.
+This borrows from handwriting, gesture, and raster scanning.
 
 ### 10. Personal Percept Map
 
@@ -309,9 +308,9 @@ safe intermediate converters between external energy and neural activity.
 
 ### 19. Neural Shadow Mask
 
-A CRT shadow mask ensures each beam hits the correct color phosphor. A neural
-shadow mask would be any structure or algorithm that prevents stimulation from
-spreading to the wrong perceptual channel.
+A display shadow mask ensures each channel reaches the intended output region.
+A neural shadow mask would be any structure or algorithm that prevents
+stimulation from spreading to the wrong perceptual channel.
 
 Possible forms:
 

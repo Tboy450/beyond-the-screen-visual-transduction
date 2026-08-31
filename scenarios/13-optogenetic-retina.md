@@ -32,10 +32,10 @@ camera
 
 ## Why It Belongs In This Encyclopedia
 
-Optogenetics is almost a literal "new phosphor" idea, except the transducer is
-biological and the output is neural activity rather than visible light. It shows
-how display science and biological engineering can merge without treating the
-brain as a normal screen.
+Optogenetics belongs here because it creates a biological transducer inside the
+visual chain: light in, neural activity out. It shows how display engineering
+and biological engineering can meet without treating the brain as a normal
+screen.
 
 ## Expansion Ideas
 
@@ -71,4 +71,3 @@ The human result cited above was a limited, specialized demonstration using
 gene therapy and engineered goggles. It should not be read as general-purpose
 restored sight or as evidence that arbitrary images can currently be written
 into the visual system.
-

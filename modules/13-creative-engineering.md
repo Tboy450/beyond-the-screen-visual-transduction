@@ -31,11 +31,11 @@ reduce the information
 
 ## Removing, Rerouting, Or Retaining The Middle Medium
 
-The project should now bias toward concepts that examine every handoff rather
-than assuming that every layer must remain or must disappear. A display surface
-is useful when it improves safety, precision, learning, or control. A different
-middle layer may be the right answer when it adds a needed transduction,
-feedback path, or form of user agency.
+Useful concepts examine every handoff rather than assuming that every layer
+must remain or must disappear. A display surface is useful when it improves
+safety, precision, learning, or control. A different middle layer may be the
+right answer when it adds a needed transduction, feedback path, or form of user
+agency.
 
 Examples:
 
@@ -183,7 +183,7 @@ For project-ready directions, use
 - `cross-modal-hud.md`
 - `consent-locked-interface.md`
 
-For more open-ended exploration, see the root
+For more open-ended exploration, see the main
 [Speculative Sandbox](../SPECULATIVE_SANDBOX.md).
 
 ## Related Entries

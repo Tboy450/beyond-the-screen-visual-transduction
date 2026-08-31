@@ -69,7 +69,7 @@ section.
 | 42 | Multisensory Display | Speculative | Multiple senses | Different channels carry different scene features. |
 | 43 | Cross-Modal HUD | Prototype | Wearable senses | Visual, audio, and tactile cues form one interface. |
 | 44 | Virtual Cane Display | Prototype | Wearable senses | Near-field obstacles become simple cues. |
-| 45 | [Neural CRT](45-neural-crt.md) | Speculative | Retina/cortex | A neural target is scanned over time. |
+| 45 | [Neural Scanning Interface](45-neural-scanning-interface.md) | Speculative | Retina/cortex | A neural target is scanned over time. |
 | 46 | Temporal Multiplexing | Speculative | Neural tissue | One channel updates many perceptual sites sequentially. |
 | 47 | Spike-Timing Display | Speculative | Neural code | Fine timing carries information. |
 | 48 | Population-Code Display | Speculative | Neural population | Distributed activation patterns carry information. |

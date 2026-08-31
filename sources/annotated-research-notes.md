@@ -6,9 +6,9 @@ Short notes on why each source matters to the encyclopedia.
 
 ### Nobel Prize: Guglielmo Marconi
 
-Useful for the radio-to-perception historical spine. It anchors Marconi's early
-wireless experiments, the 1901 transatlantic wireless claim, and the broader
-shift from wired telegraphy toward wireless information carriers.
+Useful for radio-to-perception background. It anchors Marconi's early wireless
+experiments, the 1901 transatlantic wireless claim, and the broader shift from
+wired telegraphy toward wireless information carriers.
 
 Source:
 https://www.nobelprize.org/prizes/physics/1909/marconi/biographical/
@@ -42,9 +42,8 @@ https://americanhistory.si.edu/collections/object/nmah_1288388
 
 ### MIT RLE: Radiation Laboratory And Radar
 
-Useful for radar as reapplication. It supports the argument that radio-frequency
-engineering moved from communication into detection, ranging, and spatial
-awareness.
+Useful for radar as reapplication. It shows radio-frequency engineering moving
+from communication into detection, ranging, and spatial awareness.
 
 Source:
 https://www.rle.mit.edu/about/history/
@@ -100,13 +99,14 @@ transmission, stimulation, and user-specific adjustment.
 Source:
 https://www.fda.gov/medical-devices/cochlear-implants/what-cochlear-implant
 
-## CRT And Display Physics
+## Display Transduction Foundations
 
 ### National MagLab: Cathode Ray Electromagnetic Deflection Basics
 
-Useful for the CRT baseline. It supports the idea that a cathode-ray tube is a
-controlled beam system where electric or magnetic fields can steer charged
-particles. This anchors the CRT-as-transduction-machine analogy.
+Useful for display transduction foundations. It supports the idea that a
+cathode-ray tube is a controlled beam system where electric or magnetic fields
+can steer charged particles. This anchors one concrete example of visual
+transduction engineering.
 
 Source:
 https://nationalmaglab.org/magnet-academy/watch-play/interactive-tutorials/cathode-ray-electromagnetic-deflection-basics/
@@ -328,4 +328,3 @@ frame transparent assistive tools as more than external displays.
 
 Source:
 https://doi.org/10.1093/analys/58.1.7
-

@@ -2,15 +2,17 @@
 
 This page collects questions that can drive future encyclopedia expansion.
 
-## CRT And Display Analogy
+## Display Transduction Foundations
 
-- What parts of CRT science remain useful after the phosphor screen is removed?
-- Is scanning a better metaphor than pixels for low-channel artificial vision?
+- Which principles from CRTs and other display systems remain useful after a
+  conventional screen is removed?
+- Is scanning a better interface pattern than pixel arrays for low-channel
+  artificial vision?
 - How much of a visual field can be reconstructed from timed point events?
-- What is the biological analogue of phosphor persistence?
+- What biological or perceptual effects behave like persistence?
 - Can temporal integration be used as a design principle for prosthetic cues?
 - How do raster, spiral, edge-trace, and symbol-trace scanning compare?
-- What does color-channel separation in CRTs suggest about feature-channel
+- What does color-channel separation in display systems suggest about feature-channel
   separation in artificial perception?
 
 ## Optical And Near-Eye Interfaces
@@ -135,4 +137,3 @@ This page collects questions that can drive future encyclopedia expansion.
 - Perceptual codec bench.
 - Active scan trainer.
 - Confidence grammar test.
-

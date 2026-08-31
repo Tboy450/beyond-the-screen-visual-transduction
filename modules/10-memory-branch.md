@@ -1,7 +1,7 @@
 # 10. Memory Branch
 
-The memory branch is where the CRT analogy becomes weakest and where the
-encyclopedia must be most careful.
+The memory branch is where display-based comparisons become weakest and where
+the encyclopedia must be most careful.
 
 ## Perception Is Not Memory
 

@@ -8,7 +8,7 @@ physical display or biological interface.
 | Encoding | Description | Example |
 | --- | --- | --- |
 | Analog waveform | Continuous voltage changes over time. | Broadcast TV brightness signal. |
-| Raster scan | A time sequence mapped to screen position. | CRT scanning lines. |
+| Raster scan | A time sequence mapped to screen position. | Scanned display lines. |
 | Pixel framebuffer | Digital array of color and brightness values. | LCD, OLED, phone screens. |
 | Pulse train | Information carried by pulse timing and amplitude. | Neural stimulation patterns. |
 | Event stream | Only changes are transmitted. | Event cameras and motion-first sensing. |
@@ -81,4 +81,3 @@ or tactile cues rather than a normal video image.
 - [08. Neural Interfaces](08-neural-interfaces.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
 - [10. Memory Branch](10-memory-branch.md)
-

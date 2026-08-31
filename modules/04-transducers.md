@@ -1,7 +1,8 @@
 # 04. Transducers
 
-A transducer converts information from one physical form into another. The CRT
-phosphor screen is the classic example: electron impact becomes visible light.
+A transducer converts information from one physical form into another. A
+phosphor screen is a clear display example: electron impact becomes visible
+light.
 
 ## Core Transducer Types
 
@@ -71,4 +72,3 @@ power, heat, biocompatibility, and control.
 - [01. Display Physics](01-display-physics.md)
 - [03. Carriers](03-carriers.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
-

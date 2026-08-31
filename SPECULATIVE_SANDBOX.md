@@ -14,12 +14,13 @@ wild idea
 -> expansion path
 ```
 
-## 1. Neural CRT
+## 1. Neural Scanning Interface
 
-Wild idea: replace the phosphor screen with a retinotopic neural target and scan
-the target over time.
+Wild idea: scan a controlled stimulus across a retinotopic neural or prosthetic
+target over time.
 
-Grounding analogy: CRT raster scanning and cortical retinotopy.
+Grounding analogy: raster scanning, retinal scanning displays, cortical
+retinotopy, and temporal integration.
 
 Missing mechanism: a stable way to address many perceptual locations with
 enough precision and low enough risk.
@@ -36,8 +37,7 @@ glyphs to see which visual language is easiest to learn.
 ## 2. Biological Phosphor
 
 Wild idea: create a biological or biocompatible layer that converts a safe input
-carrier into local optical or neural activity, acting like phosphor in the CRT
-analogy.
+carrier into local optical or neural activity.
 
 Grounding analogy: phosphor screens, optogenetics, fluorescent reporters,
 biocompatible materials, and light-sensitive proteins.
@@ -56,11 +56,11 @@ locality, reversibility, and biological compatibility.
 
 ## 3. Neural Shadow Mask
 
-Wild idea: build the equivalent of a CRT shadow mask for neural interfaces,
+Wild idea: build the equivalent of a channel mask for neural interfaces,
 preventing stimulation from spilling into the wrong perceptual channel.
 
-Grounding analogy: color CRT masks that make red, green, and blue beams hit the
-right phosphor dots.
+Grounding analogy: display color masks, optical selectivity, and computational
+methods that keep channels from bleeding into one another.
 
 Missing mechanism: a way to restrict or shape biological activation with high
 precision.
@@ -193,7 +193,7 @@ intent.
 Wild idea: treat the visual pathway like an addressable bus, where location,
 feature, timing, and salience are separate channels.
 
-Grounding analogy: computer buses, CRT scan timing, retinotopic maps, and
+Grounding analogy: computer buses, raster scan timing, retinotopic maps, and
 feature maps in visual cortex.
 
 Missing mechanism: a safe way to address biological locations and features

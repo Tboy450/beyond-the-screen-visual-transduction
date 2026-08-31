@@ -18,7 +18,7 @@ does not ask whether an idea is "allowed" to exist. It asks how to sharpen it.
 
 | ID | Hypothesis | Level | How To Make It Sharper |
 | --- | --- | --- | --- |
-| H-001 | A scanned stimulus can produce useful perception without a conventional screen. | H4 | Compare CRT raster scanning, retinal scanning displays, and cortical shape tracing. |
+| H-001 | A scanned stimulus can produce useful perception without a conventional screen. | H4 | Compare raster scanning, retinal scanning displays, and cortical shape tracing. |
 | H-002 | Artificial vision may work better as a learned language than as bad natural vision. | H3 | Build symbol sets, train users, and compare recognition speed. |
 | H-003 | Sparse semantic cues can outperform low-resolution images for navigation tasks. | H3 | Test scene skeletons against blurred video and audio descriptions. |
 | H-004 | A personal percept map is the real display surface in neural prosthetics. | H4 | Track perceived location, shape, and stability over time. |
@@ -89,4 +89,3 @@ waiting for future hardware.
   which behave more like feature processors?
 - How can memory-related ideas be explored through cueing, imagery, and recall
   without pretending memory is a video file?
-

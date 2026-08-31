@@ -33,7 +33,7 @@ external light
 | Scenario | Concept |
 | --- | --- |
 | Retinal projection | Project an image directly onto the retina. |
-| Retinal scanning | Scan a beam across the retina like a tiny CRT. |
+| Retinal scanning | Scan a controlled beam across the retina. |
 | Waveguide display | Route light through glasses toward the eye. |
 | Contact-lens display | Put a tiny display system on the eye. |
 | Adaptive optics display | Correct individual optical distortions. |
@@ -56,4 +56,3 @@ This turns the eye from a problem into part of the addressing system.
 - [02. Signal Encoding](02-signal-encoding.md)
 - [06. Retina](06-retina.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
-

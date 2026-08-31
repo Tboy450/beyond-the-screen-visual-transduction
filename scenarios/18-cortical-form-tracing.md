@@ -13,7 +13,8 @@
 
 Cortical form tracing asks whether visual cortex stimulation works better when
 it moves. Instead of trying to light up a whole artificial image at once, a
-system traces a shape through time, closer to handwriting or a CRT sweep.
+system traces a shape through time, closer to handwriting or a scanned-display
+sweep.
 
 ## Chain Map
 
@@ -55,4 +56,3 @@ pixels" to "neural strokes."
 - Bosking et al., "Electrical Stimulation of Visual Cortex: Relevance for
   Visual Cortical Prosthetics":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC6916716/
-

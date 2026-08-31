@@ -73,8 +73,7 @@ safe, addressable, learnable conversion layer.
 
 ## Related Entries
 
-- [00. CRT Baseline](00-crt-baseline.md)
+- [00. Display Transduction Foundations](00-display-transduction-foundations.md)
 - [04. Transducers](04-transducers.md)
 - [05. Eye Optics](05-eye-optics.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
-

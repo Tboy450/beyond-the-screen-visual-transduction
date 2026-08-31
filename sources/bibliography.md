@@ -39,7 +39,7 @@ For short notes on how each source supports the encyclopedia, see
 - FDA, "What Is a Cochlear Implant?":
   https://www.fda.gov/medical-devices/cochlear-implants/what-cochlear-implant
 
-## CRT And Display Physics
+## Display Transduction Foundations
 
 - National High Magnetic Field Laboratory, "Cathode Ray Electromagnetic
   Deflection Basics":

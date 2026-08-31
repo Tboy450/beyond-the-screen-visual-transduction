@@ -12,7 +12,7 @@ should replace them with original diagrams or images with confirmed licenses.
 
 | Diagram | Purpose |
 | --- | --- |
-| CRT chain | Show signal -> beam -> phosphor -> photons -> eye. |
+| Display transduction chain | Show signal -> carrier -> transducer -> photons -> eye. |
 | Display comparison | Compare CRT, plasma, LCD, OLED, and MicroLED routes. |
 | Master transduction chain | Show information -> carrier -> transducer -> perception. |
 | Eye optics | Show cornea, lens, pupil, and retina. |
