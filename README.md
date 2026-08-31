@@ -1,4 +1,4 @@
-# Beyond the Screen: A Visual Transduction Encyclopedia
+# The Screenless Sight Codex: Particles, Pixels, and Perception From Electrons to Experience
 
 Signals -> sight -> mind.
 
