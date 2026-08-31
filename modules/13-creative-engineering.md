@@ -29,6 +29,32 @@ reduce the information
 -> preserve consent and control
 ```
 
+## Cutting Out The Middle Medium
+
+The project should now bias toward concepts that remove unnecessary handoffs.
+A display surface is useful only if it improves safety, precision, learning, or
+control. If it merely preserves the old screen metaphor, it may be the wrong
+middle layer.
+
+Examples:
+
+- Replace full video with edge, motion, depth, and semantic cues.
+- Replace a fixed screen with active retinal projection or wearable cueing.
+- Replace universal pixel grids with personal percept maps.
+- Replace passive viewing with active scanning and user questions.
+- Replace direct memory-writing claims with voluntary cueing and recall tools.
+
+The design target becomes:
+
+```text
+minimal reliable cue
+-> active human interpretation
+-> useful action
+```
+
+For project-ready directions, use
+[Project Tracks: Perception As The Medium](../PROJECT_TRACKS.md).
+
 ## Less-To-More Conceptual Route
 
 | Level | Concept | Why It Is More Concrete |

@@ -33,6 +33,9 @@ does not ask whether an idea is "allowed" to exist. It asks how to sharpen it.
 | H-013 | A "neural shadow mask" can be modeled as crosstalk control. | H2 | Simulate spread, overlap, and separation in a percept grid. |
 | H-014 | Biological-phosphor concepts become sharper when classified by input/output conversion. | H1 | Compare phosphors, optogenetic proteins, fluorescence, and implantable converters. |
 | H-015 | A semantic subtitle track may be the most practical near-term screenless layer. | H3 | Rank cue types by usefulness, interruption cost, and error risk. |
+| H-016 | The trained perceptual loop can function as the effective medium of a screenless interface. | H3 | Compare passive cue viewing with active exploration, training, and task performance. |
+| H-017 | Removing middle representational layers can improve usefulness when the remaining cue grammar is stable. | H2 | Compare full low-resolution imagery against edge, motion, depth, label, and scene-graph cue sets. |
+| H-018 | Transparent assistive tools should be judged by action fluency, not image fidelity alone. | H3 | Measure navigation, reaching, recognition, and user confidence after practice. |
 
 ## Hypothesis Expansion Template
 
@@ -68,6 +71,9 @@ waiting for future hardware.
 | Memory lantern card | Which voluntary cues support later recall. |
 | Retinotopic bus diagram | How location, feature, timing, and confidence might be separated. |
 | Neural shadow-mask simulator | How crosstalk control changes symbol clarity. |
+| Perceptual codec bench | Whether fewer task-first cues can beat noisy full-image displays. |
+| Active scan trainer | Whether user control makes sparse cues become perception-like faster. |
+| Confidence grammar test | Whether visible uncertainty improves trust and decision-making. |
 
 ## High-Value Research Questions
 

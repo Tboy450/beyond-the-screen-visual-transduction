@@ -18,6 +18,10 @@ It treats artificial vision as a codec problem. The system may not transmit
 color, texture, or every object. It may transmit only the features needed for a
 task.
 
+The stronger version treats the user's perception as part of the medium. The
+device does not need to carry the whole image if the person can learn a stable
+cue grammar and use movement, attention, and context to complete the scene.
+
 ## Chain Map
 
 ```text
@@ -46,6 +50,8 @@ scene
 - Use high detail only around gaze.
 - Pair weak visual cues with spoken semantic labels.
 - Let the user tune what matters.
+- Compare passive cue viewing with active exploration.
+- Keep uncertainty visible as part of the cue, not as a hidden machine state.
 
 ## Research Questions
 
@@ -53,4 +59,6 @@ scene
 - When does less information outperform more confusing information?
 - How should uncertainty be represented?
 - Can users become fluent in a compressed visual language?
+- Which middle layer is being removed: pixel grid, frame stream, screen, or
+  photorealism?
 

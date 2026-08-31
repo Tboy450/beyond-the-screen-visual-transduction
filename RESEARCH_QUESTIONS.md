@@ -92,6 +92,22 @@ This page collects questions that can drive future encyclopedia expansion.
 - Can a semantic display become a "second perception" with training?
 - How should user preferences shape what the system considers important?
 
+## Perception As Medium And Project Tracks
+
+- Which middle layers can be removed without reducing usefulness?
+- When does a cue become something the user perceives through rather than an
+  alert the user must consciously decode?
+- How much active movement or control is needed for a cue language to become
+  fluent?
+- Can a five-cue scene description outperform a noisy low-resolution image?
+- Which cue grammars best split information across vision, audio, touch, and
+  symbols?
+- How should personal percept maps track drift, fatigue, context, and learning?
+- What should count as success: recognition, navigation, confidence, speed,
+  comfort, or image likeness?
+- Can a perception-first prototype be tested safely before making any neural or
+  medical claim?
+
 ## Memory, Imagery, And Conceptual Interfaces
 
 - What is the difference between perception, imagery, recall, and belief?
@@ -116,4 +132,7 @@ This page collects questions that can drive future encyclopedia expansion.
 - Retinotopic address-bus diagram.
 - Neural shadow-mask crosstalk simulator.
 - Semantic subtitle track demo using ordinary video.
+- Perceptual codec bench.
+- Active scan trainer.
+- Confidence grammar test.
 

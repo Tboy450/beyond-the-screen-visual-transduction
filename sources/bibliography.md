@@ -12,6 +12,33 @@ For short notes on how each source supports the encyclopedia, see
 - Shared ChatGPT conversation:
   https://chatgpt.com/share/6a94fe30-7e04-83ea-84de-37170c4fafe7
 
+## Historical Media And Electronics Context
+
+- Nobel Prize biography, "Guglielmo Marconi":
+  https://www.nobelprize.org/prizes/physics/1909/marconi/biographical/
+- IEEE Canada, "Radio's First Message -- Fessenden and Marconi":
+  https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html
+- Federal Judicial Center, "Early Radio in the Federal Courts":
+  https://www.fjc.gov/history/spotlight-judicial-history/early-radio-in-federal-courts
+- Smithsonian National Museum of American History, "Experimental Farnsworth
+  Image Dissector":
+  https://americanhistory.si.edu/collections/object/nmah_1288388
+- MIT Research Laboratory of Electronics, "RLE History":
+  https://www.rle.mit.edu/about/history/
+- Computer History Museum, "1947: Invention of the Point-Contact Transistor":
+  https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/
+- Computer History Museum, "1959: Practical Monolithic Integrated Circuit
+  Concept Patented":
+  https://www.computerhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/
+- Nobel Prize facts, "Charles K. Kao":
+  https://www.nobelprize.org/prizes/physics/2009/kao/facts/
+- Nobel Prize facts, "Willard S. Boyle":
+  https://www.nobelprize.org/prizes/physics/2009/boyle/facts/
+- NASA Science, "Landsat 1":
+  https://science.nasa.gov/mission/landsat-1/
+- FDA, "What Is a Cochlear Implant?":
+  https://www.fda.gov/medical-devices/cochlear-implants/what-cochlear-implant
+
 ## CRT And Display Physics
 
 - National High Magnetic Field Laboratory, "Cathode Ray Electromagnetic
@@ -85,9 +112,30 @@ For short notes on how each source supports the encyclopedia, see
 
 - Bach-y-Rita et al., "Vision Substitution by Tactile Image Projection":
   https://pubmed.ncbi.nlm.nih.gov/5818337/
+- Bach-y-Rita and Kercel, "Sensory Substitution and the Human-Machine
+  Interface":
+  https://pubmed.ncbi.nlm.nih.gov/14643370/
 - Nau et al., "Acquisition of Visual Perception in Blind Adults Using the
   BrainPort Artificial Vision Device":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC4281706/
+- Auvray and Myin, "Perception With Compensatory Devices: From Sensory
+  Substitution to Sensorimotor Extension":
+  https://pubmed.ncbi.nlm.nih.gov/21585495/
 - Tayarani-Najaran and Schmuker, "Event-Based Sensing and Signal Processing in
   the Visual, Auditory, and Olfactory Domain":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8203204/
+
+## Perception, Prediction, And Sensorimotor Learning
+
+- O'Regan and Noe, "A Sensorimotor Account of Vision and Visual
+  Consciousness":
+  https://doi.org/10.1017/S0140525X01000115
+- Rao and Ballard, "Predictive Coding in the Visual Cortex":
+  https://www.nature.com/articles/nn0199_79
+- Clark, "Whatever Next? Predictive Brains, Situated Agents, and the Future of
+  Cognitive Science":
+  https://doi.org/10.1017/S0140525X12000477
+- Friston, "The Free-Energy Principle: A Unified Brain Theory?":
+  https://www.nature.com/articles/nrn2787
+- Clark and Chalmers, "The Extended Mind":
+  https://doi.org/10.1093/analys/58.1.7

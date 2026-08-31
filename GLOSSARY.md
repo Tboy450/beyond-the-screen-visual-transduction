@@ -6,6 +6,7 @@ rather than exhaustive.
 | Term | Meaning |
 | --- | --- |
 | Accommodation | The eye lens changing shape to focus at different distances. |
+| Active sensorimotor loop | A perception-action cycle where movement helps structure what the user senses and learns. |
 | Addressing | Selecting where a signal goes, such as a pixel, retinal location, or cortical region. |
 | Amacrine cell | Retinal interneuron involved in timing, motion, and local signal shaping. |
 | Analog signal | A continuous signal whose value changes smoothly over time. |
@@ -15,6 +16,7 @@ rather than exhaustive.
 | Cathode-ray tube | Vacuum tube display that scans an electron beam onto phosphor. |
 | Cone | Retinal photoreceptor important for color and high-acuity vision. |
 | Cortical prosthesis | Device intended to stimulate visual cortex to create useful percepts. |
+| Cue grammar | A consistent rule set for turning features, events, confidence, and urgency into learnable outputs. |
 | Deflection | Steering a beam using electric or magnetic fields. |
 | Electrode array | Multiple electrical contacts used to stimulate or record tissue. |
 | Event camera | Sensor that reports changes rather than full frames. |
@@ -26,12 +28,15 @@ rather than exhaustive.
 | LGN | Lateral geniculate nucleus, a thalamic relay in the visual pathway. |
 | MicroLED | Display made from microscopic self-emitting LEDs. |
 | OLED | Organic light-emitting diode display, where pixels emit their own light. |
+| Object memory | Interface memory that keeps track of important static objects after an event stream stops changing. |
 | Optic nerve | Bundle of ganglion-cell axons carrying visual information to the brain. |
 | Optogenetics | Technique that makes cells responsive to light through light-sensitive proteins. |
 | Phosphene | Perceived light sensation not caused by ordinary light entering the eye. |
 | Phosphor | Material that emits visible light after excitation. |
 | Photoreceptor | Retinal cell that converts light into biological signals. |
 | Phototransduction | Biological conversion of light into cellular/electrical activity in photoreceptors. |
+| Perception-as-medium | Design stance where the trained human perceptual loop completes the representation instead of a device carrying a full image. |
+| Perceptual codec | Encoder that preserves task-useful cues rather than full photorealistic imagery. |
 | Pixel | Smallest addressable picture element in a display. |
 | Population code | Information represented by activity across many neurons. |
 | Raster scan | Line-by-line scanning pattern used by CRTs and video systems. |
@@ -45,6 +50,7 @@ rather than exhaustive.
 | Spike train | Sequence of neural action potentials over time. |
 | TMS | Transcranial magnetic stimulation, a noninvasive way to induce neural activity using magnetic fields. |
 | Transducer | A converter from one physical form of information into another. |
+| Transparent tool | A tool that becomes fluent enough that the user attends through it to the world rather than mainly attending to the tool itself. |
 | V1 | Primary visual cortex. |
 | Visual prosthesis | Device intended to restore or substitute some visual function. |
 | Waveguide | Optical structure that routes light, often used in near-eye displays. |

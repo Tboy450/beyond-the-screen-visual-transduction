@@ -1,12 +1,13 @@
 # Concept Atlas
 
 The atlas is a brainstorming map for expanding the encyclopedia. It crosses
-three dimensions:
+four dimensions:
 
 ```text
 target: screen, eye, retina, nerve, cortex, perception, memory
 carrier: electrons, photons, fields, sound, touch, chemistry, symbols
 representation: pixels, features, events, symbols, scenes, meaning, cues
+medium: glass, optics, tissue, tool, trained perception, memory scaffold
 ```
 
 ## Carrier-To-Target Matrix
@@ -40,6 +41,43 @@ representation: pixels, features, events, symbols, scenes, meaning, cues
 | Symbol set | Learned glyphs or icons. | Phosphene font, tactile language, cross-modal HUD. |
 | Narrative cue | Short verbal or symbolic memory prompt. | Memory lantern and recall tools. |
 | Affective cue | Emotion or urgency tag. | Memory, safety alerts, attention guidance. |
+
+## Medium-Removal Matrix
+
+This matrix helps keep the project focused on removing unnecessary middle
+media. The question is not only "what carries the signal?" but "what can be
+left out because the user can learn to complete it?"
+
+| Remove Or Compress | Keep Instead | Candidate Project |
+| --- | --- | --- |
+| Wall screen | Retinal projection, wearable cue, sound, touch, or symbol | Screenless optical route or cross-modal HUD. |
+| Full image frame | Edge, motion, depth, and event cues | Perceptual codec bench or event-first interface. |
+| Photoreal texture | Action-relevant geometry | Scene skeleton navigator. |
+| Static pixel map | Traced shape or learned glyph | Phosphene font trainer. |
+| One-size-fits-all mapping | Personal percept map | Closed-loop cue diary. |
+| Passive observation | Active scanning and sensorimotor control | Head-coupled substitution or artificial fovea. |
+| Hidden AI judgment | Cue plus confidence state | Semantic interface with uncertainty grammar. |
+| Direct memory claim | Voluntary cue and recall scaffold | Memory-safe cue companion. |
+
+## Historical Reapplication Lens
+
+The same move appears throughout media history:
+
+```text
+remove a familiar medium
+preserve the useful information
+invent or improve the transducer
+teach the receiver to interpret the new form
+```
+
+Radio removed the wire. Television removed the still image surface by scanning
+and rebuilding it. Radar removed visible light from detection. The transistor
+removed hot vacuum tubes from amplification and switching. Image sensors
+removed chemistry from photography. Sensory substitution removes the assumption
+that visual information must arrive through the eye.
+
+The atlas uses that pattern to ask what else can be removed without losing the
+thing that matters: useful perception.
 
 ## Idea Bank
 
@@ -131,6 +169,23 @@ representation: pixels, features, events, symbols, scenes, meaning, cues
 62. AI scene skeleton plus phosphene arrows.
 63. Optical low-vision overlay plus spoken uncertainty.
 64. Foveated prosthesis plus cross-modal peripheral alerts.
+
+### Perception-As-Medium Seeds
+
+65. Five-cue room codec that compresses a scene into only the cues needed to
+    answer navigation questions.
+66. Active scan trainer where the user moves a cursor, camera, or head pointer
+    and learns how cue changes map to objects.
+67. Transparent tool score that measures how quickly a cue disappears into the
+    user's action rather than staying as a distracting signal.
+68. Confidence grammar shared across visual, audio, and tactile outputs.
+69. Object memory buffer that keeps static but important objects available
+    after the event stream stops firing.
+70. Perceptual bandwidth budget that ranks every cue by usefulness per bit.
+71. Task-first mode switcher that changes the cue language for walking,
+    reading, cooking, workshop work, and social orientation.
+72. Perception-as-medium field notebook for logging what a cue became after
+    practice, not only what the device emitted.
 
 ## How To Expand An Idea
 

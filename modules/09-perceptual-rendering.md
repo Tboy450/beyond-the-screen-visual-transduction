@@ -3,6 +3,28 @@
 Perceptual rendering asks whether a system must reproduce an image, or whether
 it can create useful perception by encoding a smaller set of features.
 
+## Perception As The Medium
+
+The sharper version of this module is: remove the middle medium when the person
+can learn to complete the representation.
+
+```text
+scene
+-> compressed cue
+-> active movement and attention
+-> learned interpretation
+-> useful perception
+```
+
+A screen tries to carry an image all the way to the eye. A perceptual interface
+may carry only a feature, event, label, direction, or confidence state. The
+trained user supplies the missing completion through sensorimotor learning,
+memory, expectation, and task context.
+
+This does not make the device less rigorous. It makes the design target more
+human: usefulness, fluency, confidence, and action may matter more than image
+fidelity.
+
 ## Pixel Display Versus Perceptual Display
 
 | Pixel Display | Perceptual Display |
@@ -12,6 +34,17 @@ it can create useful perception by encoding a smaller set of features.
 | High bandwidth. | Potentially lower bandwidth. |
 | Familiar visual output. | May require training. |
 | Requires dense spatial addressing. | Can use symbols, sound, touch, or sparse phosphenes. |
+
+## Middle Layers To Remove
+
+| Middle Layer | Perceptual Alternative |
+| --- | --- |
+| Full image frame | Event stream, scene skeleton, or semantic cue. |
+| Photoreal detail | Edges, motion, depth, hazards, and goals. |
+| Fixed screen surface | Wearable cue, retinal projection, tactile cue, audio cue, or learned symbol. |
+| Passive reception | Active scanning, gaze control, or question-answer interaction. |
+| Universal percept map | Personal calibration and cue diary. |
+| Hidden machine certainty | Explicit confidence and uncertainty cues. |
 
 ## Candidate Cues
 
@@ -65,6 +98,11 @@ simple neural percepts if such interfaces mature.
 Every compression can hide information. A system that decides what matters can
 be wrong. A responsible encyclopedia entry should always ask how errors are
 represented to the user.
+
+## Project Link
+
+For concrete safe prototype directions, see
+[Project Tracks: Perception As The Medium](../PROJECT_TRACKS.md).
 
 ## Related Entries
 

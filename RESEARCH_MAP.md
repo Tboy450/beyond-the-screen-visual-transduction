@@ -3,6 +3,30 @@
 This page grounds the encyclopedia in existing research areas before branching
 into speculative design space.
 
+## 0. Historical Pattern: Radio To Perception
+
+The historical spine of the project starts with early radio: a message leaves
+its original physical form, travels through an invisible carrier, and returns
+through a receiver as something a human can interpret. That same pattern
+reappears in television, radar, transistors, image sensors, cochlear implants,
+retinal prostheses, sensory substitution, and semantic AI.
+
+```text
+known physics
+-> carrier
+-> transducer
+-> encoding
+-> receiver
+-> learned interpretation
+```
+
+This history does not prove that every screenless-perception concept will work.
+It gives the project a fairer test than reflexive dismissal. Instead of asking
+only "does this sound strange?" ask which layer is missing, weak, or testable.
+
+For the full timeline and argument, see
+[Historical Context: From Radio To Screenless Perception](HISTORICAL_CONTEXT.md).
+
 ## 1. CRT And Display Physics
 
 CRT televisions demonstrate a complete analog transduction chain:
@@ -247,6 +271,46 @@ camera or sensor suite
 - Can event cameras provide better motion-first information than ordinary
   frame cameras?
 - Can a system preserve user agency when AI decides what matters?
+
+## Perception-As-Medium Project Direction
+
+This is the current center of gravity for the project: cut out the middle
+medium when it does not help. A conventional display preserves the image until
+light reaches the eye. A perception-as-medium system preserves only what the
+person can learn to use.
+
+```text
+world
+-> extracted feature, event, relation, or meaning
+-> cue
+-> active exploration
+-> learned perceptual skill
+```
+
+The device does less rendering. The person does more meaningful completion.
+That does not mean the system can be vague. It means the engineering problem
+changes from "send the whole picture" to "choose the smallest reliable cue that
+lets the user perceive, decide, or act."
+
+### Research Anchors
+
+- Sensory substitution and the role of training, action, and tool fluency.
+- Sensorimotor accounts of perception.
+- Predictive coding and perception as inference from cues and error signals.
+- Extended cognition and transparent tools.
+- Prosthetic vision work showing that phosphenes are not simple pixels.
+
+### Project Questions
+
+- What middle layers can be removed: screen, pixel grid, frame stream,
+  photorealism, single-sense output, or universal mapping?
+- Which cue grammars become fluent through training?
+- How much active control does the user need for a cue to become perception-like?
+- When is a symbol, edge, motion event, or label better than a dim image?
+- How should confidence and uncertainty stay visible without overwhelming the
+  user?
+- Can project prototypes be built with ordinary screens, audio, haptics, and
+  paper studies before any medical or neural claim is made?
 
 ## 9. Memory-Adjacent Research Frontier
 

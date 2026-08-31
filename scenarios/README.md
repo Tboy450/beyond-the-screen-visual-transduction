@@ -15,6 +15,7 @@ Each scenario should be judged by six questions:
 | How is it addressed? | A visual system needs spatial or semantic targeting, not just stimulation. |
 | What does the user perceive? | Phosphene, cue, symbol, shape, scene, label, or memory prompt. |
 | What is the evidence level? | Established, research, prototype, speculative, or frontier. |
+| What middle layer is removed? | Screen, pixel grid, frame stream, photorealism, passive viewing, or universal mapping may not be necessary. |
 
 Speculative and frontier scenarios are encouraged. Those labels are not
 rejections; they mean the page should include a "what would make this testable?"
@@ -92,6 +93,9 @@ section.
 4. Give every page a "what would make this more real?" section.
 5. For far-future ideas, include a toy model, analogy, or non-human/non-clinical
    way to reason about the concept without pretending it is deployable.
+6. Prioritize scenarios that make perception the medium: cue languages,
+   project tracks, active scanning, personal percept maps, and semantic
+   compression.
 
 ## Scenario Page Template
 

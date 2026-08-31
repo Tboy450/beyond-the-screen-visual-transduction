@@ -16,6 +16,10 @@ scene and instead provide prompts that the user turns into a usable mental
 model. It is less like streaming a movie and more like giving the brain a small
 set of coordinates, labels, and motion cues.
 
+This is the cleanest version of the perception-as-medium idea. The device is
+not the final display. The display is the trained perceptual loop: cue,
+movement, attention, expectation, memory, and action.
+
 ## Chain Map
 
 ```text
@@ -41,6 +45,10 @@ world
 - Use motion and depth cues to constrain the user's mental model.
 - Use personal memory of familiar places to fill in missing detail.
 - Combine with a confidence grammar so uncertain reconstructions stay flexible.
+- Measure success by task fluency, not by how closely the cue resembles a
+  camera image.
+- Build ordinary-screen toy models before treating the idea as a neural
+  interface.
 
 ## Research Questions
 

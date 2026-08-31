@@ -23,6 +23,36 @@ What would make it unsafe or unethical?
 
 That keeps imagination active while still making the idea sharper.
 
+## Core Direction: Perception As The Medium
+
+The project can lean harder into this idea: the best screenless system may be
+one that carries less image and asks more of trained perception.
+
+```text
+world
+-> selected cue
+-> active exploration
+-> learned interpretation
+-> useful action
+```
+
+The "medium" is not just glass, phosphor, light, current, sound, or touch. In
+the most interesting project tracks, the medium is the stable relationship
+between cue and person. The device emits a compressed sign. The user learns how
+that sign behaves when they move, ask, reach, navigate, or remember.
+
+Design challenge:
+
+- remove the screen when it is only a habit
+- remove pixels when features are enough
+- remove photorealism when action structure matters more
+- remove passive viewing when active scanning teaches the code
+- remove universal mappings when a personal percept map is more honest
+- remove direct memory claims when voluntary cueing is the grounded version
+
+The companion roadmap for turning this into prototypes lives in
+[Project Tracks: Perception As The Medium](PROJECT_TRACKS.md).
+
 ## Near-Term Assistive Concepts
 
 ### 1. Scene Skeleton

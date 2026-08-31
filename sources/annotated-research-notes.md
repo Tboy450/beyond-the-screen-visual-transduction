@@ -2,6 +2,104 @@
 
 Short notes on why each source matters to the encyclopedia.
 
+## Historical Media And Electronics Context
+
+### Nobel Prize: Guglielmo Marconi
+
+Useful for the radio-to-perception historical spine. It anchors Marconi's early
+wireless experiments, the 1901 transatlantic wireless claim, and the broader
+shift from wired telegraphy toward wireless information carriers.
+
+Source:
+https://www.nobelprize.org/prizes/physics/1909/marconi/biographical/
+
+### IEEE Canada: Fessenden And Marconi
+
+Useful for distinguishing spark-gap radiotelegraphy from later continuous-wave
+and voice-oriented radio work. It supports the theme that early media often
+begin as crude symbolic signals before richer encoding becomes practical.
+
+Source:
+https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html
+
+### Federal Judicial Center: Early Radio In The Federal Courts
+
+Useful for the cultural transition from technical radio to public broadcasting.
+It anchors the 1920 KDKA election broadcast and the idea that a technology
+becomes socially real through repeatable public interfaces.
+
+Source:
+https://www.fjc.gov/history/spotlight-judicial-history/early-radio-in-federal-courts
+
+### Smithsonian: Experimental Farnsworth Image Dissector
+
+Useful for electronic television history. It shows the image as a transduction
+chain: visible light to emitted electrons, scanned electrical signals, and then
+reconverted visible light in a receiver.
+
+Source:
+https://americanhistory.si.edu/collections/object/nmah_1288388
+
+### MIT RLE: Radiation Laboratory And Radar
+
+Useful for radar as reapplication. It supports the argument that radio-frequency
+engineering moved from communication into detection, ranging, and spatial
+awareness.
+
+Source:
+https://www.rle.mit.edu/about/history/
+
+### Computer History Museum: Point-Contact Transistor
+
+Useful for the substrate-migration theme. It anchors the 1947 move from
+vacuum-tube-style amplification and switching toward semiconductor control.
+
+Source:
+https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/
+
+### Computer History Museum: Monolithic Integrated Circuit
+
+Useful for the "medium and structure merge" pattern. It supports the idea that
+circuits became more powerful when components and interconnects moved into a
+single patterned substrate.
+
+Source:
+https://www.computerhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/
+
+### Nobel Prize: Charles K. Kao
+
+Useful for optical fiber as a once-overlooked carrier. It supports the shift
+from electrical transmission toward light carried through purified glass.
+
+Source:
+https://www.nobelprize.org/prizes/physics/2009/kao/facts/
+
+### Nobel Prize: Willard S. Boyle
+
+Useful for digital imaging history. It anchors CCD sensors as a way to convert
+light into charge and build a digital image.
+
+Source:
+https://www.nobelprize.org/prizes/physics/2009/boyle/facts/
+
+### NASA Science: Landsat 1
+
+Useful for scanning and spectral selection. It supports the idea that useful
+imaging can be built from scanning, digital encoding, and selected bands rather
+than ordinary photographic reproduction.
+
+Source:
+https://science.nasa.gov/mission/landsat-1/
+
+### FDA: What Is A Cochlear Implant?
+
+Useful for learned artificial sensory codes. It supports the analogy between
+cochlear implants and screenless perception: external sensing, processing,
+transmission, stimulation, and user-specific adjustment.
+
+Source:
+https://www.fda.gov/medical-devices/cochlear-implants/what-cochlear-implant
+
 ## CRT And Display Physics
 
 ### National MagLab: Cathode Ray Electromagnetic Deflection Basics
@@ -148,6 +246,16 @@ visual information can be translated into another sensory channel and learned.
 Source:
 https://pubmed.ncbi.nlm.nih.gov/5818337/
 
+### Bach-y-Rita And Kercel: Sensory Substitution And The Human-Machine Interface
+
+Useful for the perception-as-medium direction. It frames sensory substitution
+as a human-machine interface in which artificial receptors, output channels,
+training, and brain plasticity work together rather than acting as a simple
+pixel transfer.
+
+Source:
+https://pubmed.ncbi.nlm.nih.gov/14643370/
+
 ### Nau et al.: BrainPort Artificial Vision Device
 
 Useful for tactile substitution and training questions. It supports the idea
@@ -157,6 +265,15 @@ behavior.
 Source:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4281706/
 
+### Auvray And Myin: Perception With Compensatory Devices
+
+Useful for treating assistive devices as perceptual extensions. It supports
+the idea that active control, sensorimotor learning, and tool transparency can
+change how a cue is experienced after practice.
+
+Source:
+https://pubmed.ncbi.nlm.nih.gov/21585495/
+
 ### Tayarani-Najaran And Schmuker: Event-Based Sensing
 
 Useful for event-stream concepts. It supports the idea of representing sensory
@@ -164,4 +281,51 @@ information as changes over time rather than full frames.
 
 Source:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8203204/
+
+## Perception, Prediction, And Extended Cognition
+
+### O'Regan And Noe: Sensorimotor Account Of Vision And Visual Consciousness
+
+Useful for the claim that perception is active rather than passive reception.
+It supports project tracks where movement, exploration, and mastery of cue
+regularities are treated as part of the interface.
+
+Source:
+https://doi.org/10.1017/S0140525X01000115
+
+### Rao And Ballard: Predictive Coding In The Visual Cortex
+
+Useful for predictive-coding display scenarios. It supports the idea that
+visual processing can be modeled as an interaction between top-down prediction
+and bottom-up error rather than a one-way picture pipeline.
+
+Source:
+https://www.nature.com/articles/nn0199_79
+
+### Clark: Whatever Next?
+
+Useful for connecting predictive processing with action, attention, and
+situated behavior. It supports cue systems that help the user infer what
+matters instead of receiving a full image.
+
+Source:
+https://doi.org/10.1017/S0140525X12000477
+
+### Friston: The Free-Energy Principle
+
+Useful as a broad predictive-processing and active-inference anchor. It should
+be used carefully as background theory, not as proof that any particular
+interface can write perceptions or memories.
+
+Source:
+https://www.nature.com/articles/nrn2787
+
+### Clark And Chalmers: The Extended Mind
+
+Useful for the idea that tools can become part of a cognitive system when they
+are reliably available, actively used, and integrated into behavior. It helps
+frame transparent assistive tools as more than external displays.
+
+Source:
+https://doi.org/10.1093/analys/58.1.7
 

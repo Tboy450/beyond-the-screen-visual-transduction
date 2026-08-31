@@ -1,5 +1,7 @@
 # The Screenless Sight Codex: Particles, Pixels, and Perception From Electrons to Experience
 
+Author: Tristan Hash
+
 Signals -> sight -> mind.
 
 What if the screen is only one temporary stop on the way from electricity to
@@ -9,6 +11,12 @@ This modular encyclopedia starts with the CRT: a household machine that turned
 signals into steered particles, particles into light, and light into perception.
 From there it follows every possible handoff: optics, retina, cortex, sensory
 substitution, semantic cues, and memory-adjacent frontier concepts.
+
+Current focus: cut out unnecessary middle media wherever possible. Instead of
+asking how to preserve a full image through every layer, this project leans
+toward systems where the human mind and trained perception become the active
+medium: pixels become features, features become cues, and cues become usable
+experience through attention, motion, learning, and memory.
 
 This is a documentation-only project. There is no Python program, no build
 system, and no app runtime. The repository is meant to become a structured
@@ -73,6 +81,8 @@ it as a launch point for stranger but more explicit hypotheses.
 ## Browse The Encyclopedia
 
 - Fast path for the science: [Research map](RESEARCH_MAP.md)
+- Fast path for the historical argument: [Historical context](HISTORICAL_CONTEXT.md)
+- Fast path for project directions: [Project tracks](PROJECT_TRACKS.md)
 - Fast path for the possibilities: [Scenario index](scenarios/)
 - Fast path for the wild ideas: [Speculative sandbox](SPECULATIVE_SANDBOX.md)
 - [Module chapters](modules/)
@@ -140,6 +150,20 @@ information
 Every arrow can be studied as its own module. Every module may have multiple
 possible routes.
 
+The strongest "screenless" route may be the compressed route:
+
+```text
+world or signal
+-> feature/event/meaning extraction
+-> minimal cue
+-> active sensorimotor loop
+-> learned perception
+-> action
+```
+
+Here, perception is not only the endpoint. It is the medium that completes the
+display.
+
 ## Conceptual Ladder
 
 This ladder keeps the encyclopedia organized from least speculative to most
@@ -159,8 +183,9 @@ speculative.
 | 10 | Memory interface frontier | Direct memory writing is not established, but the concept can be decomposed into perception, imagery, cueing, recall, and consolidation questions. |
 
 The most realistic path upward is not "build a better brain TV." It is to
-reduce the amount of information that must be delivered, match the code to the
-biology, and let the user learn a stable interface.
+reduce the amount of information that must be delivered, remove middle layers
+that are only there because screens taught us to expect them, match the code to
+the biology, and let the user learn a stable interface.
 
 ## Module Index
 
@@ -190,7 +215,7 @@ The CRT route is the reference architecture.
 | Signal input | The incoming video signal encodes brightness and timing. |
 | Electron gun | A heated cathode emits electrons into a vacuum tube. |
 | Acceleration | High voltage accelerates electrons toward the screen. |
-| Deflection | electric or magnetic fields steer the beam. |
+| Deflection | Electric or magnetic fields steer the beam. |
 | Raster scan | The beam draws the image line by line. |
 | Phosphor | The screen coating glows when struck by electrons. |
 | Persistence | The phosphor glow and the eye's temporal integration smooth the scan into an image. |
@@ -597,6 +622,8 @@ Use this template for new encyclopedia pages:
 ```text
 .
 |-- README.md
+|-- HISTORICAL_CONTEXT.md
+|-- PROJECT_TRACKS.md
 |-- modules/
 |   |-- 00-crt-baseline.md
 |   |-- 01-display-physics.md
@@ -654,9 +681,18 @@ Use this template for new encyclopedia pages:
    phototransduction, raster scan, carrier, transducer, and population code.
 5. Add a plausibility rubric for speculative entries.
 6. Add concept diagrams for the CRT route, LCD/OLED route, retinal prosthesis
-   route, cortical prosthesis route, sensory substitution route, and memory
-   memory frontier route.
+   route, cortical prosthesis route, sensory substitution route, and the memory
+   frontier route.
 7. Add a bibliography file with DOI, URL, source type, and reliability notes.
+8. Build safe toy models from the project tracks: perceptual codec bench,
+   scene skeleton annotator, phosphene font trainer, event-stream visualizer,
+   and cross-modal cue grammar.
+9. Expand the historical timeline into diagrams that show how radio, TV, radar,
+   sensors, prostheses, and perceptual cue systems reuse the same chain:
+   carrier, transducer, encoding, receiver, and learned interpretation.
+10. Add more original illustrations, licensed photos, and visual timelines for
+    visual learners, especially diagrams that compare carriers, transducers,
+    screenless routes, project tracks, and historical technology jumps.
 
 ## Safety And Ethics
 
@@ -700,6 +736,19 @@ The expanded bibliography lives in [sources/bibliography.md](sources/bibliograph
 - Tayarani-Najaran and Schmuker, "Event-Based Sensing and Signal Processing
   in the Visual, Auditory, and Olfactory Domain":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8203204/
+- O'Regan and Noe, "A Sensorimotor Account of Vision and Visual
+  Consciousness":
+  https://doi.org/10.1017/S0140525X01000115
+- Bach-y-Rita and Kercel, "Sensory Substitution and the Human-Machine
+  Interface":
+  https://pubmed.ncbi.nlm.nih.gov/14643370/
+- Auvray and Myin, "Perception With Compensatory Devices":
+  https://pubmed.ncbi.nlm.nih.gov/21585495/
+- Rao and Ballard, "Predictive Coding in the Visual Cortex":
+  https://www.nature.com/articles/nn0199_79
+- Clark, "Whatever Next? Predictive Brains, Situated Agents, and the Future of
+  Cognitive Science":
+  https://doi.org/10.1017/S0140525X12000477
 - Sahel et al., "Partial Recovery of Visual Function in a Blind Patient After
   Optogenetic Therapy":
   https://www.nature.com/articles/s41591-021-01351-4
