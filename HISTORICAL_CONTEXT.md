@@ -1,9 +1,8 @@
 # Historical Context: From Radio To Screenless Perception
 
-This project begins with the CRT, but the deeper historical line starts
-earlier: radio showed that information could leave its original body, travel as
-an invisible carrier, and return through a transducer as something a human
-could understand.
+The deeper historical line starts earlier: radio showed that information could
+leave its original body, travel as an invisible carrier, and return through a
+transducer as something a human could understand.
 
 That is the clever bridge into screenless sight. Radio did not begin by
 transmitting rich music, voices, television, radar images, satellite data, or

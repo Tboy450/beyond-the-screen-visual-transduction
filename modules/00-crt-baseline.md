@@ -1,8 +1,8 @@
-# 00. CRT Baseline
+# 00. CRT Case Study
 
-The cathode-ray tube is the reference machine for this encyclopedia because it
-turns invisible electrical information into visible experience through a clear
-chain of physical transformations.
+The cathode-ray tube is one useful case study because it turns invisible
+electrical information into visible experience through a clear chain of
+physical transformations.
 
 ## Route
 

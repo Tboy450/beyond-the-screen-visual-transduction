@@ -201,4 +201,3 @@ For each atlas idea, create a scenario page with:
 - the research parallel
 - the missing piece
 - the first useful application
-

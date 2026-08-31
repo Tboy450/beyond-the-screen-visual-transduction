@@ -67,3 +67,8 @@ brain as a normal screen.
   Delivery Vectors":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8762673/
 
+The human result cited above was a limited, specialized demonstration using
+gene therapy and engineered goggles. It should not be read as general-purpose
+restored sight or as evidence that arbitrary images can currently be written
+into the visual system.
+

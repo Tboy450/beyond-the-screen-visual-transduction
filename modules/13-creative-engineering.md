@@ -29,12 +29,13 @@ reduce the information
 -> preserve consent and control
 ```
 
-## Cutting Out The Middle Medium
+## Removing, Rerouting, Or Retaining The Middle Medium
 
-The project should now bias toward concepts that remove unnecessary handoffs.
-A display surface is useful only if it improves safety, precision, learning, or
-control. If it merely preserves the old screen metaphor, it may be the wrong
-middle layer.
+The project should now bias toward concepts that examine every handoff rather
+than assuming that every layer must remain or must disappear. A display surface
+is useful when it improves safety, precision, learning, or control. A different
+middle layer may be the right answer when it adds a needed transduction,
+feedback path, or form of user agency.
 
 Examples:
 

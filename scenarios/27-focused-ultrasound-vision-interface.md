@@ -3,10 +3,12 @@
 - Status: Research
 - Interface point: Brain tissue, including visual cortex in some studies
 - Carrier: Focused acoustic pressure
-- Transducer: Tissue response to ultrasound energy
+- Source transducer: Piezoelectric ultrasound device
+- Biological coupling or effect: Ultrasound-mediated neural modulation
 - Encoding style: Modulation, cueing, or experimental stimulation
-- Addressing method: Acoustic focus
-- Expected percept: Reported phosphenes or neural modulation in research
+- Addressing method: Acoustic focus; perceptual selectivity remains unresolved
+- Expected percept: Transient, usually diffuse phosphene-like sensations or
+  measurable neural modulation in reported studies
 - Main limitations: Safety, targeting, repeatability, mechanism, and resolution
 
 ## Summary
@@ -45,3 +47,9 @@ encoded cue
 
 Good expansion paths include comparing ultrasound as a cue channel, a modulation
 channel, and a possible companion to other sensory interfaces.
+
+## Sources
+
+- Lee et al., "Transcranial Focused Ultrasound Stimulation of Human Primary
+  Visual Cortex":
+  https://www.nature.com/articles/srep34026

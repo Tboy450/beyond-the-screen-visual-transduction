@@ -5,7 +5,7 @@ technology through speculative perception and memory concepts.
 
 ## How To Read A Scenario
 
-Each scenario should be judged by six questions:
+Each scenario should be judged by seven questions:
 
 | Question | Why It Matters |
 | --- | --- |

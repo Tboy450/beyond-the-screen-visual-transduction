@@ -56,3 +56,8 @@ and user control.
   Neuromodulation":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11750723/
 
+The cited work demonstrated magnetoelectric neuromodulation in injected mice for
+reward and motor behavior. It is a grounding example for local magnetic-to-
+electric conversion, not evidence of a visual interface, human use, or an
+implant-free route.
+

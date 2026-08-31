@@ -7,16 +7,17 @@ Signals -> sight -> mind.
 What if the screen is only one temporary stop on the way from electricity to
 experience?
 
-This modular encyclopedia starts with the CRT: a household machine that turned
-signals into steered particles, particles into light, and light into perception.
-From there it follows every possible handoff: optics, retina, cortex, sensory
+This modular encyclopedia examines how visual information can be transformed,
+carried, and reconstructed without depending on a conventional external screen.
+It follows possible handoffs through optics, retina, cortex, sensory
 substitution, semantic cues, and memory-adjacent frontier concepts.
 
-Current focus: cut out unnecessary middle media wherever possible. Instead of
-asking how to preserve a full image through every layer, this project leans
-toward systems where the human mind and trained perception become the active
-medium: pixels become features, features become cues, and cues become usable
-experience through attention, motion, learning, and memory.
+Current focus: test which intermediate media can be removed, compressed,
+rerouted, or newly introduced. Instead of assuming that a full image must pass
+through every layer, this project also examines systems where trained
+perception becomes part of the medium: pixels become features, features become
+cues, and cues become usable experience through attention, motion, learning,
+and memory.
 
 This is a documentation-only project. There is no Python program, no build
 system, and no app runtime. The repository is meant to become a structured
@@ -89,6 +90,8 @@ it as a launch point for stranger but more explicit hypotheses.
 - [Glossary](GLOSSARY.md)
 - [Hypothesis registry](HYPOTHESIS_REGISTRY.md)
 - [Concept atlas](CONCEPT_ATLAS.md)
+- [Knowledge representation](modules/14-knowledge-representation.md)
+- [Evaluation and model methods](modules/15-evaluation-and-modeling.md)
 - [Idea expansions](IDEA_EXPANSIONS.md)
 - [Research questions](RESEARCH_QUESTIONS.md)
 - [Chat reference gallery](media/chat-reference-gallery.md)
@@ -191,7 +194,7 @@ the biology, and let the user learn a stable interface.
 
 | Module | Topic | Main Question |
 | --- | --- | --- |
-| 00 | [CRT Baseline](modules/00-crt-baseline.md) | How did analog electronics become visible images? |
+| 00 | [CRT Case Study](modules/00-crt-baseline.md) | How did one display chain turn analog signals into visible images? |
 | 01 | [Display Physics](modules/01-display-physics.md) | What physical systems make or modulate light? |
 | 02 | [Signal Encoding](modules/02-signal-encoding.md) | How is image information represented before display? |
 | 03 | [Carriers](modules/03-carriers.md) | What carries the signal: electrons, photons, fields, sound, or tissue states? |
@@ -205,10 +208,13 @@ the biology, and let the user learn a stable interface.
 | 11 | [Safety And Ethics](modules/11-safety-and-ethics.md) | What boundaries must stay explicit? |
 | 12 | [Gallery](modules/12-gallery.md) | What diagrams best explain each route? |
 | 13 | [Creative Engineering Concepts](modules/13-creative-engineering.md) | What workarounds make speculative ideas more concrete? |
+| 14 | [Knowledge Representation And Provenance](modules/14-knowledge-representation.md) | How can claims remain readable, traceable, and consistently represented? |
+| 15 | [Evaluation And Model Methods](modules/15-evaluation-and-modeling.md) | How can ideas be modeled and compared without confusing metrics with perception? |
 
-## 00. CRT Baseline
+## 00. CRT Case Study
 
-The CRT route is the reference architecture.
+The CRT route is one established display case study. It makes transduction,
+addressing, scanning, and persistence visible.
 
 | Stage | Function |
 | --- | --- |
@@ -535,7 +541,7 @@ meaning, confidence, emotion, and recall behavior?
 
 A visual percept is a present experience. A memory is a distributed,
 reconstructive state involving perception, attention, hippocampal systems,
-association, consolidation, and later recall. The CRT analogy becomes weakest
+association, consolidation, and later recall. Display analogies become weakest
 here because the brain is not a video recorder.
 
 ## 11. Open Problems
@@ -638,7 +644,9 @@ Use this template for new encyclopedia pages:
 |   |-- 10-memory-branch.md
 |   |-- 11-safety-and-ethics.md
 |   |-- 12-gallery.md
-|   `-- 13-creative-engineering.md
+|   |-- 13-creative-engineering.md
+|   |-- 14-knowledge-representation.md
+|   `-- 15-evaluation-and-modeling.md
 |-- scenarios/
 |   |-- 01-electron-to-phosphor-crt.md
 |   |-- 06-retinal-projection.md

@@ -18,6 +18,12 @@ phosphor screen is the classic example: electron impact becomes visible light.
 | Piezoelectric material | Electric field | Mechanical vibration, or the reverse |
 | Magnetoelectric material | Magnetic field | Local electric effect |
 
+The device transducer should not be confused with the biological coupling or
+effect. For example, a piezoelectric ultrasound array converts an electrical
+drive into an acoustic field; any resulting neural modulation is a separate
+biological step. The same distinction applies to magnetic or
+magnetoelectric approaches.
+
 ## Transducer Placement
 
 | Placement | Example | Meaning |

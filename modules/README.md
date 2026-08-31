@@ -4,7 +4,7 @@ These chapters explain the encyclopedia's major knowledge areas.
 
 | Module | Page |
 | --- | --- |
-| 00 | [CRT Baseline](00-crt-baseline.md) |
+| 00 | [CRT Case Study](00-crt-baseline.md) |
 | 01 | [Display Physics](01-display-physics.md) |
 | 02 | [Signal Encoding](02-signal-encoding.md) |
 | 03 | [Carriers](03-carriers.md) |
@@ -18,4 +18,6 @@ These chapters explain the encyclopedia's major knowledge areas.
 | 11 | [Safety And Ethics](11-safety-and-ethics.md) |
 | 12 | [Gallery](12-gallery.md) |
 | 13 | [Creative Engineering Concepts](13-creative-engineering.md) |
+| 14 | [Knowledge Representation And Provenance](14-knowledge-representation.md) |
+| 15 | [Evaluation And Model Methods](15-evaluation-and-modeling.md) |
 

@@ -17,6 +17,8 @@ known, which parts are imagined, and which parts would need evidence.
 | Evidence labels | Established science, research, prototypes, and speculation must be separated. |
 | No procedural harm | The encyclopedia should not become a guide for unsafe human experimentation. |
 | User agency | The person using an interface must remain in control. |
+| Privacy and data minimization | Camera, face, voice, location, neural, and memory data should be collected only when necessary, retained briefly, and deletable by the user. |
+| Calibrated uncertainty | The system must expose uncertainty and failure modes instead of converting guesses into authoritative cues. |
 
 ## Forbidden Direction For This Project
 
@@ -26,6 +28,8 @@ known, which parts are imagined, and which parts would need evidence.
 - Claims of remote mind control or memory insertion.
 - Coercive or deceptive cognitive influence.
 - Unsafe laser, RF, magnetic, or ultrasound procedures.
+- Silent collection, retention, or repurposing of biometric, neural, or memory data.
+- Closed feedback loops that treat their own internal output as proof of success.
 
 ## Allowed Direction
 
@@ -40,6 +44,7 @@ known, which parts are imagined, and which parts would need evidence.
 - "What would need to be true?" analysis.
 - Assistive technology ideas that preserve consent and control.
 - Diagrams explaining known display and visual-system science.
+- External evaluation plans that can weaken, reject, or revise the proposed model.
 
 ## Speculation Checklist
 

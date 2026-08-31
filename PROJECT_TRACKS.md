@@ -1,8 +1,8 @@
 # Project Tracks: Perception As The Medium
 
 This page sharpens the practical direction of the encyclopedia. The central
-move is to cut out any unnecessary middle medium between information and useful
-experience.
+move is to test which middle media between information and useful experience
+should be removed, compressed, rerouted, or retained.
 
 The historical pattern behind this move is developed in
 [Historical Context: From Radio To Screenless Perception](HISTORICAL_CONTEXT.md).
