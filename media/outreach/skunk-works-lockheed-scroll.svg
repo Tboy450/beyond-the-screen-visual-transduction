@@ -184,23 +184,23 @@
     }
     .badge-wordmark {
       font-family: "Segoe UI", Arial, sans-serif;
-      font-size: 8px;
+      font-size: 10px;
       font-weight: 800;
-      letter-spacing: 1.1px;
+      letter-spacing: 0.8px;
       fill: #fff1d3;
     }
     .badge-name {
       font-family: Georgia, "Times New Roman", serif;
-      font-size: 11px;
+      font-size: 13px;
       font-weight: 700;
-      letter-spacing: 1.2px;
+      letter-spacing: 1px;
       fill: #fff1d3;
     }
     .badge-unofficial {
       font-family: "Segoe UI", Arial, sans-serif;
-      font-size: 6px;
+      font-size: 7px;
       font-weight: 700;
-      letter-spacing: 1px;
+      letter-spacing: 0.8px;
       fill: #f4c8a3;
     }
     .badge-skunk {
@@ -355,15 +355,15 @@
         <rect class="button" x="430" y="610" width="340" height="48" rx="12"/>
         <text class="button-text" x="600" y="640" text-anchor="middle">Open the GitHub Project</text>
 
-        <circle class="seal" cx="950" cy="585" r="54"/>
-        <circle class="seal-ring" cx="950" cy="585" r="42"/>
+        <circle class="seal" cx="950" cy="585" r="62"/>
+        <circle class="seal-ring" cx="950" cy="585" r="49"/>
         <text class="badge-wordmark" x="950" y="544" text-anchor="middle">LOCKHEED MARTIN</text>
         <polygon class="badge-star" points="950,551 953,558 961,558 955,563 957,571 950,566 943,571 945,563 939,558 947,558"/>
         <path class="badge-skunk" d="M925 591 C920 583, 923 572, 933 569 C938 560, 950 558, 958 565 C968 563, 977 569, 977 579 C977 590, 968 596, 958 596 C950 596, 945 592, 939 588 C935 593, 929 595, 925 591 Z"/>
         <path class="badge-stripe" d="M940 568 C944 574, 947 582, 949 591 M948 565 C952 572, 955 580, 957 591"/>
         <circle cx="966" cy="573" r="1.7" fill="#5b0e1b"/>
-        <text class="badge-name" x="950" y="613" text-anchor="middle">SKUNK WORKS</text>
-        <text class="badge-unofficial" x="950" y="627" text-anchor="middle">UNOFFICIAL CONCEPT</text>
+        <text class="badge-name" x="950" y="616" text-anchor="middle">SKUNK WORKS</text>
+        <text class="badge-unofficial" x="950" y="632" text-anchor="middle">UNOFFICIAL CONCEPT</text>
       </g>
     </g>
 
