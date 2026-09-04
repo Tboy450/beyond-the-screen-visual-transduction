@@ -132,6 +132,24 @@ decorative symptom content.
 Source:
 https://doi.org/10.1177/0957154X9100200504
 
+### Williams: Missions To England
+
+Useful for the revolutionary-diplomacy lane. It documents the 1793 missions of
+David Williams and James Tilly Matthews to England and prevents the later Air
+Loom record from being severed from real Franco-British peace efforts.
+
+Source:
+https://doi.org/10.1093/ehr/liii.ccxii.651
+
+### Porter: Reason, Madness, And The French Revolution
+
+Useful for holding the historical tension without reducing the case to either
+diagnosis or conspiracy. Porter keeps reason, madness, political crisis, and
+revolutionary interpretation in the same frame.
+
+Source:
+https://doi.org/10.1353/sec.2010.0299
+
 ### Carpenter: Descriptions Of Schizophrenia In Georgian Britain
 
 Useful for the medical-history line. Carpenter describes Haslam's Matthews
@@ -196,9 +214,10 @@ https://mental.jmir.org/2021/10/e30311/
 ### MKULTRA And Moscow Signal Context
 
 Useful only as later context showing that covert state research and invisible
-carrier anxieties are not purely imaginary cultural categories. These sources
-do not validate the Air Loom; they help explain why modern readers distrust
-easy dismissal of secrecy.
+carrier anxieties are not purely imaginary cultural categories. The National
+Security Archive source specifically brings Project PANDORA and Project BIZARRE
+into the Moscow Signal record. These sources do not validate the Air Loom; they
+help explain why modern readers distrust easy dismissal of secrecy.
 
 Sources:
 https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf

@@ -53,6 +53,12 @@ For short notes on how each source supports the encyclopedia, see
 - Howard, Robert, "James Tilly Matthews in London and Paris 1793: his first
   peace mission - in his own words," History of Psychiatry, 1991:
   https://doi.org/10.1177/0957154X9100200504
+- Williams, David, "The Missions of David Williams and James Tilly Matthews to
+  England (1793)," The English Historical Review, 1938:
+  https://doi.org/10.1093/ehr/liii.ccxii.651
+- Porter, Roy, "Reason, Madness, and the French Revolution," Studies in
+  Eighteenth-Century Culture, 1991:
+  https://doi.org/10.1353/sec.2010.0299
 - Carpenter, P. K., "Descriptions of schizophrenia in the psychiatry of
   Georgian Britain: John Haslam and James Tilly Matthews," Comprehensive
   Psychiatry, 1989:
@@ -85,7 +91,7 @@ For short notes on how each source supports the encyclopedia, see
   YouTube," JMIR Mental Health, 2021:
   https://mental.jmir.org/2021/10/e30311/
 - National Security Archive, "The Moscow Signals: Declassified Microwave
-  Mysteries":
+  Mysteries," including Project PANDORA and Project BIZARRE material:
   https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave
 - U.S. Senate, "Project MKULTRA, the CIA's Program of Research in Behavioral
   Modification":

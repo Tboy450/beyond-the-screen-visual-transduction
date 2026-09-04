@@ -27,6 +27,34 @@ That line does not require treating every part of Matthews's account as true.
 It requires treating the setting, the record, and the later psychiatric use of
 the record as connected rather than interchangeable.
 
+## Source Lanes
+
+The case is strongest when the sources are not collapsed into one authority.
+Each lane anchors a different part of the line.
+
+| Lane | Sources | What It Anchors | What It Cannot Prove |
+| --- | --- | --- | --- |
+| Primary Air Loom record | Haslam, Wellcome, Wikisource | The machine, operators, named tortures, political accusations, and medical-opinion dispute as they entered print in 1810. | That the Air Loom existed as a working apparatus. |
+| Revolutionary diplomacy | Williams, Howard, Porter, Jay | Matthews inside the real politics of Britain, France, Girondin contact, peace mediation, imprisonment, and war panic. | That every later claim Matthews made about ministers, spies, or machines was true. |
+| Psychiatric influence-machine line | Carpenter, Tausk, WHO, NIMH, Hirjak/Fuchs, Lustig/JMIR | The later recognition of thought influence, passivity, technical alien control, and machine-mediated persecution as psychiatric patterns. | That medical classification cancels the political history of the case. |
+| Conspiracy and secrecy grammar | Robison, Barruel, Tackett, Senate MKULTRA records, National Security Archive material on the Moscow Signal and Project PANDORA | The surrounding language of hidden networks, secret operators, state secrecy, covert research, and invisible carriers. | That later covert programs verify Matthews's Air Loom or backdate twentieth-century technologies into 1790s London. |
+
+The hard line is not built from one source proving everything. It is built from
+the way the lanes meet:
+
+```text
+documented politics
++ documented confinement dispute
++ documented Air Loom narrative
++ documented later psychiatric reuse
++ documented culture of conspiracy and state secrecy
+= a real historical channel into machine-influence psychiatry
+```
+
+The Air Loom can be unverified as a machine and still be central as a record.
+Matthews's political history can be real and still not verify the machine. That
+is the tension the chapter keeps open.
+
 ## Why This Belongs Here
 
 The Air Loom is one of the earliest detailed machine-control narratives in
@@ -91,7 +119,7 @@ opinion, family advocacy, detention, and institutional authority.
 ## The Repudiated Link
 
 The link between the French Revolution and the Air Loom has often been
-flattened in two opposite ways.
+repudiated, disavowed, or flattened in two opposite ways.
 
 The medical simplification treats the revolutionary material as symptom
 content: politics entered Matthews's speech because delusion borrowed whatever
@@ -117,6 +145,44 @@ The connection is that Matthews's machine-influence narrative was built out of
 the political, scientific, and institutional materials of the revolutionary
 age, then later became evidence for a psychiatric category that did not yet
 exist under that name.
+
+## What Gets Disavowed
+
+Each stance tends to disown the part of the record that makes its own reading
+less clean.
+
+| Disavowal | What It Avoids | Why It Matters |
+| --- | --- | --- |
+| Medical-only disavowal | The documented revolutionary mission, imprisonment, family challenge, and asylum-politics dispute. | It turns real history into mere symptom decoration. |
+| Conspiracy-only disavowal | The technical incoherence of the Air Loom and the later psychiatric pattern of influence, passivity, and thought control. | It treats context as proof and avoids mechanism. |
+| Official-secrecy disavowal | Later verified covert research, such as MKULTRA and Project PANDORA, as part of the modern reader's suspicion field. | It can make all hidden-influence concern look irrational by default. |
+| Fringe-overreach disavowal | Chronology, physics, source distance, and the absence of corroborated Air Loom hardware. | It lets later secrecy stand in for proof of an earlier claim. |
+
+The contradiction is not a flaw to hide. It is the reason the case matters.
+The same file can be a medical document, a political document, and a machine-
+influence document without any one frame exhausting it.
+
+## Revolutionary Diplomacy Layer
+
+The French Revolution layer is not ornamental. David Williams's account of the
+1793 missions, Howard's reconstruction of Matthews in London and Paris, Roy
+Porter's work on reason, madness, and the Revolution, and Mike Jay's synthesis
+all point to the same core fact: Matthews belonged to a real field of
+revolutionary mediation before he became the famous Air Loom patient.
+
+This changes the reading. The later Air Loom narrative was not simply a random
+political costume placed on a timeless symptom. It grew after:
+
+- a failed peace channel between Britain and Revolutionary France
+- Girondin contact during a rapidly changing revolutionary government
+- suspicion after the Jacobin turn
+- imprisonment in France
+- return to Britain during war panic
+- accusations against British ministers
+- a contested confinement at Bethlem
+
+The revolutionary layer does not vindicate the machine. It prevents the case
+from being reduced to machine content alone.
 
 ## Medical Stance
 
@@ -185,8 +251,8 @@ corroborated Air Loom. The machine's mechanisms collapse incompatible
 eighteenth-century materials into one apparatus: gases, magnetism, batteries,
 mesmerism, rays, bodily fluids, espionage, and remote thought. Later real
 histories of covert state behavior, such as twentieth-century behavior-control
-research or Cold War microwave incidents, make blanket dismissal of secrecy
-look naive, but they do not verify Matthews's machine.
+research, Cold War microwave incidents, and Project PANDORA, make blanket
+dismissal of secrecy look naive, but they do not verify Matthews's machine.
 
 The useful point is narrower and stronger: real conspiracies and secrecy exist;
 therefore "conspiracy" cannot be treated as an automatic synonym for falsehood.
@@ -245,6 +311,30 @@ The continuity is not proof that the same hidden machine exists in every age.
 The continuity is that altered agency and social fear repeatedly borrow the
 strongest technical language available.
 
+## Later Secret-Research Layer
+
+MKULTRA and Project PANDORA enter this chapter only as later context. They do
+not explain Matthews. They show why the modern reader has a different suspicion
+environment from Haslam's reader.
+
+The Senate MKULTRA hearings document CIA behavior-modification research in the
+twentieth century. National Security Archive material on the Moscow Signal
+describes Project PANDORA and Project BIZARRE as Cold War microwave-effect
+research following signals directed at the U.S. Embassy in Moscow.
+
+That later record creates a narrow historical lesson:
+
+```text
+state secrecy exists
+covert human and animal research has existed
+invisible carriers have been studied
+therefore dismissal by ridicule is weak
+but mechanism and chronology still decide the claim
+```
+
+This is why the Air Loom cannot be treated as proven by later secrecy, and
+also cannot be dismissed by pretending secrecy has no history.
+
 ## Contradictions To Keep Visible
 
 Matthews's story gains force because it does not sit neatly inside one frame.
@@ -285,6 +375,7 @@ evidence_strength:
   Air Loom as physical mechanism: uncorroborated
   schizophrenia classification: strong retrospective fit, limited by distance
   conspiracy atmosphere: strong cultural documentation
+  MKULTRA and PANDORA: later verified secrecy context, not backdated proof
 ```
 
 ## Research Questions
@@ -324,6 +415,12 @@ evidence_strength:
 - Robert Howard, "James Tilly Matthews in London and Paris 1793: his first
   peace mission - in his own words," *History of Psychiatry*:
   https://doi.org/10.1177/0957154X9100200504
+- David Williams, "The Missions of David Williams and James Tilly Matthews to
+  England (1793)," *The English Historical Review*:
+  https://doi.org/10.1093/ehr/liii.ccxii.651
+- Roy Porter, "Reason, Madness, and the French Revolution," *Studies in
+  Eighteenth-Century Culture*:
+  https://doi.org/10.1353/sec.2010.0299
 - P. K. Carpenter, "Descriptions of schizophrenia in the psychiatry of
   Georgian Britain: John Haslam and James Tilly Matthews," *Comprehensive
   Psychiatry*:
@@ -348,7 +445,7 @@ evidence_strength:
   YouTube":
   https://mental.jmir.org/2021/10/e30311/
 - National Security Archive, "The Moscow Signals: Declassified Microwave
-  Mysteries":
+  Mysteries," including Project PANDORA and Project BIZARRE material:
   https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave
 - U.S. Senate, *Project MKULTRA, the CIA's Program of Research in Behavioral
   Modification*:
