@@ -20,3 +20,4 @@ These chapters explain the encyclopedia's major knowledge areas.
 | 13 | [Creative Engineering Concepts](13-creative-engineering.md) |
 | 14 | [Knowledge Representation And Provenance](14-knowledge-representation.md) |
 | 15 | [Evaluation And Model Methods](15-evaluation-and-modeling.md) |
+| 16 | [Air Loom, Schizophrenia, And Influence Machines](16-air-loom-schizophrenia-and-influence-machines.md) |

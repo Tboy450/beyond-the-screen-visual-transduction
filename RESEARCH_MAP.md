@@ -355,3 +355,30 @@ cortical phosphenes exist
 -> avoid procedural stimulation guidance
 -> ask which symbols are reliable across users
 ```
+
+## 11. Influence Machines, Agency, And Evidence
+
+Machine-influence narratives show why this encyclopedia keeps mechanism,
+history, evidence, and interpretation in separate layers. James Tilly
+Matthews's Air Loom case joins real French Revolution-era political experience,
+contested asylum medicine, invisible-carrier claims, and later schizophrenia
+history in one record.
+
+```text
+political crisis
+-> invisible operator
+-> claimed carrier
+-> body or thought influence
+-> institutional interpretation
+```
+
+The case is useful because it resists a single lazy reading. The medical line
+recognizes persecutory and passivity-like symptoms later associated with
+schizophrenia. The conspiracy line recognizes that revolutionary politics,
+state secrecy, imprisonment, and asylum power were historically real. The
+neutral historical line keeps both visible while still asking whether the
+claimed machine has a verifiable carrier, transducer, addressing method, and
+evidence.
+
+For the full chapter, see
+[Air Loom, Schizophrenia, And Influence Machines](modules/16-air-loom-schizophrenia-and-influence-machines.md).

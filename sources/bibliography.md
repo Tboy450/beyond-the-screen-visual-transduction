@@ -39,6 +39,58 @@ For short notes on how each source supports the encyclopedia, see
 - FDA, "What Is a Cochlear Implant?":
   https://www.fda.gov/medical-devices/cochlear-implants/what-cochlear-implant
 
+## Influence Machines, Schizophrenia, And Revolutionary Context
+
+- Haslam, John, "Illustrations of Madness," 1810, Internet Archive:
+  https://archive.org/details/b22042271
+- Haslam, John, "Illustrations of Madness," Wikisource transcription:
+  https://en.wikisource.org/wiki/Illustrations_of_Madness
+- Wellcome Collection, "Illustrations of madness... / By John Haslam":
+  https://wellcomecollection.org/works/sy399f9c
+- Jay, Mike, "Illustrations of Madness: James Tilly Matthews and the Air
+  Loom," The Public Domain Review:
+  https://publicdomainreview.org/essay/illustrations-of-madness-james-tilly-matthews-and-the-air-loom
+- Howard, Robert, "James Tilly Matthews in London and Paris 1793: his first
+  peace mission - in his own words," History of Psychiatry, 1991:
+  https://doi.org/10.1177/0957154X9100200504
+- Carpenter, P. K., "Descriptions of schizophrenia in the psychiatry of
+  Georgian Britain: John Haslam and James Tilly Matthews," Comprehensive
+  Psychiatry, 1989:
+  https://doi.org/10.1016/0010-440X(89)90058-8
+- Tausk, Victor, "On the Origin of the 'Influencing Machine' in
+  Schizophrenia":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC3330285/
+- Fusar-Poli, Paolo, and Pierluigi Politi, "Paul Eugen Bleuler and the Birth of
+  Schizophrenia (1908)":
+  https://doi.org/10.1176/appi.ajp.2008.08050714
+- World Health Organization, "Schizophrenia":
+  https://www.who.int/news-room/fact-sheets/detail/schizophrenia
+- National Institute of Mental Health, "Schizophrenia":
+  https://www.nimh.nih.gov/health/statistics/schizophrenia
+- Robison, John, "Proofs of a Conspiracy," Project Gutenberg:
+  https://www.gutenberg.org/ebooks/47605
+- Barruel, Abbe, "Memoirs Illustrating the History of Jacobinism":
+  https://archive.org/download/BarruelMemoirsIllustratingTheHistoryOfJacobinism/barruel%20Memoirs%20Illustrating%20the%20History%20of%20Jacobinism.pdf
+- Jay, Mike, "Darkness Over All: John Robison and the Birth of the Illuminati
+  Conspiracy," The Public Domain Review:
+  https://publicdomainreview.org/essay/darkness-over-all-john-robison-and-the-birth-of-the-illuminati-conspiracy/
+- Tackett, Timothy, "Conspiracy Obsession in a Time of Revolution: French
+  Elites and the Origins of the Terror, 1789-1792," The American Historical
+  Review, 2000:
+  https://doi.org/10.1086/ahr/105.3.691
+- Hirjak, Dusan, and Thomas Fuchs, "Delusions of Technical Alien Control: A
+  Phenomenological Description of Three Cases," Psychopathology, 2010:
+  https://doi.org/10.1159/000274178
+- Lustig, A., et al., "Social Semiotics of Gangstalking Evidence Videos on
+  YouTube," JMIR Mental Health, 2021:
+  https://mental.jmir.org/2021/10/e30311/
+- National Security Archive, "The Moscow Signals: Declassified Microwave
+  Mysteries":
+  https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave
+- U.S. Senate, "Project MKULTRA, the CIA's Program of Research in Behavioral
+  Modification":
+  https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf
+
 ## Display Transduction Foundations
 
 - National High Magnetic Field Laboratory, "Cathode Ray Electromagnetic

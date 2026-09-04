@@ -205,6 +205,7 @@ biology, and let the user learn a stable interface.
 | 13 | [Creative Engineering Concepts](modules/13-creative-engineering.md) | What workarounds make speculative ideas more concrete? |
 | 14 | [Knowledge Representation And Provenance](modules/14-knowledge-representation.md) | How can claims remain readable, traceable, and consistently represented? |
 | 15 | [Evaluation And Model Methods](modules/15-evaluation-and-modeling.md) | How can ideas be modeled and compared without confusing metrics with perception? |
+| 16 | [Air Loom, Schizophrenia, And Influence Machines](modules/16-air-loom-schizophrenia-and-influence-machines.md) | How did revolutionary politics, early psychiatry, and machine-influence narratives become entangled? |
 
 ## 00. Display Transduction Foundations
 

@@ -8,6 +8,7 @@ rather than exhaustive.
 | Accommodation | The eye lens changing shape to focus at different distances. |
 | Active sensorimotor loop | A perception-action cycle where movement helps structure what the user senses and learns. |
 | Addressing | Selecting where a signal goes, such as a pixel, retinal location, or cortical region. |
+| Air Loom | James Tilly Matthews's claimed hidden machine for remote influence, recorded by John Haslam in 1810. |
 | Amacrine cell | Retinal interneuron involved in timing, motion, and local signal shaping. |
 | Analog signal | A continuous signal whose value changes smoothly over time. |
 | Backlight | Light source behind an LCD panel. |
@@ -25,6 +26,7 @@ rather than exhaustive.
 | Fovea | Central high-acuity region of the retina. |
 | Foveated rendering | Allocating high detail near gaze or attention and lower detail elsewhere. |
 | Ganglion cell | Retinal output neuron whose axons form the optic nerve. |
+| Influencing machine | A psychiatric and historical term for a claimed machine experienced as controlling thoughts, sensations, feelings, movements, or speech. |
 | LGN | Lateral geniculate nucleus, a thalamic relay in the visual pathway. |
 | MicroLED | Display made from microscopic self-emitting LEDs. |
 | OLED | Organic light-emitting diode display, where pixels emit their own light. |
@@ -37,6 +39,7 @@ rather than exhaustive.
 | Phototransduction | Biological conversion of light into cellular/electrical activity in photoreceptors. |
 | Perception-as-medium | Design stance where the trained human perceptual loop completes the representation instead of a device carrying a full image. |
 | Perceptual codec | Encoder that preserves task-useful cues rather than full photorealistic imagery. |
+| Passivity experience | Experience in which thoughts, feelings, impulses, or actions seem to be generated or controlled from outside the self. |
 | Pixel | Smallest addressable picture element in a display. |
 | Population code | Information represented by activity across many neurons. |
 | Raster scan | Line-by-line scanning pattern used by CRTs and video systems. |

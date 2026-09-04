@@ -99,6 +99,111 @@ transmission, stimulation, and user-specific adjustment.
 Source:
 https://www.fda.gov/medical-devices/cochlear-implants/what-cochlear-implant
 
+## Influence Machines, Schizophrenia, And Revolutionary Context
+
+### Haslam: Illustrations Of Madness
+
+Primary source for the Air Loom case. It preserves Matthews's reported
+machine, operators, magnetic-fluid language, brain-saying, dream-working,
+bodily tortures, and political claims. It is also an interested source because
+Haslam wrote during a dispute over Matthews's confinement and medical opinion.
+
+Sources:
+https://archive.org/details/b22042271
+https://en.wikisource.org/wiki/Illustrations_of_Madness
+https://wellcomecollection.org/works/sy399f9c
+
+### Mike Jay: James Tilly Matthews And The Air Loom
+
+Useful secondary account connecting Matthews's peace activism, French
+Revolution experience, Air Loom narrative, Bethlem confinement, and later
+psychiatric significance. It helps keep the politics and the medical history
+visible in the same record.
+
+Source:
+https://publicdomainreview.org/essay/illustrations-of-madness-james-tilly-matthews-and-the-air-loom
+
+### Howard: James Tilly Matthews In London And Paris 1793
+
+Useful for the documented political line. It anchors Matthews's first peace
+mission and supports treating the French Revolution context as more than
+decorative symptom content.
+
+Source:
+https://doi.org/10.1177/0957154X9100200504
+
+### Carpenter: Descriptions Of Schizophrenia In Georgian Britain
+
+Useful for the medical-history line. Carpenter describes Haslam's Matthews
+account as the earliest clear description of schizophrenia in British
+psychiatric writing while explaining why clear earlier accounts are rare.
+
+Source:
+https://doi.org/10.1016/0010-440X(89)90058-8
+
+### Tausk: Influencing Machine In Schizophrenia
+
+Useful for the later psychiatric concept of a machine that is experienced as
+controlling thoughts, sensations, feelings, movements, or speech. It connects
+Matthews-like machine influence to twentieth-century schizophrenia theory.
+
+Source:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3330285/
+
+### Bleuler-Schizophrenia History
+
+Useful for preventing anachronism. The term schizophrenia belongs to
+Bleuler's early twentieth-century work, so applying it to Matthews is a
+retrospective classification, not an eighteenth-century diagnosis.
+
+Source:
+https://doi.org/10.1176/appi.ajp.2008.08050714
+
+### WHO And NIMH: Current Schizophrenia Framing
+
+Useful for a current clinical baseline without letting the chapter become
+circular. WHO explicitly names influence, control, and passivity experiences;
+NIMH gives a compact current definition and prevalence caveats.
+
+Sources:
+https://www.who.int/news-room/fact-sheets/detail/schizophrenia
+https://www.nimh.nih.gov/health/statistics/schizophrenia
+
+### Robison, Barruel, And Revolutionary Conspiracy Grammar
+
+Useful for the surrounding political language of hidden societies and
+revolutionary control. Robison and Barruel do not prove Matthews's Air Loom;
+they show that late-1790s revolutionary politics already had a powerful
+conspiracy vocabulary.
+
+Sources:
+https://www.gutenberg.org/ebooks/47605
+https://archive.org/download/BarruelMemoirsIllustratingTheHistoryOfJacobinism/barruel%20Memoirs%20Illustrating%20the%20History%20of%20Jacobinism.pdf
+https://publicdomainreview.org/essay/darkness-over-all-john-robison-and-the-birth-of-the-illuminati-conspiracy/
+https://doi.org/10.1086/ahr/105.3.691
+
+### Technical Alien Control And Gangstalking Studies
+
+Useful for later technological versions of the influence-machine pattern.
+Hirjak and Fuchs cover delusions organized around controlling technical
+devices; Lustig and coauthors examine online evidence videos made around
+gangstalking belief systems.
+
+Sources:
+https://doi.org/10.1159/000274178
+https://mental.jmir.org/2021/10/e30311/
+
+### MKULTRA And Moscow Signal Context
+
+Useful only as later context showing that covert state research and invisible
+carrier anxieties are not purely imaginary cultural categories. These sources
+do not validate the Air Loom; they help explain why modern readers distrust
+easy dismissal of secrecy.
+
+Sources:
+https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf
+https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave
+
 ## Display Transduction Foundations
 
 ### National MagLab: Cathode Ray Electromagnetic Deflection Basics
