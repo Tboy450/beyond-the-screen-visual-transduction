@@ -150,15 +150,18 @@ exist under that name.
 
 ## What Gets Disavowed
 
-Each stance tends to disown the part of the record that makes its own reading
-less clean.
+The disavowal problem is clearest when medical or psychiatric authority treats
+the case as already settled by its own later vocabulary. The documented
+revolutionary mission, imprisonment, family challenge, asylum-politics dispute,
+and Haslam's institutional position do not disappear because a later diagnosis
+fits parts of the record.
 
-| Disavowal | What It Avoids | Why It Matters |
-| --- | --- | --- |
-| Medical-only disavowal | The documented revolutionary mission, imprisonment, family challenge, and asylum-politics dispute. | It turns real history into mere symptom decoration. |
-| Conspiracy-only disavowal | The technical incoherence of the Air Loom and the later psychiatric pattern of influence, passivity, and thought control. | It treats context as proof and avoids mechanism. |
-| Official-secrecy disavowal | Later verified covert research, such as MKULTRA and Project PANDORA, as part of the modern reader's suspicion field. | It can make all hidden-influence concern look irrational by default. |
-| Fringe overstretching | Chronology, physics, source distance, and the absence of corroborated Air Loom hardware. | It lets later secrecy stand in for proof of an earlier claim. |
+Mechanism questions remain separate from dismissal. The same source discipline
+used elsewhere in the encyclopedia still applies: chronology, mechanism, source
+distance, corroboration, and disagreement between records. Later verified
+secrecy, including MKULTRA and Project PANDORA, belongs in the suspicion field
+around invisible influence and state research. It does not automatically
+identify the Air Loom as a physical apparatus in 1790s London.
 
 The contradiction is not a flaw to hide. It is the reason the case matters.
 The same file can be a medical document, a political document, and a machine-
@@ -240,7 +243,7 @@ persecution
 -> organized explanatory system
 ```
 
-The weakness is historical over-stretching. Schizophrenia was not named until
+The weakness is medical overreach. Schizophrenia was not named until
 Bleuler's early twentieth-century work. Matthews cannot be examined directly.
 The main record was written by Haslam, who was defending a contested detention
 and a contested medical judgment. The medical reading is strong as a later
@@ -292,7 +295,7 @@ read as both clinical language and administrative power.
 
 ## Institutional And Pharmaceutical Critique
 
-The criticism of psychiatric over-stretching has already appeared more than
+The criticism of psychiatric overreach has already appeared more than
 once in the history.
 
 Matthews's case itself is one example: the hospital record did not simply
@@ -317,7 +320,7 @@ The cleaner stance is:
 
 ```text
 diagnostic categories can be clinically useful
-diagnostic institutions can over-stretch their authority
+psychiatric and diagnostic institutions can overreach
 commercial systems can influence standards and treatment culture
 therefore classification must be used, sourced, and bounded
 ```
@@ -395,7 +398,8 @@ The Air Loom did not merely decorate schizophrenia history.
 It supplied a machine-form record that later psychiatry could classify.
 ```
 
-That is the line that survives medical reduction and conspiracy overstretching.
+That is the line that survives medical overreach while still keeping mechanism,
+chronology, and source distance visible.
 
 ## Influence Machine Pattern
 
