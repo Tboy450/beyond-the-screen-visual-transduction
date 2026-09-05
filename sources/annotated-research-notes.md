@@ -150,6 +150,16 @@ revolutionary interpretation in the same frame.
 Source:
 https://doi.org/10.1353/sec.2010.0299
 
+### Weiner: Pinel's Memoir On Madness
+
+Useful for the French Revolutionary psychiatry layer. Pinel's 1794 memoir sits
+inside the same revolutionary period as Matthews's French mission and shows
+psychiatric authority changing through moral treatment, case observation, and
+new asylum reform language.
+
+Source:
+https://pubmed.ncbi.nlm.nih.gov/1590490/
+
 ### Carpenter: Descriptions Of Schizophrenia In Georgian Britain
 
 Useful for the medical-history line. Carpenter describes Haslam's Matthews
@@ -158,6 +168,16 @@ psychiatric writing while explaining why clear earlier accounts are rare.
 
 Source:
 https://doi.org/10.1016/0010-440X(89)90058-8
+
+### Diagnostic Lineage: Kraepelin To ICD-11
+
+Useful for treating schizophrenia as a historical diagnostic sequence rather
+than a timeless label. It supports the move from dementia praecox, Bleuler,
+first-rank symptoms, and operational DSM/ICD criteria into current diagnostic
+models.
+
+Source:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11272318/
 
 ### Tausk: Influencing Machine In Schizophrenia
 
@@ -177,6 +197,27 @@ retrospective classification, not an eighteenth-century diagnosis.
 Source:
 https://doi.org/10.1176/appi.ajp.2008.08050714
 
+### Schneider First-Rank Symptoms
+
+Useful for the clinical bridge between machine-influence narratives and later
+criteria. The review lists thought insertion, thought withdrawal, thought
+broadcasting, somatic hallucination, and actions or feelings experienced as
+made or influenced by external agents, while also showing why first-rank
+symptoms are not diagnostic proof by themselves.
+
+Source:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7079421/
+
+### De Clerambault And Mental Automatism
+
+Useful for the French clinical bridge after Pinel and before operational
+diagnosis. Mental automatism keeps the focus on imposed or automatic thought,
+speech, sensation, and action before reducing the experience to a literal
+machine.
+
+Source:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11202699/
+
 ### WHO And NIMH: Current Schizophrenia Framing
 
 Useful for a current clinical baseline without letting the chapter become
@@ -186,6 +227,17 @@ NIMH gives a compact current definition and prevalence caveats.
 Sources:
 https://www.who.int/news-room/fact-sheets/detail/schizophrenia
 https://www.nimh.nih.gov/health/statistics/schizophrenia
+
+### Hospital And Pharmaceutical Critique
+
+Useful for keeping diagnostic authority from becoming circular. Rosenhan
+anchors the hospital-labeling critique, while Cosgrove and Krimsky anchor the
+DSM/pharmaceutical-conflict critique. These sources do not erase clinical use;
+they keep institutional pressure visible.
+
+Sources:
+https://pubmed.ncbi.nlm.nih.gov/4683124/
+https://doi.org/10.1371/journal.pmed.1001190
 
 ### Robison, Barruel, And Revolutionary Conspiracy Grammar
 

@@ -59,20 +59,37 @@ For short notes on how each source supports the encyclopedia, see
 - Porter, Roy, "Reason, Madness, and the French Revolution," Studies in
   Eighteenth-Century Culture, 1991:
   https://doi.org/10.1353/sec.2010.0299
+- Weiner, Dora B., "Philippe Pinel's 'Memoir on Madness' of December 11,
+  1794," American Journal of Psychiatry, 1992:
+  https://pubmed.ncbi.nlm.nih.gov/1590490/
 - Carpenter, P. K., "Descriptions of schizophrenia in the psychiatry of
   Georgian Britain: John Haslam and James Tilly Matthews," Comprehensive
   Psychiatry, 1989:
   https://doi.org/10.1016/0010-440X(89)90058-8
+- Shmukler, A. B., "The Evolution of Approaches to Schizophrenia Diagnostics:
+  from Kraepelin to ICD-11":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11272318/
 - Tausk, Victor, "On the Origin of the 'Influencing Machine' in
   Schizophrenia":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC3330285/
 - Fusar-Poli, Paolo, and Pierluigi Politi, "Paul Eugen Bleuler and the Birth of
   Schizophrenia (1908)":
   https://doi.org/10.1176/appi.ajp.2008.08050714
+- Soares-Weiser, Karla, et al., "First rank symptoms for schizophrenia":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC7079421/
+- Ricci, Valerio, et al., "Rethinking Mental Automatism: De Clerambault's
+  Theory in Substance-Induced Psychoses":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11202699/
 - World Health Organization, "Schizophrenia":
   https://www.who.int/news-room/fact-sheets/detail/schizophrenia
 - National Institute of Mental Health, "Schizophrenia":
   https://www.nimh.nih.gov/health/statistics/schizophrenia
+- Rosenhan, D. L., "On Being Sane in Insane Places," Science, 1973:
+  https://pubmed.ncbi.nlm.nih.gov/4683124/
+- Cosgrove, Lisa, and Sheldon Krimsky, "A Comparison of DSM-IV and DSM-5 Panel
+  Members' Financial Associations with Industry: A Pernicious Problem
+  Persists," PLoS Medicine, 2012:
+  https://doi.org/10.1371/journal.pmed.1001190
 - Robison, John, "Proofs of a Conspiracy," Project Gutenberg:
   https://www.gutenberg.org/ebooks/47605
 - Barruel, Abbe, "Memoirs Illustrating the History of Jacobinism":

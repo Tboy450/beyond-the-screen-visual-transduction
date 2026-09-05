@@ -36,7 +36,7 @@ Each lane anchors a different part of the line.
 | --- | --- | --- | --- |
 | Primary Air Loom record | Haslam, Wellcome, Wikisource | The machine, operators, named tortures, political accusations, and medical-opinion dispute as they entered print in 1810. | That the Air Loom existed as a working apparatus. |
 | Revolutionary diplomacy | Williams, Howard, Porter, Jay | Matthews inside the real politics of Britain, France, Girondin contact, peace mediation, imprisonment, and war panic. | That every later claim Matthews made about ministers, spies, or machines was true. |
-| Psychiatric influence-machine line | Carpenter, Tausk, WHO, NIMH, Hirjak/Fuchs, Lustig/JMIR | The later recognition of thought influence, passivity, technical alien control, and machine-mediated persecution as psychiatric patterns. | That medical classification cancels the political history of the case. |
+| Psychiatric influence-machine line | Carpenter, Kraepelin/Bleuler histories, Tausk, de Clerambault, Schneider/first-rank symptom reviews, WHO, NIMH, Hirjak/Fuchs, Lustig/JMIR | The later recognition of thought influence, passivity, technical alien control, and machine-mediated persecution as psychiatric patterns. | That medical classification cancels the political history of the case. |
 | Conspiracy and secrecy grammar | Robison, Barruel, Tackett, Senate MKULTRA records, National Security Archive material on the Moscow Signal and Project PANDORA | The surrounding language of hidden networks, secret operators, state secrecy, covert research, and invisible carriers. | That later covert programs verify Matthews's Air Loom or backdate twentieth-century technologies into 1790s London. |
 
 The hard line is not built from one source proving everything. It is built from
@@ -97,6 +97,8 @@ to their time.
 | 1815-1816 | Parliamentary investigation of madhouses damaged Haslam's standing and led to his dismissal from Bethlem. | The medical authority that fixed the case in print was itself later under institutional scrutiny. |
 | 1908-1911 | Eugen Bleuler introduced and developed the term schizophrenia. | Calling Matthews "schizophrenic" is necessarily retrospective. |
 | 1919 | Victor Tausk published on the "influencing machine" in schizophrenia. | The Air Loom became part of a broader psychiatric line about machines of influence, control, and bodily agency. |
+| 1920s | Gaetan Gatian de Clerambault developed the French concept of mental automatism. | It gave psychiatry another vocabulary for thoughts, sensations, words, or actions experienced as automatic, imposed, or alien to the self. |
+| 1950s | Kurt Schneider's first-rank symptoms became influential in schizophrenia diagnosis. | Thought insertion, withdrawal, broadcasting, somatic influence, and made actions created a compact bridge between machine-influence narratives and later clinical criteria. |
 | 1989 | P. K. Carpenter described Haslam's Matthews account as the earliest clear description of schizophrenia in British psychiatric writing. | The medical lineage is explicit, but it is a later interpretation of an older case. |
 
 ## The Primary Record
@@ -156,7 +158,7 @@ less clean.
 | Medical-only disavowal | The documented revolutionary mission, imprisonment, family challenge, and asylum-politics dispute. | It turns real history into mere symptom decoration. |
 | Conspiracy-only disavowal | The technical incoherence of the Air Loom and the later psychiatric pattern of influence, passivity, and thought control. | It treats context as proof and avoids mechanism. |
 | Official-secrecy disavowal | Later verified covert research, such as MKULTRA and Project PANDORA, as part of the modern reader's suspicion field. | It can make all hidden-influence concern look irrational by default. |
-| Fringe-overreach disavowal | Chronology, physics, source distance, and the absence of corroborated Air Loom hardware. | It lets later secrecy stand in for proof of an earlier claim. |
+| Fringe overstretching | Chronology, physics, source distance, and the absence of corroborated Air Loom hardware. | It lets later secrecy stand in for proof of an earlier claim. |
 
 The contradiction is not a flaw to hide. It is the reason the case matters.
 The same file can be a medical document, a political document, and a machine-
@@ -183,6 +185,32 @@ political costume placed on a timeless symptom. It grew after:
 
 The revolutionary layer does not vindicate the machine. It prevents the case
 from being reduced to machine content alone.
+
+## French Revolutionary Psychiatry Layer
+
+The French Revolution also matters because psychiatric authority was changing
+inside France at the same historical moment. Pinel's work at Bicetre and
+Salpetriere is usually remembered through the humanitarian language of moral
+treatment: observation, conversation, reduced physical restraint, case history,
+and the attempt to treat the alienated person as still partly reachable by
+reason.
+
+That history strengthens the Air Loom chapter, but not as simple progress. It
+shows that the Revolution changed both sides of the record:
+
+```text
+political revolution
+-> new claims about reason, citizenship, and hidden enemies
+-> asylum reform and psychiatric classification
+-> new authority to define madness through observation and case history
+```
+
+Pinel's line makes the French context larger than diplomacy. It also shows why
+a purely institutional medical reading is too smooth. Humane reform could
+reduce cruelty and still increase the power of the physician, the asylum, and
+the written case record. That is directly relevant to Matthews because
+Haslam's Air Loom account became powerful through exactly that kind of case
+record.
 
 ## Medical Stance
 
@@ -212,12 +240,90 @@ persecution
 -> organized explanatory system
 ```
 
-The weakness is historical overreach. Schizophrenia was not named until
+The weakness is historical over-stretching. Schizophrenia was not named until
 Bleuler's early twentieth-century work. Matthews cannot be examined directly.
 The main record was written by Haslam, who was defending a contested detention
 and a contested medical judgment. The medical reading is strong as a later
 classification of a record; it becomes weaker when it pretends the record has
 no political or institutional remainder.
+
+## Clinical And DSM Lineage
+
+The medical line should be shown as a sequence of classifications, not as a
+single timeless verdict.
+
+```text
+Haslam's published case record
+-> Kraepelin's dementia praecox
+-> Bleuler's schizophrenia
+-> Tausk's influencing machine
+-> de Clerambault's mental automatism
+-> Schneider's first-rank symptoms
+-> DSM and ICD operational criteria
+-> current symptom and impairment models
+```
+
+This progression matters because Matthews is often pulled backward into a
+diagnosis that did not yet exist. The pull is understandable: the Air Loom
+contains external control, thought interference, bodily influence, and an
+organized persecutory system. But the pull must be named as retrospective.
+
+Schneider's first-rank symptoms are especially relevant because they include
+thought insertion, thought withdrawal, thought broadcasting, somatic
+hallucinations, and feelings or actions experienced as made or influenced by
+external agents. That list gives later psychiatry a precise bridge to
+Matthews, but even first-rank symptoms have been re-evaluated rather than left
+as absolute proof.
+
+De Clerambault adds a useful French bridge between Pinel's revolutionary-era
+asylum world and later diagnostic standardization. Mental automatism describes
+psychic events that appear to run by themselves or arrive as if imposed:
+phrases, impulses, sensations, inner speech, bodily movements, or thought
+sequences that no longer feel self-generated. That vocabulary is important
+because it does not require a literal machine at the center. It names the loss
+of authorship or agency first, then asks how the person explains it.
+
+DSM and ICD classifications then operationalized schizophrenia through rules,
+duration, impairment, exclusions, and symptom clusters. That standardization
+made research and diagnosis more repeatable, but it also made the category more
+institutional. Once a category controls records, insurance, courts, treatment,
+detention, disability, medication access, and social identity, it has to be
+read as both clinical language and administrative power.
+
+## Institutional And Pharmaceutical Critique
+
+The criticism of psychiatric over-stretching has already appeared more than
+once in the history.
+
+Matthews's case itself is one example: the hospital record did not simply
+describe him; it helped authorize his confinement. His family and outside
+physicians challenged that confinement, and Haslam's authority was later
+damaged during madhouse reform politics.
+
+Rosenhan's 1973 hospital study became another major critique. It argued that
+psychiatric hospitals could misread behavior through the environment and label
+through expectation. The study itself has been debated, but the institutional
+problem it raised remains directly relevant: once a person is inside a
+diagnostic setting, ordinary behavior can be interpreted through the label.
+
+Pharmaceutical influence adds a separate pressure. Cosgrove and Krimsky's
+DSM-5 conflict-of-interest analysis argued that many DSM panel members had
+financial ties to the pharmaceutical industry and that disclosure alone does
+not remove potential bias. This does not prove that schizophrenia is invented
+or that treatment is only commerce. It does mean the chapter should not let
+DSM-style authority function as circular proof.
+
+The cleaner stance is:
+
+```text
+diagnostic categories can be clinically useful
+diagnostic institutions can over-stretch their authority
+commercial systems can influence standards and treatment culture
+therefore classification must be used, sourced, and bounded
+```
+
+That is why this chapter treats the medical line as one source lane, not as the
+final owner of the historical record.
 
 ## Conspiracy Stance
 
@@ -289,7 +395,7 @@ The Air Loom did not merely decorate schizophrenia history.
 It supplied a machine-form record that later psychiatry could classify.
 ```
 
-That is the line that survives both over-medicalization and over-conspiracy.
+That is the line that survives medical reduction and conspiracy overstretching.
 
 ## Influence Machine Pattern
 
@@ -335,6 +441,32 @@ but mechanism and chronology still decide the claim
 This is why the Air Loom cannot be treated as proven by later secrecy, and
 also cannot be dismissed by pretending secrecy has no history.
 
+## Mechanism Without Mockery
+
+The Air Loom's printed machinery can be read two ways. It records Matthews's
+system in detail, but the detail also makes the system easy to ridicule:
+barrels, gases, magnetic fluids, rays, batteries, levers, operators, and named
+tortures can be arranged until the idea looks absurd before the underlying
+claim is even considered.
+
+That matters because demanding that every reader immediately understand an
+unfamiliar mechanism can itself become a way to dismiss the subject. A weak
+explanation is not the same thing as a false experience. A strange technical
+vocabulary is not the same thing as proof.
+
+The fair test is narrower:
+
+```text
+what effect is claimed?
+what carrier is proposed?
+what transducer or coupling mechanism is proposed?
+what observation would separate signal from interpretation?
+what source could disagree with the claim?
+```
+
+This keeps mechanism visible without turning the printed machine into a
+mockery device.
+
 ## Contradictions To Keep Visible
 
 Matthews's story gains force because it does not sit neatly inside one frame.
@@ -369,6 +501,8 @@ source_types:
   - history of revolutionary diplomacy
   - conspiracy-history scholarship
   - current clinical classification references
+  - institutional critique
+  - pharmaceutical-conflict critique
 evidence_strength:
   Matthews political involvement: strong historical documentation
   Air Loom as reported belief: strong primary documentation
@@ -376,6 +510,7 @@ evidence_strength:
   schizophrenia classification: strong retrospective fit, limited by distance
   conspiracy atmosphere: strong cultural documentation
   MKULTRA and PANDORA: later verified secrecy context, not backdated proof
+  DSM/pharma critique: institutional context, not diagnosis rejection
 ```
 
 ## Research Questions
@@ -390,6 +525,31 @@ evidence_strength:
   periods of fast media change?
 - What would count as evidence for a claimed influence mechanism, beyond
   coherence, fear, repetition, or political plausibility?
+
+## Source Notes For This Chapter
+
+- Haslam supplies the published Air Loom record and the medical-opinion
+  conflict, but he is not a neutral recorder.
+- Williams and Howard anchor Matthews in real revolutionary diplomacy before
+  Bethlem.
+- Porter keeps the Revolution, reason, madness, and political interpretation
+  in the same historical field.
+- Jay connects the Air Loom case to Matthews's life, Bethlem, and later
+  cultural meaning.
+- Carpenter gives the strongest later medical-history claim for Matthews as an
+  early British schizophrenia record.
+- Tausk supplies the later "influencing machine" concept.
+- De Clerambault supplies the mental-automatism bridge: imposed thought,
+  sensation, word, and action before the explanation is reduced to one machine.
+- Schneider, WHO, and NIMH supply the clinical bridge through passivity,
+  thought influence, and modern symptom language.
+- Rosenhan, Cosgrove, and Krimsky keep hospital power and pharmaceutical
+  influence visible as pressures on psychiatric authority.
+- Hirjak/Fuchs and Lustig/JMIR carry the technical-control pattern into modern
+  machine and network language.
+- Robison, Barruel, and Tackett supply the revolutionary conspiracy grammar.
+- MKULTRA and Project PANDORA supply later secrecy context without verifying
+  the Air Loom.
 
 ## Related Entries
 
@@ -421,10 +581,20 @@ evidence_strength:
 - Roy Porter, "Reason, Madness, and the French Revolution," *Studies in
   Eighteenth-Century Culture*:
   https://doi.org/10.1353/sec.2010.0299
+- Dora B. Weiner, "Philippe Pinel's 'Memoir on Madness' of December 11, 1794":
+  https://pubmed.ncbi.nlm.nih.gov/1590490/
 - P. K. Carpenter, "Descriptions of schizophrenia in the psychiatry of
   Georgian Britain: John Haslam and James Tilly Matthews," *Comprehensive
   Psychiatry*:
   https://doi.org/10.1016/0010-440X(89)90058-8
+- Shmukler, "The Evolution of Approaches to Schizophrenia Diagnostics: from
+  Kraepelin to ICD-11":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11272318/
+- Soares-Weiser et al., "First rank symptoms for schizophrenia":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC7079421/
+- Ricci et al., "Rethinking Mental Automatism: De Clerambault's Theory in
+  Substance-Induced Psychoses":
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11202699/
 - Victor Tausk, "On the Origin of the 'Influencing Machine' in
   Schizophrenia":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC3330285/
@@ -432,6 +602,11 @@ evidence_strength:
   https://www.who.int/news-room/fact-sheets/detail/schizophrenia
 - National Institute of Mental Health, "Schizophrenia":
   https://www.nimh.nih.gov/health/statistics/schizophrenia
+- Rosenhan, "On Being Sane in Insane Places":
+  https://pubmed.ncbi.nlm.nih.gov/4683124/
+- Cosgrove and Krimsky, "A Comparison of DSM-IV and DSM-5 Panel Members'
+  Financial Associations with Industry":
+  https://doi.org/10.1371/journal.pmed.1001190
 - John Robison, *Proofs of a Conspiracy*:
   https://www.gutenberg.org/ebooks/47605
 - Abbe Barruel, *Memoirs Illustrating the History of Jacobinism*:
