@@ -1,5 +1,7 @@
 # 13. Creative Engineering Concepts
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 This chapter expands the possibility space. The goal is to move ideas from
 vague science-fiction claims toward explicit conceptual architectures with
 targets, carriers, transducers, workarounds, and limits.
@@ -75,7 +77,7 @@ For project-ready directions, use
 
 ### Artificial Fovea
 
-- Status: Prototype/speculative
+- Status: Proposed/speculative
 - Target: Near-eye display, retinal projector, or prosthetic interface
 - Workaround: Use high detail only where the user is looking or attending.
 - Why it helps: Real vision already has high acuity in the fovea and lower
@@ -84,7 +86,7 @@ For project-ready directions, use
 
 ### Event-Based Visual Stream
 
-- Status: Prototype
+- Status: Proposed
 - Target: Assistive display or neural interface front end
 - Workaround: Transmit changes, motion, and edges instead of full frames.
 - Why it helps: Reduces bandwidth and emphasizes behaviorally useful events.
@@ -102,7 +104,7 @@ For project-ready directions, use
 
 ### Scene Skeleton
 
-- Status: Speculative/prototype
+- Status: Speculative/proposed
 - Target: Wearable assistive system, semantic overlay, or future prosthesis
 - Workaround: Encode the environment as a graph of paths, walls, obstacles,
   people, stairs, doors, and moving objects.
@@ -111,7 +113,7 @@ For project-ready directions, use
 
 ### Depth-First Vision
 
-- Status: Prototype
+- Status: Proposed
 - Target: Mobility assistance or prosthetic preprocessing
 - Workaround: Prioritize distance, collision risk, step edges, and motion.
 - Why it helps: Depth cues can be more useful than color for navigation.
@@ -138,7 +140,7 @@ For project-ready directions, use
 
 ### Cross-Modal HUD
 
-- Status: Prototype
+- Status: Proposed
 - Target: Hearing, touch, residual vision, or a combination
 - Workaround: Split the visual scene into multiple channels.
 - Why it helps: A weak visual channel can be supported by sound or touch.
@@ -193,3 +195,7 @@ For more open-ended exploration, see the main
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
 - [10. Memory Branch](10-memory-branch.md)
 - [11. Safety And Ethics](11-safety-and-ethics.md)
+
+---
+
+[Previous chapter](12-gallery.md) · [Contents](../CONTENTS.md) · [Next chapter](14-knowledge-representation.md)

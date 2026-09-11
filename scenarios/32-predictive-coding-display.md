@@ -1,5 +1,7 @@
 # 32. Predictive-Coding Display
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Speculative
 - Interface point: Perception and cognition
 - Carrier: Any usable sensory, prosthetic, or symbolic channel
@@ -53,4 +55,3 @@ The user's own perception and memory fill in a usable model of the space.
 - Can too much prediction cause false confidence?
 - How should the system show surprise or uncertainty?
 - Can a user learn to interact with a predictive cue stream fluidly?
-

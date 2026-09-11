@@ -1,5 +1,7 @@
 # 07. Visual Pathway
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 The visual pathway is the biological communication route between retina and
 visual experience.
 
@@ -63,3 +65,6 @@ This treats perception as a multi-stage system rather than a single screen.
 - [08. Neural Interfaces](08-neural-interfaces.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
 
+---
+
+[Previous chapter](06-retina.md) · [Contents](../CONTENTS.md) · [Next chapter](08-neural-interfaces.md)

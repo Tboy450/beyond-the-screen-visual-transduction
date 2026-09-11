@@ -1,5 +1,7 @@
 # 00. Display Transduction Foundations
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 Display systems are foundational examples for this encyclopedia because they
 show how encoded information becomes a controlled perceptual event through
 physical conversion, addressing, timing, and biological reception.
@@ -88,3 +90,7 @@ orientation, motion, depth, hazard, or object identity.
 - [03. Carriers](03-carriers.md)
 - [04. Transducers](04-transducers.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
+
+---
+
+[Introduction](../INTRODUCTION.md) · [Contents](../CONTENTS.md) · [Next chapter](01-display-physics.md)

@@ -1,5 +1,7 @@
 # 12. Electronic Retina
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Retina
 - Carrier: Electrical current from an implanted device

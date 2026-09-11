@@ -1,5 +1,7 @@
 # 14. Ganglion-Cell Encoder
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Speculative
 - Interface point: Retinal output layer
 - Carrier: Electrical, optical, or future local transduction
@@ -51,4 +53,3 @@ whose output vocabulary matters.
 - Can an artificial output code be learned even if it is not biologically exact?
 - How much spatial detail is needed if motion and edges are strong?
 - Can retinal output be modeled as a language with a small useful vocabulary?
-

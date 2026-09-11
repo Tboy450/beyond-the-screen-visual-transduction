@@ -1,5 +1,7 @@
 # 03. Carriers
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 A carrier is the physical thing that moves information from one place to
 another. The same information can ride on many carriers, but each carrier has
 different constraints.
@@ -65,3 +67,7 @@ For any carrier-based proposal, ask:
 - [04. Transducers](04-transducers.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
 - [11. Safety And Ethics](11-safety-and-ethics.md)
+
+---
+
+[Previous chapter](02-signal-encoding.md) · [Contents](../CONTENTS.md) · [Next chapter](04-transducers.md)

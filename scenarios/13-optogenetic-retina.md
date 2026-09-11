@@ -1,5 +1,7 @@
 # 13. Optogenetic Retina
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Retina
 - Carrier: Light
@@ -29,6 +31,16 @@ camera
 -> visual cortex
 -> trained perception
 ```
+
+## Evidence and Its Scope
+
+[Sahel et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34031601/) reported a
+single participant with retinitis pigmentosa who, after treatment, could
+locate, count, and touch objects while using engineered goggles with the
+treated eye. Object detection was absent in the reported conditions without
+the goggles. This is a case report of partial function with a combined
+biological and optical intervention, not a general estimate of treatment
+effectiveness.
 
 ## Why It Belongs In This Encyclopedia
 

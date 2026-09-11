@@ -1,14 +1,16 @@
 # 27. Focused-Ultrasound Vision Interface
 
-- Status: Research
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
+- Status: Research on stimulation; speculative as a visual display
 - Interface point: Brain tissue, including visual cortex in some studies
 - Carrier: Focused acoustic pressure
 - Source transducer: Piezoelectric ultrasound device
 - Biological coupling or effect: Ultrasound-mediated neural modulation
 - Encoding style: Modulation, cueing, or experimental stimulation
 - Addressing method: Acoustic focus; perceptual selectivity remains unresolved
-- Expected percept: Transient, usually diffuse phosphene-like sensations or
-  measurable neural modulation in reported studies
+- Reported percept: Phosphene sensations in a cited human study
+- Other measured outcomes: fMRI and EEG responses; these are not themselves percepts
 - Main limitations: Safety, targeting, repeatability, mechanism, and resolution
 
 ## Summary
@@ -22,14 +24,24 @@ major obstacles.
 ## Chain Map
 
 ```text
-encoded cue
+experimental drive signal
 -> ultrasound transducer
 -> focused acoustic energy
 -> neural modulation
 -> percept or measurable brain response
 ```
 
-## Engineering Workarounds
+## Evidence and Its Scope
+
+[Lee et al. (2016)](https://pubmed.ncbi.nlm.nih.gov/27658372/) reported
+phosphene sensations alongside fMRI and EEG responses during human
+visual-cortex stimulation. Their simulations also found variation in the
+acoustic focus between individuals. These observations do not demonstrate
+an encoded image channel or establish safe repeated use over long periods.
+An anatomical focus and a reliably distinguishable percept are separate
+requirements.
+
+## Proposed Engineering Directions
 
 - Use ultrasound for coarse cueing rather than high-resolution imagery.
 - Pair ultrasound with a wearable display or audio/tactile channel.

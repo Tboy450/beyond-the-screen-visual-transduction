@@ -1,6 +1,8 @@
 # 34. Semantic Visual Interface
 
-- Status: Speculative/prototype
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
+- Status: Speculative/proposed
 - Interface point: Cognition and perception
 - Carrier: Visual overlay, audio, tactile cue, or future prosthetic symbol
 - Transducer: Output device or neural interface
@@ -52,4 +54,3 @@ sensor input
 - When should the system stay quiet?
 - How can uncertainty be represented elegantly?
 - Can semantic cues become perception-like through training?
-

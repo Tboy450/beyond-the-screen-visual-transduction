@@ -7,6 +7,19 @@ list when they make technical claims.
 For short notes on how each source supports the encyclopedia, see
 [Annotated Research Notes](annotated-research-notes.md).
 
+## Editorial Source Guide
+
+See [How to Read the Evidence](evidence-guide.md) for status definitions and
+selected claim-to-source comparisons.
+
+- Delbruck, Tobi; Graca, Rui; Paluch, Marcin. “Feedback Control of Event
+  Cameras” (2021). Primary sensor-engineering research; supports the
+  distinction between brightness-change events and interpreted scene events.
+  [Author manuscript](https://arxiv.org/abs/2105.00409).
+- Purves, Dale, et al., editors. “The Retina,” in *Neuroscience*, 2nd edition
+  (2001). Textbook background for the simplified retinal circuit diagram.
+  [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK10885/).
+
 ## Source Conversation
 
 - Shared ChatGPT conversation:
