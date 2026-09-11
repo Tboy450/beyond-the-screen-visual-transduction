@@ -1,5 +1,7 @@
 # 54. Associative Reconstruction
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research concept
 - Interface point: Recall and imagination
 - Carrier: Ordinary sensory cues, language, context, or symbols
@@ -52,4 +54,3 @@ cue
 - How do repeated cues alter the memory?
 - Can a system show the difference between remembered, inferred, and imagined
   detail?
-

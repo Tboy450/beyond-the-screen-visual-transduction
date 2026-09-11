@@ -1,5 +1,7 @@
 # 10. Memory Branch
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 The memory branch is where display-based comparisons become weakest and where
 the encyclopedia must be most careful.
 
@@ -28,7 +30,7 @@ reconstructive, and influenced by later context.
 | Memory cue | Established | A photo, smell, sound, place, or phrase triggers recall. |
 | Spaced rehearsal | Established | Repeated review strengthens retention. |
 | Multisensory cueing | Research concept | Combining sensory cues can support recall. |
-| Dream rehearsal notebook | Prototype concept | Images and narration are used to support voluntary recall. |
+| Dream rehearsal notebook | Proposed | Images and narration are proposed as voluntary recall prompts; benefit requires evaluation. |
 | Context restoration | Research concept | Recreating context can improve recall. |
 
 ## Frontier Concepts
@@ -66,3 +68,7 @@ technology than neural writing.
 
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
 - [11. Safety And Ethics](11-safety-and-ethics.md)
+
+---
+
+[Previous chapter](09-perceptual-rendering.md) · [Contents](../CONTENTS.md) · [Next chapter](11-safety-and-ethics.md)

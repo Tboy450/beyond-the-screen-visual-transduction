@@ -1,5 +1,7 @@
 # 04. Transducers
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 A transducer converts information from one physical form into another. A
 phosphor screen is a clear display example: electron impact becomes visible
 light.
@@ -72,3 +74,7 @@ power, heat, biocompatibility, and control.
 - [01. Display Physics](01-display-physics.md)
 - [03. Carriers](03-carriers.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
+
+---
+
+[Previous chapter](03-carriers.md) · [Contents](../CONTENTS.md) · [Next chapter](05-eye-optics.md)

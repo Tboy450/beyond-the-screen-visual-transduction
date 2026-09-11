@@ -1,5 +1,7 @@
 # 06. Retinal Projection
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Eye and retina
 - Carrier: Visible light
@@ -39,4 +41,3 @@ image data
 - How stable can the image remain during eye movement?
 - Can brightness adapt safely across environments?
 - Is the best use full vision, augmented vision, or task-specific cueing?
-

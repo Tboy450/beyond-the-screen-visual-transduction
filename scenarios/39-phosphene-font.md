@@ -1,5 +1,7 @@
 # 39. Phosphene Font
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research/speculative
 - Interface point: Retina or visual cortex
 - Carrier: Depends on interface
@@ -50,4 +52,3 @@ scene or message
 - Which percepts are stable across users?
 - How much training creates automatic interpretation?
 - Could a font be personalized like a prosthetic fit?
-

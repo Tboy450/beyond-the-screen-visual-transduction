@@ -1,6 +1,8 @@
 # 50. Event-Based Vision Stream
 
-- Status: Prototype
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
+- Status: Proposed assistive interface; established sensor principle
 - Interface point: Assistive display, sensory substitution, or prosthetic front end
 - Carrier: Any output channel
 - Transducer: Display, audio, haptic, retinal, or neural interface
@@ -24,16 +26,26 @@ visual change
 -> learned perception
 ```
 
-## What Counts As An Event?
+## Sensor Events and Interpreted Events
 
-- Edge appears
-- Edge disappears
-- Object moves
-- Brightness changes
-- Obstacle approaches
-- Door opens
-- Hand enters field
-- Text region appears
+In a dynamic vision sensor, an event reports a local brightness change at a
+pixel. It does not directly mean “door opens” or “obstacle approaches.” Those
+descriptions require further processing. Event rate also varies with the
+scene, motion, noise, and sensor settings; it is not a guaranteed reduction
+in data under every condition.
+[Delbruck, Graca, and Paluch (2021)](https://arxiv.org/abs/2105.00409) examine
+event-rate and noise control at the sensor level.
+
+| Level | Example | What must be added |
+| --- | --- | --- |
+| Sensor event | Brightness increased at a pixel. | Timing and spatial information from the sensor. |
+| Derived feature | A moving edge or motion estimate. | Processing of multiple events and explicit assumptions. |
+| Semantic event | A door is opening. | Recognition, context, and an uncertainty estimate. |
+| User cue | An opening is on the left. | A selected message and a learnable output channel. |
+
+The assistive route proposed here still needs evaluation with a defined task
+and intended users. Sensor performance alone does not establish usefulness
+as a perceptual interface.
 
 ## Expansion Ideas
 
@@ -56,4 +68,3 @@ visual change
 - Tayarani-Najaran and Schmuker, "Event-Based Sensing and Signal Processing in
   the Visual, Auditory, and Olfactory Domain":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8203204/
-

@@ -1,5 +1,7 @@
 # 24. Magnetic Phosphene System
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Visual cortex
 - Carrier: Time-varying magnetic field
@@ -49,4 +51,3 @@ field pulse or pattern
 - Salminen-Vaparanta et al., "Is Selective Primary Visual Cortex Stimulation
   Achievable With TMS?":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC6870472/
-

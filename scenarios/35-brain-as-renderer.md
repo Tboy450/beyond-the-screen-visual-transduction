@@ -1,5 +1,7 @@
 # 35. Brain-As-Renderer
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Frontier
 - Interface point: Whole perceptual system
 - Carrier: Sparse sensory, symbolic, or neural cues
@@ -56,4 +58,3 @@ world
 - Which cue combinations produce the most accurate reconstruction?
 - Can training make sparse cues feel immediate?
 - How do memory and expectation help or distort the result?
-

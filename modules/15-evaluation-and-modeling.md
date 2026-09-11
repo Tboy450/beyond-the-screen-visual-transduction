@@ -1,5 +1,7 @@
 # 15. Evaluation And Model Methods
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 Formal methods help the encyclopedia compare ideas without pretending that a
 single number captures perception. They are useful for safe toy models,
 ordinary-interface studies, source-grounding audits, AI-assisted analysis, and
@@ -156,3 +158,7 @@ with the proposed explanation:
 
 If the only successful test is a restatement of the model's own categories,
 the test has measured organization, not the phenomenon under discussion.
+
+---
+
+[Previous chapter](14-knowledge-representation.md) · [Contents](../CONTENTS.md) · [Next chapter](16-air-loom-schizophrenia-and-influence-machines.md)

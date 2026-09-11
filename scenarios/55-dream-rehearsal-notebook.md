@@ -1,12 +1,14 @@
 # 55. Dream Rehearsal Notebook
 
-- Status: Prototype concept
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
+- Status: Proposed
 - Interface point: Voluntary memory cueing
 - Carrier: Ordinary images, narration, text, sound, and repetition
 - Transducer: Normal senses and attention
 - Encoding style: Multisensory recall prompts
 - Addressing method: Personal association and review timing
-- Expected percept: Stronger or more vivid voluntary recall
+- Intended outcome: Support voluntary recall; effects on accuracy and vividness require evaluation
 - Related modules: [Memory Branch](../modules/10-memory-branch.md), [Creative Engineering](../modules/13-creative-engineering.md)
 
 ## Summary
@@ -33,6 +35,13 @@ It is a memory-side analogue of screenless display. The "display" is not a
 phosphor screen or neural implant. The display is a controlled set of cues that
 the user voluntarily uses to reconstruct an internal scene.
 
+## Evidence Boundary
+
+This entry proposes a notebook design. It does not cite an evaluation of that
+design or establish that it improves recall. A study would need to compare
+accuracy, omissions, and invented details as well as confidence or vividness.
+Keep source material distinct from later generated or imagined additions.
+
 ## Expansion Ideas
 
 - Memory lantern cards: each memory gets image, sound, location, and narrative
@@ -53,4 +62,3 @@ the user voluntarily uses to reconstruct an internal scene.
 - Can generated imagery help memory, or does it increase distortion?
 - How should a system preserve the difference between real memory, imagined
   scene, and edited reconstruction?
-

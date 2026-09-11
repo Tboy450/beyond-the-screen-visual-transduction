@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
+  <title id="title">Four routes from information to perception</title>
+  <desc id="desc">Four horizontal chains compare conventional display, retinal projection, neural prosthesis, and sensory substitution. Each identifies encoded input, physical conversion, sensory entry point, and outcome. Neural prosthesis results are experiment-specific; route families are not a readiness ranking.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#66747b" stroke-width="1.5"/></marker>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; fill: #172e3b; }
+      .eyebrow { font-size: 14px; font-weight: 700; letter-spacing: 2px; fill: #627478; }
+      .title { font-family: Georgia, serif; font-size: 40px; }
+      .sub { font-size: 19px; fill: #50636b; }
+      .label { font-size: 14px; font-weight: 700; letter-spacing: 1px; fill: #627478; }
+      .route { font-size: 23px; font-weight: 600; }
+      .status { font-size: 16px; fill: #50636b; }
+      .main { font-size: 19px; font-weight: 600; text-anchor: middle; }
+      .detail { font-size: 17px; text-anchor: middle; fill: #50636b; }
+      .note { font-size: 17px; fill: #50636b; }
+      .line { stroke: #66747b; stroke-width: 1.5; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="960" fill="#faf8f2"/>
+  <text x="48" y="46" class="eyebrow">THE SCREENLESS SIGHT CODEX / FIGURE 1</text>
+  <text x="48" y="101" class="title">Four routes to perception</text>
+  <text x="48" y="139" class="sub">Change the route. Identify every conversion. Ask what the person can use.</text>
+  <path d="M48 167 H1152" stroke="#cbd3cf"/>
+  <text x="48" y="201" class="label">ENCODED INPUT</text>
+  <text x="332" y="201" class="label">PHYSICAL CONVERSION</text>
+  <text x="616" y="201" class="label">SENSORY ENTRY</text>
+  <text x="900" y="201" class="label">OUTCOME</text>
+
+  <text x="48" y="245" class="route">01 / Conventional display</text>
+  <text x="660" y="245" class="status">Established display principles</text>
+  <g fill="#e8f0ed" stroke="#b7cec4">
+    <rect x="48" y="263" width="252" height="84" rx="10"/><rect x="332" y="263" width="252" height="84" rx="10"/><rect x="616" y="263" width="252" height="84" rx="10"/><rect x="900" y="263" width="252" height="84" rx="10"/>
+  </g>
+  <text x="174" y="299" class="main">Image signal</text><text x="174" y="326" class="detail">brightness, color, timing</text>
+  <text x="458" y="299" class="main">Display element</text><text x="458" y="326" class="detail">emits or modulates light</text>
+  <text x="742" y="299" class="main">Eye and retina</text><text x="742" y="326" class="detail">photoreceptors receive light</text>
+  <text x="1026" y="299" class="main">Visual perception</text><text x="1026" y="326" class="detail">through neural processing</text>
+  <path d="M304 305 H324" class="line"/><path d="M588 305 H608" class="line"/><path d="M872 305 H892" class="line"/>
+
+  <text x="48" y="403" class="route">02 / Retinal projection</text>
+  <text x="660" y="403" class="status">Optical route · requires functioning photoreceptors</text>
+  <g fill="#e9f0f6" stroke="#becedb">
+    <rect x="48" y="421" width="252" height="84" rx="10"/><rect x="332" y="421" width="252" height="84" rx="10"/><rect x="616" y="421" width="252" height="84" rx="10"/><rect x="900" y="421" width="252" height="84" rx="10"/>
+  </g>
+  <text x="174" y="457" class="main">Image signal</text><text x="174" y="484" class="detail">image or selected overlay</text>
+  <text x="458" y="457" class="main">Light source and optics</text><text x="458" y="484" class="detail">direct light into the eye</text>
+  <text x="742" y="457" class="main">Eye and retina</text><text x="742" y="484" class="detail">photoreceptors receive light</text>
+  <text x="1026" y="457" class="main">Visual perception</text><text x="1026" y="484" class="detail">through neural processing</text>
+  <path d="M304 463 H324" class="line"/><path d="M588 463 H608" class="line"/><path d="M872 463 H892" class="line"/>
+
+  <text x="48" y="561" class="route">03 / Electrical visual prosthesis</text>
+  <text x="660" y="561" class="status">Research route · outcomes depend on the study</text>
+  <g fill="#eeeaf3" stroke="#cdc2dc">
+    <rect x="48" y="579" width="252" height="84" rx="10"/><rect x="332" y="579" width="252" height="84" rx="10"/><rect x="616" y="579" width="252" height="84" rx="10"/><rect x="900" y="579" width="252" height="84" rx="10"/>
+  </g>
+  <text x="174" y="615" class="main">Encoded pattern</text><text x="174" y="642" class="detail">mapped to device output</text>
+  <text x="458" y="615" class="main">Electrode interface</text><text x="458" y="642" class="detail">electrical input to tissue</text>
+  <text x="742" y="615" class="main">Retina or visual cortex</text><text x="742" y="642" class="detail">different points of entry</text>
+  <text x="1026" y="615" class="main">Reported percepts</text><text x="1026" y="642" class="detail">experiment-specific results</text>
+  <path d="M304 621 H324" class="line"/><path d="M588 621 H608" class="line"/><path d="M872 621 H892" class="line"/>
+
+  <text x="48" y="719" class="route">04 / Sensory substitution</text>
+  <text x="660" y="719" class="status">Researched approach · cue designs vary</text>
+  <g fill="#f4eddd" stroke="#d9cdac">
+    <rect x="48" y="737" width="252" height="84" rx="10"/><rect x="332" y="737" width="252" height="84" rx="10"/><rect x="616" y="737" width="252" height="84" rx="10"/><rect x="900" y="737" width="252" height="84" rx="10"/>
+  </g>
+  <text x="174" y="773" class="main">Selected information</text><text x="174" y="800" class="detail">spatial features or cues</text>
+  <text x="458" y="773" class="main">Speaker or actuator</text><text x="458" y="800" class="detail">sound or tactile output</text>
+  <text x="742" y="773" class="main">Hearing or touch</text><text x="742" y="800" class="detail">another sensory channel</text>
+  <text x="1026" y="773" class="main">Learned interpretation</text><text x="1026" y="800" class="detail">task usefulness is evaluated</text>
+  <path d="M304 779 H324" class="line"/><path d="M588 779 H608" class="line"/><path d="M872 779 H892" class="line"/>
+
+  <path d="M48 855 H1152" stroke="#cbd3cf"/>
+  <text x="48" y="887" class="note">Schematic routes omit feedback, parallel circuits, and many intermediate conversions.</text>
+  <text x="48" y="916" class="note">A working component does not establish a complete interface. These rows are not a maturity ranking.</text>
+</svg>

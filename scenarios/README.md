@@ -3,6 +3,18 @@
 This index collects the encyclopedia's proposed routes from normal display
 technology through speculative perception and memory concepts.
 
+**[Book home](../README.md) · [Contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)**
+
+The index contains 57 numbered scenarios: 24 articles, 32 short entries,
+and one cross-reference. A **linked title** opens an existing
+article; an **unlinked title** is currently a short index entry awaiting a
+dedicated article. Scenario 51 cross-references scenario 18 because both
+describe cortical shape tracing; its number is retained for continuity.
+
+Status describes the claim in this book, not commercial availability.
+**Proposed** means no working implementation is documented for that concept.
+Research on a component does not establish the complete interface.
+
 ## How To Read A Scenario
 
 Each scenario should be judged by seven questions:
@@ -14,7 +26,7 @@ Each scenario should be judged by seven questions:
 | What is the transducer? | Every serious proposal needs a conversion mechanism. |
 | How is it addressed? | A visual system needs spatial or semantic targeting, not just stimulation. |
 | What does the user perceive? | Phosphene, cue, symbol, shape, scene, label, or memory prompt. |
-| What is the evidence level? | Established, research, prototype, speculative, or frontier. |
+| What is the evidence level? | Established, research, proposed, speculative, or frontier. |
 | What middle layer is removed? | Screen, pixel grid, frame stream, photorealism, passive viewing, or universal mapping may not be necessary. |
 
 Speculative and frontier scenarios are encouraged. Those labels are not
@@ -32,7 +44,7 @@ section.
 | 05 | MicroLED Photon Array | Established | External screen | Microscopic LEDs form a dense emitter field. |
 | 06 | [Retinal Projection](06-retinal-projection.md) | Research | Eye/retina | Optics project images onto the retina. |
 | 07 | Retinal Scanner | Research | Eye/retina | A scanned beam paints the retina. |
-| 08 | Retinal Waveguide | Prototype | Eye/retina | Wearable optics route display light into the eye. |
+| 08 | Retinal Waveguide | Proposed | Eye/retina | Wearable optics route display light into the eye. |
 | 09 | Retinal Holograph | Speculative | Eye/retina | Phase-controlled light forms structured retinal patterns. |
 | 10 | Virtual Phosphor | Speculative | Transducer layer | A temporary conversion layer replaces a fixed screen. |
 | 11 | Photoreceptor Interface | Research | Retina | Input targets natural or restored light-sensitive cells. |
@@ -51,35 +63,35 @@ section.
 | 24 | [Magnetic Phosphene System](24-magnetic-phosphene-system.md) | Research | Visual cortex | Time-varying magnetic fields evoke visual sensations. |
 | 25 | Spatial Magnetic Array | Speculative | Neural tissue | Multiple fields attempt spatial targeting. |
 | 26 | RF-To-Transducer-To-Neural | Speculative | Local receiver | RF powers or commands a local converter. |
-| 27 | [Focused-Ultrasound Vision Interface](27-focused-ultrasound-vision-interface.md) | Research | Visual cortex | Acoustic focus modulates visual regions. |
+| 27 | [Focused-Ultrasound Vision Interface](27-focused-ultrasound-vision-interface.md) | Research on stimulation; speculative display | Visual cortex | Acoustic focus modulates visual regions. |
 | 28 | Acoustic Hologram | Speculative | Neural tissue | Interference patterns create spatial acoustic stimulation. |
-| 29 | [RF-Powered Local Transducer](29-rf-powered-local-transducer.md) | Speculative | Implanted receiver | A local device converts wireless energy into safe output. |
+| 29 | [RF-Powered Local Transducer](29-rf-powered-local-transducer.md) | Speculative | Implanted receiver | A local device converts wireless energy into output; safety remains to be demonstrated. |
 | 30 | Magnetic-To-Local Conversion | Speculative | Implanted converter | Magnetic influence is converted locally into another signal. |
 | 31 | [Perceptual Compression Display](31-perceptual-compression-display.md) | Speculative | Perception | Only task-relevant visual features are sent. |
 | 32 | [Predictive-Coding Display](32-predictive-coding-display.md) | Speculative | Perception | Cues nudge prediction instead of rendering everything. |
 | 33 | Neural Texture Engine | Speculative | Perception | Surface, motion, or texture percepts are evoked. |
 | 34 | [Semantic Visual Interface](34-semantic-visual-interface.md) | Speculative | Cognition/perception | Meaning is transmitted instead of photoreal imagery. |
 | 35 | [Brain-As-Renderer](35-brain-as-renderer.md) | Frontier | Whole perceptual system | Sparse cues rely on the brain to reconstruct a scene. |
-| 36 | AI Scene Compressor | Prototype | Assistive interface | Computer vision selects the most useful cues. |
+| 36 | AI Scene Compressor | Proposed | Assistive interface | Computer vision selects the most useful cues. |
 | 37 | [Scene Skeleton](37-scene-skeleton.md) | Speculative | Assistive interface | The world is represented as a sparse spatial graph. |
-| 38 | Depth-First Vision | Prototype | Assistive interface | Depth and collision risk outrank color and texture. |
+| 38 | Depth-First Vision | Proposed | Assistive interface | Depth and collision risk outrank color and texture. |
 | 39 | [Phosphene Font](39-phosphene-font.md) | Research/speculative | Retina/cortex | A learned alphabet of light-like symbols. |
 | 40 | [Audio-Visual Substitution](40-audio-visual-substitution.md) | Research | Hearing | Visual data becomes sound. |
 | 41 | [Tactile-Visual Substitution](41-tactile-visual-substitution.md) | Research | Touch | Visual data becomes pressure or vibration. |
 | 42 | Multisensory Display | Speculative | Multiple senses | Different channels carry different scene features. |
-| 43 | Cross-Modal HUD | Prototype | Wearable senses | Visual, audio, and tactile cues form one interface. |
-| 44 | Virtual Cane Display | Prototype | Wearable senses | Near-field obstacles become simple cues. |
+| 43 | Cross-Modal HUD | Proposed | Wearable senses | Visual, audio, and tactile cues form one interface. |
+| 44 | Virtual Cane Display | Proposed | Wearable senses | Near-field obstacles become simple cues. |
 | 45 | [Neural Scanning Interface](45-neural-scanning-interface.md) | Speculative | Retina/cortex | A neural target is scanned over time. |
 | 46 | Temporal Multiplexing | Speculative | Neural tissue | One channel updates many perceptual sites sequentially. |
 | 47 | Spike-Timing Display | Speculative | Neural code | Fine timing carries information. |
 | 48 | Population-Code Display | Speculative | Neural population | Distributed activation patterns carry information. |
 | 49 | [Oscillatory Display](49-oscillatory-display.md) | Speculative | Brain rhythms | Phase or rhythm becomes part of encoding. |
-| 50 | [Event-Based Vision Stream](50-event-based-vision-stream.md) | Prototype | Assistive/neural interface | Only changes and motion updates are transmitted. |
-| 51 | Cortical Shape Tracing | Research | Visual cortex | Sequential cortical stimulation creates form percepts. |
+| 50 | [Event-Based Vision Stream](50-event-based-vision-stream.md) | Proposed | Assistive/neural interface | Sensor brightness-change events are processed into selected user cues. |
+| 51 | [Cortical Shape Tracing — see 18](18-cortical-form-tracing.md) | Research | Visual cortex | Sequential cortical stimulation creates form percepts. |
 | 52 | Percept-To-Memory | Established concept | Memory formation | Experience can become memory through normal cognition. |
 | 53 | Memory Cue Interface | Research concept | Recall support | Cues help reconstruct memories. |
 | 54 | [Associative Reconstruction](54-associative-reconstruction.md) | Research concept | Recall support | Memory is rebuilt from fragments and context. |
-| 55 | [Dream Rehearsal Notebook](55-dream-rehearsal-notebook.md) | Prototype | Voluntary recall | Images and narration strengthen later recall. |
+| 55 | [Dream Rehearsal Notebook](55-dream-rehearsal-notebook.md) | Proposed | Voluntary recall | Images and narration are proposed as recall prompts; benefit requires evaluation. |
 | 56 | [Memory-State Interface](56-memory-state-interface.md) | Frontier | Memory systems | Rich direct memory writing is not established, but the concept can be decomposed. |
 | 57 | [Conceptual Injection](57-conceptual-injection.md) | Frontier | Memory systems | Remote arbitrary memory insertion is a far-edge idea for testing assumptions. |
 
@@ -108,8 +120,10 @@ section.
 - Transducer:
 - Encoding style:
 - Addressing method:
-- Expected percept:
-- Evidence level:
+- Intended output or percept:
+- Reported percept or measured outcome:
+- Evidence level and study scope:
+- Last source check:
 - Main limitations:
 - Safety and ethics:
 - Sources:

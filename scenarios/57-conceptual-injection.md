@@ -1,5 +1,7 @@
 # 57. Conceptual Injection
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Frontier
 - Interface point: Perception, cognition, and memory
 - Carrier: Undefined in the wild version; ordinary cues in grounded versions

@@ -1,5 +1,7 @@
 # 31. Perceptual Compression Display
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Speculative
 - Interface point: Perception or assistive interface
 - Carrier: Any usable sensory or neural channel
@@ -61,4 +63,3 @@ scene
 - Can users become fluent in a compressed visual language?
 - Which middle layer is being removed: pixel grid, frame stream, screen, or
   photorealism?
-

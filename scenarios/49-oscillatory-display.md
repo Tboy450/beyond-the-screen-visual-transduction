@@ -1,5 +1,7 @@
 # 49. Oscillatory Display
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Speculative
 - Interface point: Neural timing and attention
 - Carrier: Rhythmic sensory, prosthetic, or neural cue
@@ -47,4 +49,3 @@ feature
 - Can timing reduce visual or tactile clutter?
 - Can rhythm create object grouping from sparse cues?
 - When does rhythmic coding become annoying or fatiguing?
-

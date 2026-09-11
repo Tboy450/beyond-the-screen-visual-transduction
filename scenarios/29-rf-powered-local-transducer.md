@@ -1,5 +1,7 @@
 # 29. RF-Powered Local Transducer
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Speculative
 - Interface point: Local wearable or implanted receiver
 - Carrier: Radio-frequency power or data link
@@ -60,4 +62,3 @@ The cited work demonstrated magnetoelectric neuromodulation in injected mice for
 reward and motor behavior. It is a grounding example for local magnetic-to-
 electric conversion, not evidence of a visual interface, human use, or an
 implant-free route.
-

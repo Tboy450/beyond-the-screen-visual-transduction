@@ -1,5 +1,7 @@
 # 45. Neural Scanning Interface
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Frontier
 - Interface point: Retina, optic nerve, or visual cortex
 - Carrier: Depends on future interface

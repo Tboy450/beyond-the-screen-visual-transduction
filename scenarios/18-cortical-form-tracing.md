@@ -1,5 +1,7 @@
 # 18. Cortical Form Tracing
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Visual cortex
 - Carrier: Electrical stimulation in research/clinical settings
@@ -25,6 +27,15 @@ shape
 -> dynamic phosphene pattern
 -> perceived form
 ```
+
+## Evidence and Its Scope
+
+[Beauchamp et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/32413298/) reported
+recognition of letter-like forms in sighted and blind participants when
+electrodes were stimulated in a dynamic sequence. The finding supports
+form perception for the tested stimulation patterns. It does not establish
+naturalistic scene vision or show that arbitrary shapes will work equally
+well. The icon and navigation ideas below are proposed extensions.
 
 ## Why It Is Important
 

@@ -1,5 +1,7 @@
 # 09. Perceptual Rendering
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 Perceptual rendering asks whether a system must reproduce an image, or whether
 it can create useful perception by encoding a smaller set of features.
 
@@ -110,3 +112,6 @@ For concrete safe prototype directions, see
 - [07. Visual Pathway](07-visual-pathway.md)
 - [10. Memory Branch](10-memory-branch.md)
 
+---
+
+[Previous chapter](08-neural-interfaces.md) · [Contents](../CONTENTS.md) · [Next chapter](10-memory-branch.md)

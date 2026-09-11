@@ -1,5 +1,7 @@
 # 08. Neural Interfaces
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 Neural interfaces try to introduce information into the nervous system directly
 or indirectly. In this encyclopedia they are organized by interface point,
 carrier, and evidence level.
@@ -66,3 +68,7 @@ might support.
 - [06. Retina](06-retina.md)
 - [07. Visual Pathway](07-visual-pathway.md)
 - [11. Safety And Ethics](11-safety-and-ethics.md)
+
+---
+
+[Previous chapter](07-visual-pathway.md) · [Contents](../CONTENTS.md) · [Next chapter](09-perceptual-rendering.md)
