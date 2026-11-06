@@ -94,7 +94,7 @@ learn to interpret.
 | Ultraviolet | Can excite phosphors | Hazardous to tissue and not a normal vision route. |
 | Electric current | Electrode-based stimulation | Requires contact or implanted interfaces for precision. |
 | Magnetic field | Can induce neural effects | Noninvasive but spatially coarse compared with implants. |
-| RF/microwave | Field-based energy carrier | Not a magic visual channel; would need a plausible transducer. |
+| RF/microwave | Field-based energy carrier | The route to a percept depends on the receiving and conversion mechanism. |
 | Ultrasound | Acoustic pressure carrier | Can be focused, but neural effects and safety remain research topics. |
 | Chemical/molecular state | Biological transduction route | Slow compared with display refresh; relevant to optogenetics and biology. |
 | Neural spikes | Native nervous-system carrier | The brain's own signaling format, not a simple pixel bus. |
@@ -387,6 +387,14 @@ here because the brain is not a video recorder.
 - Remote-field ideas need clear physical mechanisms and strong safety limits.
 - Memory-level claims should be decomposed into cueing, imagery, recall,
   consolidation, and direct-write hypotheses.
+
+## Research Programs and Their Open Questions
+
+[Nimbus, NIMBUS, N³, and NESD](DARPA_RESEARCH_CONTEXT.md) connect the
+carrier and transducer questions to specific research programs, a published
+microsystem result, and proposed neural-interface architectures. The entry
+also asks which apparent limits belong to a material, a device arrangement,
+an encoding, or the way perception is measured.
 
 ## Continue Reading
 

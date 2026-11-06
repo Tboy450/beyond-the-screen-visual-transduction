@@ -7,15 +7,34 @@ principle, a reported observation, an interpretation, and an imagined system.
 The status at the top is a starting point. Each substantial claim still needs
 its own scope and source.
 
+## Question the Evidence and the Verdict
+
+The purpose of scrutiny is to make an idea more exact. Develop its strongest
+mechanism, follow the observations that support it, and compare the competing
+explanations. The same questions apply to an official program description,
+a familiar theory, an unusual perception concept, and a claim that a
+mechanism is impossible.
+
+“Not demonstrated in this record” leaves a question open. To argue that an
+idea cannot work, identify the physical constraint, logical contradiction,
+or evidence that supports that conclusion. To argue that it does work,
+identify the observation and how it distinguishes the proposed explanation.
+Neither confidence nor institutional authority supplies the missing step.
+
+For perception, attend to the experience as well as task performance:
+reported quality, structure, stability, learning, and the conditions under
+which it changes. A useful cue and a novel percept can raise different
+questions. Avoid deciding in advance which kind of result is worth studying.
+
 ## Status and Scope
 
-| Label | Use it when… | Do not infer… |
+| Label | What the record contains | Question to pursue |
 | --- | --- | --- |
-| Established | The stated principle or capability has a well-supported basis. | Every application of it will work. |
-| Research | A relevant investigation is cited and its actual result is described. | Routine availability, general effectiveness, or a complete product. |
-| Proposed | The entry describes a design without documenting a working implementation. | That a prototype has been built or evaluated. |
-| Speculative | Essential mechanisms, addressing, integration, or perceptual outcomes remain unresolved. | That familiar components establish the proposed combination. |
-| Frontier | The entry explores a possibility with major unresolved scientific premises. | Demonstrated capability or an inevitable future development. |
+| Established | A well-supported principle or capability within specified conditions. | Which assumptions matter when the conditions change? |
+| Research | A cited investigation with a described result. | What explains the result, and how far does it extend? |
+| Proposed | A design whose implementation is not documented in this entry. | Which part could be built or modeled first? |
+| Speculative | An architecture with unresolved conversion, integration, or perceptual steps. | What mechanism could connect those steps? |
+| Frontier | An exploratory premise with substantial open scientific questions. | Which observation would make competing accounts distinguishable? |
 
 These categories are editorial aids, not a linear maturity scale. A page may
 need a mixed description, such as “research on stimulation; speculative as a
@@ -39,6 +58,14 @@ systematic review or a statement that these are the latest results.
 | [Cortical Form Tracing](../scenarios/18-cortical-form-tracing.md) — [Beauchamp et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32413298/) | Sighted and blind participants recognized letter-like forms produced with dynamic cortical stimulation. | Unrestricted scene vision or a general-purpose neural video display. |
 | [Focused Ultrasound](../scenarios/27-focused-ultrasound-vision-interface.md) — [Lee et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27658372/) | Visual-cortex stimulation was associated with reported phosphenes and measured brain responses. | An addressable image display or established long-term reliability and safety. |
 | [Event-Based Vision Stream](../scenarios/50-event-based-vision-stream.md) — [Delbruck et al., 2021](https://arxiv.org/abs/2105.00409) | Event-camera control was evaluated using event rate and noise. | Object recognition, useful sensory substitution, or restored vision. |
+
+## Program Records and Outcomes
+
+A program's stated aim, a funded design, a component experiment, and an
+integrated result belong at different points in the record. Read the
+[DARPA research entry](../DARPA_RESEARCH_CONTEXT.md) for examples involving
+NIMBUS, N³, and NESD. It follows the technical questions raised by the
+programs while treating their public descriptions as claims to examine.
 
 ## Reading Across Levels
 

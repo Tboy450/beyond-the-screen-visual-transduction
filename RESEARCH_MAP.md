@@ -382,3 +382,20 @@ evidence.
 
 For the full chapter, see
 [Air Loom, Schizophrenia, And Influence Machines](modules/16-air-loom-schizophrenia-and-influence-machines.md).
+
+
+## 12. DARPA Programs: Conversion, Resonance, and Neural Interfaces
+
+The [DARPA research entry](DARPA_RESEARCH_CONTEXT.md) distinguishes lightning
+Nimbus from NIMBUS microsystems, then follows N³ and NESD into neural
+conversion and sensory encoding. It places a published NIMBUS result beside
+the program's stated ambitions and separates announced interface designs
+from their potential extensions in this encyclopedia.
+
+### Expansion Questions
+
+- Which apparent material limits depend on the selected geometry or mode?
+- Can a local converter supply selectivity that an external carrier lacks?
+- How could learning change the effective vocabulary of a neural interface?
+- What would distinguish richer experience from improved task performance?
+- Which source actually supports a claimed capability or a claimed limit?

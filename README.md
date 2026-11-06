@@ -46,8 +46,7 @@ pieces in a proposed technology.
 
 The current manuscript contains **17 chapter files and 57 indexed scenarios**:
 24 scenario articles, 32 short entries awaiting articles, and one cross-reference.
-The
-[scenario index](scenarios/README.md) identifies linked articles and short
+The [scenario index](scenarios/README.md) identifies linked articles and short
 entries; the book remains a work in progress.
 
 ## Ways to Read
@@ -56,8 +55,9 @@ entries; the book remains a work in progress.
   read the foundation chapters in order. Terms link back to the glossary.
 - **Looking up a technology:** use the [scenario index](scenarios/README.md) or
   [condensed overview](OVERVIEW.md).
-- **Comparing ideas:** consult the [concept atlas](CONCEPT_ATLAS.md) and
-  [research map](RESEARCH_MAP.md).
+- **Comparing ideas:** consult the [concept atlas](CONCEPT_ATLAS.md),
+  [research map](RESEARCH_MAP.md), and
+  [DARPA research context: Nimbus, NIMBUS, N³, and NESD](DARPA_RESEARCH_CONTEXT.md).
 - **Exploring possibilities:** visit the [speculative sandbox](SPECULATIVE_SANDBOX.md),
   [hypothesis registry](HYPOTHESIS_REGISTRY.md), and [project tracks](PROJECT_TRACKS.md).
 
@@ -71,20 +71,21 @@ entries; the book remains a work in progress.
 | Speculative | An architecture whose essential mechanism or integration remains unresolved. |
 | Frontier | An exploratory idea with major gaps between its premise and demonstrated capability. |
 
-These labels describe claims, not a ranking of imagination or usefulness.
-A demonstrated component does not establish the whole system built around it.
-The [evidence guide](sources/evidence-guide.md) gives examples and explains
-how proposals become stronger entries. Earlier drafts used “Prototype” for
+These labels locate the present argument. They leave room for an idea to be
+grounded at one stage and exploratory at another. An unresolved step is a
+research question; a claimed limit also needs an explanation. The
+[evidence guide](sources/evidence-guide.md) applies that scrutiny to proposals,
+official accounts, and skeptical conclusions alike. Earlier drafts used “Prototype” for
 some concepts; these are now labeled “Proposed” where no implementation is
 documented.
 
 ## Scope and Sources
 
 This is an encyclopedia-style manuscript maintained as linked text. It is
-intended for reading, comparison, and conceptual exploration. Its clinical
-chapters describe research at an explanatory level; its
-[ethics chapter](modules/11-safety-and-ethics.md) sets the boundaries for
-interventions involving the eye, nervous system, or memory.
+intended for reading, comparison, and conceptual exploration. Its
+[ethics chapter](modules/11-safety-and-ethics.md) examines consent, control,
+and the responsibilities that accompany interventions involving perception
+and memory.
 
 The [bibliography](sources/bibliography.md) and
 [annotated research notes](sources/annotated-research-notes.md) provide the

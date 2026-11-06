@@ -8,7 +8,7 @@ carrier, and evidence level.
 
 ## Interface Families
 
-| Family | Target | Status | Typical Percept |
+| Family | Target | Status | Reported Outcome |
 | --- | --- | --- | --- |
 | Retinal prosthesis | Retina | Research | Spots, light patterns, crude form cues. |
 | Optogenetic visual therapy | Modified retinal cells | Research | Partial restored visual behavior with special goggles. |
@@ -16,7 +16,7 @@ carrier, and evidence level.
 | Cortical visual prosthesis | Visual cortex | Research | Phosphenes and traced forms. |
 | TMS | Cortex via magnetic induction | Research | Phosphenes under some conditions. |
 | Focused ultrasound | Brain tissue | Research | Modulation or phosphene reports in studies. |
-| Sensory substitution | Touch or hearing | Research | Learned spatial interpretation, not direct sight. |
+| Sensory substitution | Touch or hearing | Research | Spatial judgments and learned percepts through another sensory channel. |
 
 ## Why "Neural Pixels" Are Difficult
 
@@ -28,9 +28,9 @@ carrier, and evidence level.
 - Perception depends on state, attention, and learning.
 - Natural vision is processed before it becomes conscious.
 
-## More Plausible Engineering Direction
+## One Engineering Route to Test
 
-The most realistic path is layered:
+A layered design gives us several places to compare alternatives:
 
 ```text
 sensors
@@ -41,7 +41,18 @@ sensors
 -> feedback and recalibration
 ```
 
-This is less dramatic than "uploading images," but far more coherent.
+Sparse cues, traced forms, and richer imagery make different demands on
+that chain. Compare them through their encoding, the reported experience,
+and how each changes with learning. The best representation may depend on
+the person and the question being investigated.
+
+## DARPA's Interface Approaches
+
+[N³ and NESD](../DARPA_RESEARCH_CONTEXT.md) provide concrete architectures
+to compare with this chapter: local transducers, combined fields, cortical
+electronics, and optical interfaces. The useful questions concern where
+conversion occurs, how a target is selected, and how input could become
+a learnable or recognizable experience.
 
 ## Creative Concepts
 

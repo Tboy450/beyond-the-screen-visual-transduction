@@ -53,9 +53,9 @@ renaming existing chapters or breaking their links.
 - [Historical Context: Display and Sensory Transduction](HISTORICAL_CONTEXT.md)
 - [16. Air Loom, Schizophrenia, and Influence Machines](modules/16-air-loom-schizophrenia-and-influence-machines.md)
 
-The historical material examines technologies, documents, and interpretations.
-Read it alongside its sources rather than as a technical continuation of a
-speculative interface.
+The historical material asks how technologies, political circumstances,
+institutional judgments, and accounts of experience shape one another.
+Follow the documents closely enough to question each interpretation.
 
 ## Part VI. Reference Atlas
 
@@ -64,6 +64,7 @@ speculative interface.
 | [Scenario index](scenarios/README.md) | Browse all 57 numbered routes and find the articles already written. |
 | [Glossary](GLOSSARY.md) | Look up technical vocabulary. |
 | [Research map](RESEARCH_MAP.md) | Locate the research areas behind an idea. |
+| [DARPA research context](DARPA_RESEARCH_CONTEXT.md) | Distinguish the two Nimbus efforts and examine N³, NESD, and their implications for perception concepts. |
 | [Concept atlas](CONCEPT_ATLAS.md) | Compare carriers, targets, and representations. |
 | [Hypothesis registry](HYPOTHESIS_REGISTRY.md) | Turn a broad possibility into a question with conditions. |
 | [Speculative sandbox](SPECULATIVE_SANDBOX.md) | Explore imaginative architectures with explicit gaps. |

@@ -227,3 +227,30 @@ selected claim-to-source comparisons.
   https://www.nature.com/articles/nrn2787
 - Clark and Chalmers, "The Extended Mind":
   https://doi.org/10.1093/analys/58.1.7
+
+
+## DARPA Programs and Microsystem Research
+
+Public descriptions and selected results checked on 6 November 2026.
+See the [program comparison](../DARPA_RESEARCH_CONTEXT.md) and
+[source notes](annotated-research-notes.md#darpa-program-records-and-results).
+
+- DARPA, [Nimbus](https://www.darpa.mil/research/programs/nimbus).
+  Archived lightning-research program description.
+- DARPA, [NIMBUS: Nimble Ultrafast Microsystems](https://www.darpa.mil/research/programs/nimble-ultrafast-microsystems).
+  Program opportunity description.
+- DARPA, [HALOVS](https://www.darpa.mil/research/programs/halovs).
+  Portfolio context for NIMBUS and other vibratory-sensor programs.
+- DARPA, [NIMBUS FAQ, dated 13 December 2024](https://www.darpa.mil/sites/default/files/attachment/2024-12/nimbus-faq-12-19-24.pdf).
+  Clarifications of scope, metrics, and material-dependent limits.
+- Kaya, O., Pantuso, N. S., Galli, M., et al. (2026),
+  [“Toward Enhanced Inertial Sensing via Dynamically Soft Topological States in Piezoelectric Microacoustic Metamaterials”](https://doi.org/10.1002/adfm.76905).
+  *Advanced Functional Materials* 36(62), e76905. Primary experimental paper.
+- DARPA, [Next-Generation Nonsurgical Neurotechnology (N³)](https://www.darpa.mil/research/programs/next-generation-nonsurgical-neurotechnology).
+  Archived program description and objectives.
+- DARPA, [“Six Paths to the Nonsurgical Future of Brain-Machine Interfaces”](https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces),
+  20 May 2019. Announced team architectures.
+- DARPA, [Neural Engineering System Design (NESD)](https://www.darpa.mil/research/programs/neural-engineering-system-design).
+  Archived program description and objectives.
+- DARPA, [“Towards a High-Resolution, Implantable Neural Interface”](https://www.darpa.mil/news/2017/mplantable-neural-interface),
+  10 July 2017. Announced team architectures and sensory focus.
