@@ -16,6 +16,8 @@ would need to be discovered.
 
 **[Start reading](INTRODUCTION.md) · [Full contents](CONTENTS.md) · [Browse entries](scenarios/README.md) · [Glossary](GLOSSARY.md)**
 
+For the author: [changes saved for later review](REVIEW_README.md).
+
 ## The Central Question
 
 > How can useful visual information reach a person when we change the screen,
