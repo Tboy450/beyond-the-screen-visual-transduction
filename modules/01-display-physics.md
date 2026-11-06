@@ -1,5 +1,7 @@
 # 01. Display Physics
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 Display technologies are different answers to one question: how can electrical
 information become a controlled field of light?
 
@@ -17,7 +19,8 @@ information become a controlled field of light?
 
 ## Emission Versus Modulation
 
-Displays either make light or control light that already exists.
+Displays make light, control existing light, or combine both. The categories
+below overlap: a CRT is both emissive and scanned, for example.
 
 | Mode | Examples | Implication |
 | --- | --- | --- |
@@ -52,6 +55,10 @@ safe, addressable, learnable conversion layer.
 
 ## Display-To-Biology Translation Table
 
+These are design analogies, not interchangeable physical quantities. A
+phosphene is not guaranteed to act as an independently addressable pixel,
+and confidence is not a measure of brightness.
+
 | Display Concept | Biological Analogue |
 | --- | --- |
 | Pixel | Phosphene, receptive field, feature unit, or learned symbol. |
@@ -77,3 +84,7 @@ safe, addressable, learnable conversion layer.
 - [04. Transducers](04-transducers.md)
 - [05. Eye Optics](05-eye-optics.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
+
+---
+
+[Previous chapter](00-display-transduction-foundations.md) · [Contents](../CONTENTS.md) · [Next chapter](02-signal-encoding.md)

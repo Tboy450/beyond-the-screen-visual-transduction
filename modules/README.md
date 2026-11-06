@@ -2,6 +2,11 @@
 
 These chapters explain the encyclopedia's major knowledge areas.
 
+[Book home](../README.md) · [Full contents by part](../CONTENTS.md) · [Introduction](../INTRODUCTION.md)
+
+Read in order using the previous and next links on each chapter, or choose a
+subject below.
+
 | Module | Page |
 | --- | --- |
 | 00 | [Display Transduction Foundations](00-display-transduction-foundations.md) |

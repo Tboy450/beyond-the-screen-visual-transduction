@@ -1,5 +1,7 @@
 # 40. Audio-Visual Substitution
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Hearing and learned interpretation
 - Carrier: Sound
@@ -50,4 +52,3 @@ camera
 - Can trained users experience the audio as spatial rather than merely sound?
 - How much detail becomes overwhelming?
 - Can AI labels reduce the learning burden?
-

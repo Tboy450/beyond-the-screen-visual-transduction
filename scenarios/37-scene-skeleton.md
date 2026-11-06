@@ -1,6 +1,8 @@
 # 37. Scene Skeleton
 
-- Status: Speculative/prototype
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
+- Status: Speculative/proposed
 - Interface point: Assistive perception layer
 - Carrier: Visual overlay, audio, tactile cue, or future prosthetic symbol
 - Transducer: Depends on output channel
@@ -51,4 +53,3 @@ sensor input
 - Should the system describe objects or paths first?
 - Can a user build trust without overtrusting the system?
 - How should uncertain regions be represented?
-

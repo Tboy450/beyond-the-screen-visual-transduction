@@ -1,5 +1,7 @@
 # 03. Carriers
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 A carrier is the physical thing that moves information from one place to
 another. The same information can ride on many carriers, but each carrier has
 different constraints.
@@ -33,9 +35,11 @@ is not the same as:
 RF signal -> brain receives image directly
 ```
 
-The first path has a concrete local transducer. The second is usually a vague
-claim unless it specifies a biological mechanism, addressing method, and safety
-model.
+The first path names a local conversion. To develop the second, examine
+the interaction between the field and the biological receiver: what could
+respond selectively, how that response could carry structure, and what
+observation would reveal the resulting percept. The missing conversion
+is the question to work on.
 
 ## Creative Carrier Architectures
 
@@ -48,7 +52,7 @@ model.
 | Multi-carrier redundancy | Vision-like information is split across light, sound, and touch. |
 | Passive environmental tagging | Objects emit or reflect codes that an assistive device translates into cues. |
 
-## Plausibility Filter
+## Questions for a Carrier Proposal
 
 For any carrier-based proposal, ask:
 
@@ -65,3 +69,7 @@ For any carrier-based proposal, ask:
 - [04. Transducers](04-transducers.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
 - [11. Safety And Ethics](11-safety-and-ethics.md)
+
+---
+
+[Previous chapter](02-signal-encoding.md) · [Contents](../CONTENTS.md) · [Next chapter](04-transducers.md)

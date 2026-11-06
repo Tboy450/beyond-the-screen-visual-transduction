@@ -1,5 +1,7 @@
 # 05. Eye Optics
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 The eye is already a precise optical system. Many "screenless" ideas do not
 remove the screen by entering the brain; they move the image source into the
 optical path.
@@ -56,3 +58,7 @@ This turns the eye from a problem into part of the addressing system.
 - [02. Signal Encoding](02-signal-encoding.md)
 - [06. Retina](06-retina.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
+
+---
+
+[Previous chapter](04-transducers.md) · [Contents](../CONTENTS.md) · [Next chapter](06-retina.md)

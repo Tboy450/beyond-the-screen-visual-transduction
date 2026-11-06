@@ -1,5 +1,7 @@
 # 16. Air Loom, Schizophrenia, And Influence Machines
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 The Air Loom case sits at a crossing point between revolutionary politics,
 early psychiatry, conspiracy writing, and machine-mediated explanations of
 influence.
@@ -629,3 +631,7 @@ evidence_strength:
 - U.S. Senate, *Project MKULTRA, the CIA's Program of Research in Behavioral
   Modification*:
   https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf
+
+---
+
+[Previous chapter](15-evaluation-and-modeling.md) · [Contents](../CONTENTS.md) · [Reference atlas](../CONTENTS.md#part-vi-reference-atlas)

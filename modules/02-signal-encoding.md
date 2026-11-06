@@ -1,5 +1,7 @@
 # 02. Signal Encoding
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 Signal encoding is the form visual information takes before it reaches a
 physical display or biological interface.
 
@@ -81,3 +83,7 @@ or tactile cues rather than a normal video image.
 - [08. Neural Interfaces](08-neural-interfaces.md)
 - [09. Perceptual Rendering](09-perceptual-rendering.md)
 - [10. Memory Branch](10-memory-branch.md)
+
+---
+
+[Previous chapter](01-display-physics.md) · [Contents](../CONTENTS.md) · [Next chapter](03-carriers.md)

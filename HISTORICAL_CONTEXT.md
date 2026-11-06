@@ -177,7 +177,7 @@ For any proposed interface, check which layer fails:
 | Addressing | How does the cue reach the right location, sense, or context? |
 | Learning | What does the user practice until the cue becomes fluent? |
 | Safety | How is the idea kept reversible, consent-based, and non-procedural? |
-| Evidence | Is this established, research, prototype, speculative, or frontier? |
+| Evidence | Is this Established, research, proposed, speculative, or frontier? |
 
 If no layer can be named, the idea is probably still metaphor. If the layers
 can be named, it may be an early-stage architecture. That distinction matters.

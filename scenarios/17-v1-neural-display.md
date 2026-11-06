@@ -1,5 +1,7 @@
 # 17. V1 Neural Display
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Primary visual cortex
 - Carrier: Electrical stimulation from implanted electrodes

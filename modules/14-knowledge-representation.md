@@ -1,5 +1,7 @@
 # 14. Knowledge Representation And Provenance
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 The encyclopedia has two audiences: people who need readable explanations and
 systems that need consistent records for retrieval, comparison, model
 development, and analysis. Those needs can coexist without turning every page
@@ -127,3 +129,7 @@ the change is:
 The purpose of structure is traceability. If the record cannot show where a
 statement came from, what kind of statement it is, and what would weaken it,
 the structure is not yet doing useful work.
+
+---
+
+[Previous chapter](13-creative-engineering.md) · [Contents](../CONTENTS.md) · [Next chapter](15-evaluation-and-modeling.md)

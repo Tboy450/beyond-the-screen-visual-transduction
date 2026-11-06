@@ -1,8 +1,10 @@
 # 04. Transducers
 
-A transducer converts information from one physical form into another. A
-phosphor screen is a clear display example: electron impact becomes visible
-light.
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
+A transducer converts a physical input into another form of energy or
+signal. A phosphor screen is a clear display example: electron impact
+becomes visible light. Information can be carried through that conversion.
 
 ## Core Transducer Types
 
@@ -63,12 +65,26 @@ use:
 remote field -> local receiver/transducer -> controlled local signal
 ```
 
-This still does not make the idea easy or safe, but it gives the concept a real
-engineering shape. The hard problems move to implant safety, localization,
-power, heat, biocompatibility, and control.
+The local converter changes where the engineering work happens. Its
+placement, selectivity, power, heat, biological compatibility, and control
+become parts of the mechanism to investigate. N³'s announced transducer
+approaches provide research counterparts to this idea; see the
+[DARPA research entry](../DARPA_RESEARCH_CONTEXT.md).
+
+## When Geometry Changes the Conversion
+
+The [NIMBUS discussion](../DARPA_RESEARCH_CONTEXT.md#nimbus-is-the-limit-in-the-material-or-the-arrangement)
+examines a different question: how a resonator's geometry and vibration mode
+change the response available from a material. This suggests a useful
+comparison for proposed display and tactile elements: which limit belongs
+to the material, which to its arrangement, and which to the way it is driven?
 
 ## Related Entries
 
 - [01. Display Physics](01-display-physics.md)
 - [03. Carriers](03-carriers.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
+
+---
+
+[Previous chapter](03-carriers.md) · [Contents](../CONTENTS.md) · [Next chapter](05-eye-optics.md)

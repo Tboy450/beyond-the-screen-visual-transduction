@@ -504,3 +504,42 @@ frame transparent assistive tools as more than external displays.
 
 Source:
 https://doi.org/10.1093/analys/58.1.7
+
+
+## DARPA Program Records and Results
+
+These notes support [DARPA Research: Nimbus, NIMBUS, and the Missing Middle](../DARPA_RESEARCH_CONTEXT.md).
+Source descriptions were checked on 6 November 2026.
+
+### Nimbus and NIMBUS
+
+The [lightning page](https://www.darpa.mil/research/programs/nimbus) and
+[microsystems page](https://www.darpa.mil/research/programs/nimble-ultrafast-microsystems)
+resolve the reused name. Read the [NIMBUS FAQ](https://www.darpa.mil/sites/default/files/attachment/2024-12/nimbus-faq-12-19-24.pdf),
+especially questions 1, 2, 4, 6, 13, and 19, for how DARPA defines its targets
+and treats alternative materials. The stated benchmarks invite examination
+of their derivation and experimental context.
+
+### Kaya et al.: A Published Microsystem Result
+
+The [2026 paper](https://doi.org/10.1002/adfm.76905) connects NIMBUS funding
+to an experimentally examined structure. Its methods, comparison modes,
+and measurements provide a more specific basis for evaluating a proposed
+transduction improvement than the program title alone. The perception
+extensions in this book are questions developed from that comparison.
+
+### N³: Objectives and Announced Conversions
+
+Read the [program page](https://www.darpa.mil/research/programs/next-generation-nonsurgical-neurotechnology)
+alongside the [2019 team descriptions](https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces).
+The latter names the conversions and device arrangements the teams intended
+to investigate. For any outcome claim, follow the relevant architecture to
+its experiment and measurement.
+
+### NESD: Sensory Encoding and Local Interfaces
+
+The [program objectives](https://www.darpa.mil/research/programs/neural-engineering-system-design)
+and [2017 team announcement](https://www.darpa.mil/news/2017/mplantable-neural-interface)
+provide entry points into electronic, optical, and biological interface
+designs. They help sharpen the book's questions about where a signal becomes
+an effective sensory input and what the receiver contributes.

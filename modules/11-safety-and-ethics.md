@@ -1,5 +1,7 @@
 # 11. Safety And Ethics
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 This encyclopedia includes medical and neurotechnology topics, so every
 speculative idea needs boundaries.
 
@@ -65,3 +67,7 @@ Before adding a speculative page, answer:
 - [03. Carriers](03-carriers.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
 - [10. Memory Branch](10-memory-branch.md)
+
+---
+
+[Previous chapter](10-memory-branch.md) · [Contents](../CONTENTS.md) · [Next chapter](12-gallery.md)

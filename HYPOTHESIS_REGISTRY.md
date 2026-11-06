@@ -14,6 +14,11 @@ does not ask whether an idea is "allowed" to exist. It asks how to sharpen it.
 | H4 | Research Parallel | Resembles active scientific or clinical research. |
 | H5 | Translation Candidate | Could become a practical system if major engineering and evidence gaps close. |
 
+The H-levels describe how a hypothesis is framed and could be investigated.
+They do not certify that a model or prototype exists. A research parallel
+means resemblance, not direct evidence for the hypothesis. Read them with
+the [evidence guide](sources/evidence-guide.md).
+
 ## Core Hypotheses
 
 | ID | Hypothesis | Level | How To Make It Sharper |

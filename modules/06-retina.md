@@ -1,5 +1,7 @@
 # 06. Retina
 
+[Book home](../README.md) · [Contents](../CONTENTS.md) · [Glossary](../GLOSSARY.md)
+
 The retina is a layered neural processor. It is not just film at the back of the
 eye.
 
@@ -8,10 +10,16 @@ eye.
 ```text
 photons
 -> rods and cones
--> bipolar, horizontal, and amacrine cells
+-> bipolar cells
 -> ganglion cells
 -> optic nerve
 ```
+
+The diagram shows a principal feedforward route, not every connection.
+Horizontal and amacrine cells contribute lateral and other circuit
+interactions; some rod pathways also require amacrine cells. They should not
+be read as one interchangeable relay stage. See
+[Purves et al., “The Retina” (2001)](https://www.ncbi.nlm.nih.gov/books/NBK10885/).
 
 ## Layers And Functions
 
@@ -64,3 +72,6 @@ remaining circuitry signals it can use more naturally.
 - [07. Visual Pathway](07-visual-pathway.md)
 - [08. Neural Interfaces](08-neural-interfaces.md)
 
+---
+
+[Previous chapter](05-eye-optics.md) · [Contents](../CONTENTS.md) · [Next chapter](07-visual-pathway.md)

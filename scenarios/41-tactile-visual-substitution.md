@@ -1,5 +1,7 @@
 # 41. Tactile-Visual Substitution
 
+[Scenario index](README.md) · [Book contents](../CONTENTS.md) · [Evidence guide](../sources/evidence-guide.md)
+
 - Status: Research
 - Interface point: Touch
 - Carrier: Pressure, vibration, or electrotactile pattern
@@ -58,4 +60,3 @@ camera
 - Nau et al., "Acquisition of Visual Perception in Blind Adults Using the
   BrainPort Artificial Vision Device":
   https://pmc.ncbi.nlm.nih.gov/articles/PMC4281706/
-
